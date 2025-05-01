@@ -1,0 +1,24 @@
+{
+    "api_key": "e2e4b21591d33ae56c469f57d5569d2f-e10ec75c62d272d5f27aa294a5b55fca",
+    "account_id": "001-001-13604949-002",
+    "practice_mode": false,
+    "check_interval": 3,
+    "min_profit_threshold": 0.001,
+    "max_runtime": null,
+    "max_consecutive_losses": 3,
+    "daily_loss_limit_pct": 0.05,
+    "currencies_to_monitor": ["USD", "EUR", "GBP", "JPY", "AUD", "CAD", "CHF", "NZD"],
+    "risk_per_trade": {
+        "small_account": 0.01,
+        "medium_account": 0.02,
+        "large_account": 0.03
+    },
+    "session_multipliers": {
+        "london_ny_overlap": 1.2,
+        "tokyo_london_overlap": 1.1,
+        "london": 1.0,
+        "new_york": 1.0,
+        "tokyo": 0.8,
+        "low_liquidity": 0.5
+    }
+}

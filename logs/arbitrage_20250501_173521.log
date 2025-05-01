@@ -1,0 +1,1143 @@
+2025-05-01 17:35:21,176 - ArbitrageTrader - INFO - Logging initialized at 20250501_173521
+2025-05-01 17:35:21,176 - ArbitrageTrader - INFO - Log file: ./logs/arbitrage_20250501_173521.log
+2025-05-01 17:35:21,176 - ArbitrageTrader - INFO - Loaded configuration from config.json
+2025-05-01 17:35:21,176 - ArbitrageTrader - INFO - OANDA Arbitrage Trading System
+2025-05-01 17:35:21,176 - ArbitrageTrader - INFO - ----------------------------------------
+2025-05-01 17:35:21,176 - ArbitrageTrader - INFO - Starting time: 2025-05-01 17:35:21.176547
+2025-05-01 17:35:21,176 - ArbitrageTrader - INFO - Mode: Live trading
+2025-05-01 17:35:21,176 - ArbitrageTrader - INFO - Environment: Practice
+2025-05-01 17:35:21,176 - ArbitrageTrader - INFO - Check interval: 3 seconds
+2025-05-01 17:35:21,176 - ArbitrageTrader - INFO - ----------------------------------------
+2025-05-01 17:35:21,299 - ArbitrageTrader - ERROR - Failed to get account balance: 400, {"errorMessage":"Invalid value specified for 'accountID'"}
+2025-05-01 17:35:21,355 - ArbitrageTrader - ERROR - Failed to get instruments: 400, {"errorMessage":"Invalid value specified for 'accountID'"}
+2025-05-01 17:35:21,356 - ArbitrageTrader - INFO - Found 0 unique currencies
+2025-05-01 17:35:21,356 - ArbitrageTrader - INFO - OANDA Arbitrage Trader initialized in practice mode
+2025-05-01 17:35:21,356 - ArbitrageTrader - INFO - Account ID: issayazawa79@gmail.com
+2025-05-01 17:35:21,356 - ArbitrageTrader - INFO - Starting balance: 10000.0
+2025-05-01 17:35:21,356 - ArbitrageTrader - INFO - Monitoring 0 valid currency pairs
+2025-05-01 17:35:21,356 - ArbitrageTrader - INFO - Starting arbitrage trading system with check interval 3s
+2025-05-01 17:35:21,422 - ArbitrageTrader - ERROR - Failed to get account balance: 400, {"errorMessage":"Invalid value specified for 'accountID'"}
+2025-05-01 17:35:21,422 - ArbitrageTrader - INFO - Initial account balance: 10000.0
+2025-05-01 17:35:21,422 - ArbitrageTrader - INFO - LIVE MODE: Executing real trades
+2025-05-01 17:35:21,422 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:35:21,424 - ArbitrageTrader - INFO - Updated 0 exchange rates
+2025-05-01 17:35:21,550 - ArbitrageTrader - ERROR - Failed to get account balance: 400, {"errorMessage":"Invalid value specified for 'accountID'"}
+2025-05-01 17:35:21,551 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-01 17:35:24,555 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:35:24,556 - ArbitrageTrader - INFO - Updated 0 exchange rates
+2025-05-01 17:35:24,635 - ArbitrageTrader - ERROR - Failed to get account balance: 400, {"errorMessage":"Invalid value specified for 'accountID'"}
+2025-05-01 17:35:24,636 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-01 17:35:27,637 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:35:27,638 - ArbitrageTrader - INFO - Updated 0 exchange rates
+2025-05-01 17:35:27,719 - ArbitrageTrader - ERROR - Failed to get account balance: 400, {"errorMessage":"Invalid value specified for 'accountID'"}
+2025-05-01 17:35:27,720 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-01 17:35:30,723 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:35:30,724 - ArbitrageTrader - INFO - Updated 0 exchange rates
+2025-05-01 17:35:30,838 - ArbitrageTrader - ERROR - Failed to get account balance: 400, {"errorMessage":"Invalid value specified for 'accountID'"}
+2025-05-01 17:35:30,838 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-01 17:35:33,844 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:35:33,845 - ArbitrageTrader - INFO - Updated 0 exchange rates
+2025-05-01 17:35:33,927 - ArbitrageTrader - ERROR - Failed to get account balance: 400, {"errorMessage":"Invalid value specified for 'accountID'"}
+2025-05-01 17:35:33,928 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-01 17:35:36,933 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:35:36,933 - ArbitrageTrader - INFO - Updated 0 exchange rates
+2025-05-01 17:35:37,006 - ArbitrageTrader - ERROR - Failed to get account balance: 400, {"errorMessage":"Invalid value specified for 'accountID'"}
+2025-05-01 17:35:37,006 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-01 17:35:40,011 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:35:40,012 - ArbitrageTrader - INFO - Updated 0 exchange rates
+2025-05-01 17:35:40,091 - ArbitrageTrader - ERROR - Failed to get account balance: 400, {"errorMessage":"Invalid value specified for 'accountID'"}
+2025-05-01 17:35:40,091 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-01 17:35:43,092 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:35:43,092 - ArbitrageTrader - INFO - Updated 0 exchange rates
+2025-05-01 17:35:43,182 - ArbitrageTrader - ERROR - Failed to get account balance: 400, {"errorMessage":"Invalid value specified for 'accountID'"}
+2025-05-01 17:35:43,183 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-01 17:35:46,186 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:35:46,187 - ArbitrageTrader - INFO - Updated 0 exchange rates
+2025-05-01 17:35:46,305 - ArbitrageTrader - ERROR - Failed to get account balance: 400, {"errorMessage":"Invalid value specified for 'accountID'"}
+2025-05-01 17:35:46,305 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-01 17:35:49,310 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:35:49,311 - ArbitrageTrader - INFO - Updated 0 exchange rates
+2025-05-01 17:35:49,394 - ArbitrageTrader - ERROR - Failed to get account balance: 400, {"errorMessage":"Invalid value specified for 'accountID'"}
+2025-05-01 17:35:49,395 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-01 17:35:52,395 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:35:52,396 - ArbitrageTrader - INFO - Updated 0 exchange rates
+2025-05-01 17:35:52,507 - ArbitrageTrader - ERROR - Failed to get account balance: 400, {"errorMessage":"Invalid value specified for 'accountID'"}
+2025-05-01 17:35:52,509 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-01 17:35:55,514 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:35:55,514 - ArbitrageTrader - INFO - Updated 0 exchange rates
+2025-05-01 17:35:55,602 - ArbitrageTrader - ERROR - Failed to get account balance: 400, {"errorMessage":"Invalid value specified for 'accountID'"}
+2025-05-01 17:35:55,603 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-01 17:35:58,605 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:35:58,606 - ArbitrageTrader - INFO - Updated 0 exchange rates
+2025-05-01 17:35:58,702 - ArbitrageTrader - ERROR - Failed to get account balance: 400, {"errorMessage":"Invalid value specified for 'accountID'"}
+2025-05-01 17:35:58,703 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-01 17:36:01,708 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:36:01,709 - ArbitrageTrader - INFO - Updated 0 exchange rates
+2025-05-01 17:36:01,802 - ArbitrageTrader - ERROR - Failed to get account balance: 400, {"errorMessage":"Invalid value specified for 'accountID'"}
+2025-05-01 17:36:01,803 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-01 17:36:04,807 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:36:04,810 - ArbitrageTrader - INFO - Updated 0 exchange rates
+2025-05-01 17:36:04,896 - ArbitrageTrader - ERROR - Failed to get account balance: 400, {"errorMessage":"Invalid value specified for 'accountID'"}
+2025-05-01 17:36:04,896 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-01 17:36:07,899 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:36:07,899 - ArbitrageTrader - INFO - Updated 0 exchange rates
+2025-05-01 17:36:07,977 - ArbitrageTrader - ERROR - Failed to get account balance: 400, {"errorMessage":"Invalid value specified for 'accountID'"}
+2025-05-01 17:36:07,978 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-01 17:36:10,983 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:36:10,984 - ArbitrageTrader - INFO - Updated 0 exchange rates
+2025-05-01 17:36:11,072 - ArbitrageTrader - ERROR - Failed to get account balance: 400, {"errorMessage":"Invalid value specified for 'accountID'"}
+2025-05-01 17:36:11,073 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-01 17:36:14,076 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:36:14,076 - ArbitrageTrader - INFO - Updated 0 exchange rates
+2025-05-01 17:36:14,167 - ArbitrageTrader - ERROR - Failed to get account balance: 400, {"errorMessage":"Invalid value specified for 'accountID'"}
+2025-05-01 17:36:14,167 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-01 17:36:17,172 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:36:17,172 - ArbitrageTrader - INFO - Updated 0 exchange rates
+2025-05-01 17:36:17,247 - ArbitrageTrader - ERROR - Failed to get account balance: 400, {"errorMessage":"Invalid value specified for 'accountID'"}
+2025-05-01 17:36:17,248 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-01 17:36:20,253 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:36:20,254 - ArbitrageTrader - INFO - Updated 0 exchange rates
+2025-05-01 17:36:20,317 - ArbitrageTrader - ERROR - Failed to get account balance: 400, {"errorMessage":"Invalid value specified for 'accountID'"}
+2025-05-01 17:36:20,317 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-01 17:36:23,320 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:36:23,320 - ArbitrageTrader - INFO - Updated 0 exchange rates
+2025-05-01 17:36:23,391 - ArbitrageTrader - ERROR - Failed to get account balance: 400, {"errorMessage":"Invalid value specified for 'accountID'"}
+2025-05-01 17:36:23,392 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-01 17:36:26,397 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:36:26,397 - ArbitrageTrader - INFO - Updated 0 exchange rates
+2025-05-01 17:36:26,483 - ArbitrageTrader - ERROR - Failed to get account balance: 400, {"errorMessage":"Invalid value specified for 'accountID'"}
+2025-05-01 17:36:26,484 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-01 17:36:29,486 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:36:29,486 - ArbitrageTrader - INFO - Updated 0 exchange rates
+2025-05-01 17:36:29,567 - ArbitrageTrader - ERROR - Failed to get account balance: 400, {"errorMessage":"Invalid value specified for 'accountID'"}
+2025-05-01 17:36:29,569 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-01 17:36:32,573 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:36:32,573 - ArbitrageTrader - INFO - Updated 0 exchange rates
+2025-05-01 17:36:32,663 - ArbitrageTrader - ERROR - Failed to get account balance: 400, {"errorMessage":"Invalid value specified for 'accountID'"}
+2025-05-01 17:36:32,664 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-01 17:36:35,667 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:36:35,667 - ArbitrageTrader - INFO - Updated 0 exchange rates
+2025-05-01 17:36:35,756 - ArbitrageTrader - ERROR - Failed to get account balance: 400, {"errorMessage":"Invalid value specified for 'accountID'"}
+2025-05-01 17:36:35,757 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-01 17:36:38,762 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:36:38,763 - ArbitrageTrader - INFO - Updated 0 exchange rates
+2025-05-01 17:36:38,875 - ArbitrageTrader - ERROR - Failed to get account balance: 400, {"errorMessage":"Invalid value specified for 'accountID'"}
+2025-05-01 17:36:38,876 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-01 17:36:41,881 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:36:41,882 - ArbitrageTrader - INFO - Updated 0 exchange rates
+2025-05-01 17:36:41,945 - ArbitrageTrader - ERROR - Failed to get account balance: 400, {"errorMessage":"Invalid value specified for 'accountID'"}
+2025-05-01 17:36:41,945 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-01 17:36:44,946 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:36:44,946 - ArbitrageTrader - INFO - Updated 0 exchange rates
+2025-05-01 17:36:45,030 - ArbitrageTrader - ERROR - Failed to get account balance: 400, {"errorMessage":"Invalid value specified for 'accountID'"}
+2025-05-01 17:36:45,031 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-01 17:36:48,035 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:36:48,036 - ArbitrageTrader - INFO - Updated 0 exchange rates
+2025-05-01 17:36:48,108 - ArbitrageTrader - ERROR - Failed to get account balance: 400, {"errorMessage":"Invalid value specified for 'accountID'"}
+2025-05-01 17:36:48,109 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-01 17:36:51,111 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:36:51,111 - ArbitrageTrader - INFO - Updated 0 exchange rates
+2025-05-01 17:36:51,207 - ArbitrageTrader - ERROR - Failed to get account balance: 400, {"errorMessage":"Invalid value specified for 'accountID'"}
+2025-05-01 17:36:51,208 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-01 17:36:54,212 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:36:54,213 - ArbitrageTrader - INFO - Updated 0 exchange rates
+2025-05-01 17:36:54,299 - ArbitrageTrader - ERROR - Failed to get account balance: 400, {"errorMessage":"Invalid value specified for 'accountID'"}
+2025-05-01 17:36:54,300 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-01 17:36:57,305 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:36:57,305 - ArbitrageTrader - INFO - Updated 0 exchange rates
+2025-05-01 17:36:57,390 - ArbitrageTrader - ERROR - Failed to get account balance: 400, {"errorMessage":"Invalid value specified for 'accountID'"}
+2025-05-01 17:36:57,390 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-01 17:37:00,394 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:37:00,395 - ArbitrageTrader - INFO - Updated 0 exchange rates
+2025-05-01 17:37:00,484 - ArbitrageTrader - ERROR - Failed to get account balance: 400, {"errorMessage":"Invalid value specified for 'accountID'"}
+2025-05-01 17:37:00,485 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-01 17:37:03,490 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:37:03,490 - ArbitrageTrader - INFO - Updated 0 exchange rates
+2025-05-01 17:37:03,576 - ArbitrageTrader - ERROR - Failed to get account balance: 400, {"errorMessage":"Invalid value specified for 'accountID'"}
+2025-05-01 17:37:03,577 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-01 17:37:06,582 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:37:06,582 - ArbitrageTrader - INFO - Updated 0 exchange rates
+2025-05-01 17:37:06,659 - ArbitrageTrader - ERROR - Failed to get account balance: 400, {"errorMessage":"Invalid value specified for 'accountID'"}
+2025-05-01 17:37:06,660 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-01 17:37:09,662 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:37:09,663 - ArbitrageTrader - INFO - Updated 0 exchange rates
+2025-05-01 17:37:09,748 - ArbitrageTrader - ERROR - Failed to get account balance: 400, {"errorMessage":"Invalid value specified for 'accountID'"}
+2025-05-01 17:37:09,748 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-01 17:37:12,753 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:37:12,754 - ArbitrageTrader - INFO - Updated 0 exchange rates
+2025-05-01 17:37:12,839 - ArbitrageTrader - ERROR - Failed to get account balance: 400, {"errorMessage":"Invalid value specified for 'accountID'"}
+2025-05-01 17:37:12,839 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-01 17:37:15,844 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:37:15,846 - ArbitrageTrader - INFO - Updated 0 exchange rates
+2025-05-01 17:37:15,950 - ArbitrageTrader - ERROR - Failed to get account balance: 400, {"errorMessage":"Invalid value specified for 'accountID'"}
+2025-05-01 17:37:15,950 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-01 17:37:18,954 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:37:18,955 - ArbitrageTrader - INFO - Updated 0 exchange rates
+2025-05-01 17:37:19,026 - ArbitrageTrader - ERROR - Failed to get account balance: 400, {"errorMessage":"Invalid value specified for 'accountID'"}
+2025-05-01 17:37:19,027 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-01 17:37:22,029 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:37:22,030 - ArbitrageTrader - INFO - Updated 0 exchange rates
+2025-05-01 17:37:22,149 - ArbitrageTrader - ERROR - Failed to get account balance: 400, {"errorMessage":"Invalid value specified for 'accountID'"}
+2025-05-01 17:37:22,150 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-01 17:37:25,151 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:37:25,151 - ArbitrageTrader - INFO - Updated 0 exchange rates
+2025-05-01 17:37:25,249 - ArbitrageTrader - ERROR - Failed to get account balance: 400, {"errorMessage":"Invalid value specified for 'accountID'"}
+2025-05-01 17:37:25,250 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-01 17:37:28,255 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:37:28,256 - ArbitrageTrader - INFO - Updated 0 exchange rates
+2025-05-01 17:37:28,340 - ArbitrageTrader - ERROR - Failed to get account balance: 400, {"errorMessage":"Invalid value specified for 'accountID'"}
+2025-05-01 17:37:28,341 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-01 17:37:31,342 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:37:31,348 - ArbitrageTrader - INFO - Updated 0 exchange rates
+2025-05-01 17:37:31,423 - ArbitrageTrader - ERROR - Failed to get account balance: 400, {"errorMessage":"Invalid value specified for 'accountID'"}
+2025-05-01 17:37:31,423 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-01 17:37:34,428 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:37:34,428 - ArbitrageTrader - INFO - Updated 0 exchange rates
+2025-05-01 17:37:34,538 - ArbitrageTrader - ERROR - Failed to get account balance: 400, {"errorMessage":"Invalid value specified for 'accountID'"}
+2025-05-01 17:37:34,539 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-01 17:37:37,542 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:37:37,542 - ArbitrageTrader - INFO - Updated 0 exchange rates
+2025-05-01 17:37:37,660 - ArbitrageTrader - ERROR - Failed to get account balance: 400, {"errorMessage":"Invalid value specified for 'accountID'"}
+2025-05-01 17:37:37,661 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-01 17:37:40,663 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:37:40,664 - ArbitrageTrader - INFO - Updated 0 exchange rates
+2025-05-01 17:37:40,749 - ArbitrageTrader - ERROR - Failed to get account balance: 400, {"errorMessage":"Invalid value specified for 'accountID'"}
+2025-05-01 17:37:40,750 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-01 17:37:43,753 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:37:43,754 - ArbitrageTrader - INFO - Updated 0 exchange rates
+2025-05-01 17:37:43,867 - ArbitrageTrader - ERROR - Failed to get account balance: 400, {"errorMessage":"Invalid value specified for 'accountID'"}
+2025-05-01 17:37:43,868 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-01 17:37:46,872 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:37:46,872 - ArbitrageTrader - INFO - Updated 0 exchange rates
+2025-05-01 17:37:47,016 - ArbitrageTrader - ERROR - Failed to get account balance: 400, {"errorMessage":"Invalid value specified for 'accountID'"}
+2025-05-01 17:37:47,017 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-01 17:37:50,020 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:37:50,021 - ArbitrageTrader - INFO - Updated 0 exchange rates
+2025-05-01 17:37:50,115 - ArbitrageTrader - ERROR - Failed to get account balance: 400, {"errorMessage":"Invalid value specified for 'accountID'"}
+2025-05-01 17:37:50,116 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-01 17:37:53,121 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:37:53,121 - ArbitrageTrader - INFO - Updated 0 exchange rates
+2025-05-01 17:37:53,204 - ArbitrageTrader - ERROR - Failed to get account balance: 400, {"errorMessage":"Invalid value specified for 'accountID'"}
+2025-05-01 17:37:53,205 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-01 17:37:56,213 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:37:56,214 - ArbitrageTrader - INFO - Updated 0 exchange rates
+2025-05-01 17:37:56,361 - ArbitrageTrader - ERROR - Failed to get account balance: 400, {"errorMessage":"Invalid value specified for 'accountID'"}
+2025-05-01 17:37:56,362 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-01 17:37:59,367 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:37:59,367 - ArbitrageTrader - INFO - Updated 0 exchange rates
+2025-05-01 17:37:59,467 - ArbitrageTrader - ERROR - Failed to get account balance: 400, {"errorMessage":"Invalid value specified for 'accountID'"}
+2025-05-01 17:37:59,468 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-01 17:38:02,470 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:38:02,471 - ArbitrageTrader - INFO - Updated 0 exchange rates
+2025-05-01 17:38:02,582 - ArbitrageTrader - ERROR - Failed to get account balance: 400, {"errorMessage":"Invalid value specified for 'accountID'"}
+2025-05-01 17:38:02,583 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-01 17:38:05,585 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:38:05,588 - ArbitrageTrader - INFO - Updated 0 exchange rates
+2025-05-01 17:38:05,687 - ArbitrageTrader - ERROR - Failed to get account balance: 400, {"errorMessage":"Invalid value specified for 'accountID'"}
+2025-05-01 17:38:05,688 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-01 17:38:08,693 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:38:08,694 - ArbitrageTrader - INFO - Updated 0 exchange rates
+2025-05-01 17:38:08,786 - ArbitrageTrader - ERROR - Failed to get account balance: 400, {"errorMessage":"Invalid value specified for 'accountID'"}
+2025-05-01 17:38:08,786 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-01 17:38:11,788 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:38:11,788 - ArbitrageTrader - INFO - Updated 0 exchange rates
+2025-05-01 17:38:11,873 - ArbitrageTrader - ERROR - Failed to get account balance: 400, {"errorMessage":"Invalid value specified for 'accountID'"}
+2025-05-01 17:38:11,873 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-01 17:38:14,876 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:38:14,876 - ArbitrageTrader - INFO - Updated 0 exchange rates
+2025-05-01 17:38:14,955 - ArbitrageTrader - ERROR - Failed to get account balance: 400, {"errorMessage":"Invalid value specified for 'accountID'"}
+2025-05-01 17:38:14,955 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-01 17:38:17,959 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:38:17,960 - ArbitrageTrader - INFO - Updated 0 exchange rates
+2025-05-01 17:38:18,068 - ArbitrageTrader - ERROR - Failed to get account balance: 400, {"errorMessage":"Invalid value specified for 'accountID'"}
+2025-05-01 17:38:18,069 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-01 17:38:21,073 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:38:21,073 - ArbitrageTrader - INFO - Updated 0 exchange rates
+2025-05-01 17:38:21,143 - ArbitrageTrader - ERROR - Failed to get account balance: 400, {"errorMessage":"Invalid value specified for 'accountID'"}
+2025-05-01 17:38:21,144 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-01 17:38:24,145 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:38:24,146 - ArbitrageTrader - INFO - Updated 0 exchange rates
+2025-05-01 17:38:24,212 - ArbitrageTrader - ERROR - Failed to get account balance: 400, {"errorMessage":"Invalid value specified for 'accountID'"}
+2025-05-01 17:38:24,213 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-01 17:38:27,221 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:38:27,222 - ArbitrageTrader - INFO - Updated 0 exchange rates
+2025-05-01 17:38:27,304 - ArbitrageTrader - ERROR - Failed to get account balance: 400, {"errorMessage":"Invalid value specified for 'accountID'"}
+2025-05-01 17:38:27,304 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-01 17:38:30,311 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:38:30,312 - ArbitrageTrader - INFO - Updated 0 exchange rates
+2025-05-01 17:38:30,399 - ArbitrageTrader - ERROR - Failed to get account balance: 400, {"errorMessage":"Invalid value specified for 'accountID'"}
+2025-05-01 17:38:30,400 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-01 17:38:33,416 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:38:33,422 - ArbitrageTrader - INFO - Updated 0 exchange rates
+2025-05-01 17:38:33,546 - ArbitrageTrader - ERROR - Failed to get account balance: 400, {"errorMessage":"Invalid value specified for 'accountID'"}
+2025-05-01 17:38:33,552 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-01 17:38:36,554 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:38:36,555 - ArbitrageTrader - INFO - Updated 0 exchange rates
+2025-05-01 17:38:36,642 - ArbitrageTrader - ERROR - Failed to get account balance: 400, {"errorMessage":"Invalid value specified for 'accountID'"}
+2025-05-01 17:38:36,642 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-01 17:38:39,644 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:38:39,646 - ArbitrageTrader - INFO - Updated 0 exchange rates
+2025-05-01 17:38:39,729 - ArbitrageTrader - ERROR - Failed to get account balance: 400, {"errorMessage":"Invalid value specified for 'accountID'"}
+2025-05-01 17:38:39,730 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-01 17:38:42,736 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:38:42,737 - ArbitrageTrader - INFO - Updated 0 exchange rates
+2025-05-01 17:38:42,802 - ArbitrageTrader - ERROR - Failed to get account balance: 400, {"errorMessage":"Invalid value specified for 'accountID'"}
+2025-05-01 17:38:42,803 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-01 17:38:45,809 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:38:45,809 - ArbitrageTrader - INFO - Updated 0 exchange rates
+2025-05-01 17:38:45,887 - ArbitrageTrader - ERROR - Failed to get account balance: 400, {"errorMessage":"Invalid value specified for 'accountID'"}
+2025-05-01 17:38:45,888 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-01 17:38:48,892 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:38:48,892 - ArbitrageTrader - INFO - Updated 0 exchange rates
+2025-05-01 17:38:48,983 - ArbitrageTrader - ERROR - Failed to get account balance: 400, {"errorMessage":"Invalid value specified for 'accountID'"}
+2025-05-01 17:38:48,984 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-01 17:38:51,988 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:38:51,988 - ArbitrageTrader - INFO - Updated 0 exchange rates
+2025-05-01 17:38:52,116 - ArbitrageTrader - ERROR - Failed to get account balance: 400, {"errorMessage":"Invalid value specified for 'accountID'"}
+2025-05-01 17:38:52,117 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-01 17:38:55,119 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:38:55,120 - ArbitrageTrader - INFO - Updated 0 exchange rates
+2025-05-01 17:38:55,216 - ArbitrageTrader - ERROR - Failed to get account balance: 400, {"errorMessage":"Invalid value specified for 'accountID'"}
+2025-05-01 17:38:55,216 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-01 17:38:58,221 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:38:58,223 - ArbitrageTrader - INFO - Updated 0 exchange rates
+2025-05-01 17:38:58,328 - ArbitrageTrader - ERROR - Failed to get account balance: 400, {"errorMessage":"Invalid value specified for 'accountID'"}
+2025-05-01 17:38:58,329 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-01 17:39:01,335 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:39:01,335 - ArbitrageTrader - INFO - Updated 0 exchange rates
+2025-05-01 17:39:01,438 - ArbitrageTrader - ERROR - Failed to get account balance: 400, {"errorMessage":"Invalid value specified for 'accountID'"}
+2025-05-01 17:39:01,439 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-01 17:39:04,443 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:39:04,443 - ArbitrageTrader - INFO - Updated 0 exchange rates
+2025-05-01 17:39:04,568 - ArbitrageTrader - ERROR - Failed to get account balance: 400, {"errorMessage":"Invalid value specified for 'accountID'"}
+2025-05-01 17:39:04,569 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-01 17:39:07,571 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:39:07,574 - ArbitrageTrader - INFO - Updated 0 exchange rates
+2025-05-01 17:39:07,641 - ArbitrageTrader - ERROR - Failed to get account balance: 400, {"errorMessage":"Invalid value specified for 'accountID'"}
+2025-05-01 17:39:07,641 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-01 17:39:10,647 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:39:10,647 - ArbitrageTrader - INFO - Updated 0 exchange rates
+2025-05-01 17:39:10,718 - ArbitrageTrader - ERROR - Failed to get account balance: 400, {"errorMessage":"Invalid value specified for 'accountID'"}
+2025-05-01 17:39:10,719 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-01 17:39:13,724 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:39:13,726 - ArbitrageTrader - INFO - Updated 0 exchange rates
+2025-05-01 17:39:13,808 - ArbitrageTrader - ERROR - Failed to get account balance: 400, {"errorMessage":"Invalid value specified for 'accountID'"}
+2025-05-01 17:39:13,809 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-01 17:39:16,812 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:39:16,813 - ArbitrageTrader - INFO - Updated 0 exchange rates
+2025-05-01 17:39:16,896 - ArbitrageTrader - ERROR - Failed to get account balance: 400, {"errorMessage":"Invalid value specified for 'accountID'"}
+2025-05-01 17:39:16,896 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-01 17:39:19,902 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:39:19,903 - ArbitrageTrader - INFO - Updated 0 exchange rates
+2025-05-01 17:39:19,988 - ArbitrageTrader - ERROR - Failed to get account balance: 400, {"errorMessage":"Invalid value specified for 'accountID'"}
+2025-05-01 17:39:19,989 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-01 17:39:22,993 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:39:22,993 - ArbitrageTrader - INFO - Updated 0 exchange rates
+2025-05-01 17:39:23,066 - ArbitrageTrader - ERROR - Failed to get account balance: 400, {"errorMessage":"Invalid value specified for 'accountID'"}
+2025-05-01 17:39:23,067 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-01 17:39:26,072 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:39:26,072 - ArbitrageTrader - INFO - Updated 0 exchange rates
+2025-05-01 17:39:26,145 - ArbitrageTrader - ERROR - Failed to get account balance: 400, {"errorMessage":"Invalid value specified for 'accountID'"}
+2025-05-01 17:39:26,145 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-01 17:39:29,151 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:39:29,152 - ArbitrageTrader - INFO - Updated 0 exchange rates
+2025-05-01 17:39:29,277 - ArbitrageTrader - ERROR - Failed to get account balance: 400, {"errorMessage":"Invalid value specified for 'accountID'"}
+2025-05-01 17:39:29,278 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-01 17:39:32,284 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:39:32,284 - ArbitrageTrader - INFO - Updated 0 exchange rates
+2025-05-01 17:39:32,393 - ArbitrageTrader - ERROR - Failed to get account balance: 400, {"errorMessage":"Invalid value specified for 'accountID'"}
+2025-05-01 17:39:32,394 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-01 17:39:35,400 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:39:35,401 - ArbitrageTrader - INFO - Updated 0 exchange rates
+2025-05-01 17:39:35,512 - ArbitrageTrader - ERROR - Failed to get account balance: 400, {"errorMessage":"Invalid value specified for 'accountID'"}
+2025-05-01 17:39:35,513 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-01 17:39:38,518 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:39:38,519 - ArbitrageTrader - INFO - Updated 0 exchange rates
+2025-05-01 17:39:38,603 - ArbitrageTrader - ERROR - Failed to get account balance: 400, {"errorMessage":"Invalid value specified for 'accountID'"}
+2025-05-01 17:39:38,604 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-01 17:39:41,609 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:39:41,610 - ArbitrageTrader - INFO - Updated 0 exchange rates
+2025-05-01 17:39:41,701 - ArbitrageTrader - ERROR - Failed to get account balance: 400, {"errorMessage":"Invalid value specified for 'accountID'"}
+2025-05-01 17:39:41,702 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-01 17:39:44,708 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:39:44,708 - ArbitrageTrader - INFO - Updated 0 exchange rates
+2025-05-01 17:39:44,815 - ArbitrageTrader - ERROR - Failed to get account balance: 400, {"errorMessage":"Invalid value specified for 'accountID'"}
+2025-05-01 17:39:44,817 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-01 17:39:47,820 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:39:47,821 - ArbitrageTrader - INFO - Updated 0 exchange rates
+2025-05-01 17:39:47,906 - ArbitrageTrader - ERROR - Failed to get account balance: 400, {"errorMessage":"Invalid value specified for 'accountID'"}
+2025-05-01 17:39:47,907 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-01 17:39:50,913 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:39:50,914 - ArbitrageTrader - INFO - Updated 0 exchange rates
+2025-05-01 17:39:51,035 - ArbitrageTrader - ERROR - Failed to get account balance: 400, {"errorMessage":"Invalid value specified for 'accountID'"}
+2025-05-01 17:39:51,036 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-01 17:39:54,041 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:39:54,042 - ArbitrageTrader - INFO - Updated 0 exchange rates
+2025-05-01 17:39:54,175 - ArbitrageTrader - ERROR - Failed to get account balance: 400, {"errorMessage":"Invalid value specified for 'accountID'"}
+2025-05-01 17:39:54,176 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-01 17:39:57,181 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:39:57,182 - ArbitrageTrader - INFO - Updated 0 exchange rates
+2025-05-01 17:39:57,265 - ArbitrageTrader - ERROR - Failed to get account balance: 400, {"errorMessage":"Invalid value specified for 'accountID'"}
+2025-05-01 17:39:57,266 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-01 17:40:00,270 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:40:00,271 - ArbitrageTrader - INFO - Updated 0 exchange rates
+2025-05-01 17:40:00,352 - ArbitrageTrader - ERROR - Failed to get account balance: 400, {"errorMessage":"Invalid value specified for 'accountID'"}
+2025-05-01 17:40:00,353 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-01 17:40:03,357 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:40:03,358 - ArbitrageTrader - INFO - Updated 0 exchange rates
+2025-05-01 17:40:03,459 - ArbitrageTrader - ERROR - Failed to get account balance: 400, {"errorMessage":"Invalid value specified for 'accountID'"}
+2025-05-01 17:40:03,460 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-01 17:40:06,465 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:40:06,466 - ArbitrageTrader - INFO - Updated 0 exchange rates
+2025-05-01 17:40:06,570 - ArbitrageTrader - ERROR - Failed to get account balance: 400, {"errorMessage":"Invalid value specified for 'accountID'"}
+2025-05-01 17:40:06,570 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-01 17:40:09,576 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:40:09,576 - ArbitrageTrader - INFO - Updated 0 exchange rates
+2025-05-01 17:40:09,647 - ArbitrageTrader - ERROR - Failed to get account balance: 400, {"errorMessage":"Invalid value specified for 'accountID'"}
+2025-05-01 17:40:09,647 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-01 17:40:12,649 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:40:12,650 - ArbitrageTrader - INFO - Updated 0 exchange rates
+2025-05-01 17:40:12,729 - ArbitrageTrader - ERROR - Failed to get account balance: 400, {"errorMessage":"Invalid value specified for 'accountID'"}
+2025-05-01 17:40:12,729 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-01 17:40:15,734 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:40:15,734 - ArbitrageTrader - INFO - Updated 0 exchange rates
+2025-05-01 17:40:15,829 - ArbitrageTrader - ERROR - Failed to get account balance: 400, {"errorMessage":"Invalid value specified for 'accountID'"}
+2025-05-01 17:40:15,830 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-01 17:40:18,835 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:40:18,835 - ArbitrageTrader - INFO - Updated 0 exchange rates
+2025-05-01 17:40:18,914 - ArbitrageTrader - ERROR - Failed to get account balance: 400, {"errorMessage":"Invalid value specified for 'accountID'"}
+2025-05-01 17:40:18,914 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-01 17:40:21,920 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:40:21,921 - ArbitrageTrader - INFO - Updated 0 exchange rates
+2025-05-01 17:40:22,025 - ArbitrageTrader - ERROR - Failed to get account balance: 400, {"errorMessage":"Invalid value specified for 'accountID'"}
+2025-05-01 17:40:22,025 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-01 17:40:25,031 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:40:25,031 - ArbitrageTrader - INFO - Updated 0 exchange rates
+2025-05-01 17:40:25,122 - ArbitrageTrader - ERROR - Failed to get account balance: 400, {"errorMessage":"Invalid value specified for 'accountID'"}
+2025-05-01 17:40:25,123 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-01 17:40:28,128 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:40:28,128 - ArbitrageTrader - INFO - Updated 0 exchange rates
+2025-05-01 17:40:28,204 - ArbitrageTrader - ERROR - Failed to get account balance: 400, {"errorMessage":"Invalid value specified for 'accountID'"}
+2025-05-01 17:40:28,205 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-01 17:40:31,210 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:40:31,210 - ArbitrageTrader - INFO - Updated 0 exchange rates
+2025-05-01 17:40:31,285 - ArbitrageTrader - ERROR - Failed to get account balance: 400, {"errorMessage":"Invalid value specified for 'accountID'"}
+2025-05-01 17:40:31,286 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-01 17:40:34,292 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:40:34,292 - ArbitrageTrader - INFO - Updated 0 exchange rates
+2025-05-01 17:40:34,372 - ArbitrageTrader - ERROR - Failed to get account balance: 400, {"errorMessage":"Invalid value specified for 'accountID'"}
+2025-05-01 17:40:34,372 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-01 17:40:37,375 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:40:37,375 - ArbitrageTrader - INFO - Updated 0 exchange rates
+2025-05-01 17:40:37,460 - ArbitrageTrader - ERROR - Failed to get account balance: 400, {"errorMessage":"Invalid value specified for 'accountID'"}
+2025-05-01 17:40:37,461 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-01 17:40:40,466 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:40:40,466 - ArbitrageTrader - INFO - Updated 0 exchange rates
+2025-05-01 17:40:40,544 - ArbitrageTrader - ERROR - Failed to get account balance: 400, {"errorMessage":"Invalid value specified for 'accountID'"}
+2025-05-01 17:40:40,544 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-01 17:40:43,548 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:40:43,549 - ArbitrageTrader - INFO - Updated 0 exchange rates
+2025-05-01 17:40:43,643 - ArbitrageTrader - ERROR - Failed to get account balance: 400, {"errorMessage":"Invalid value specified for 'accountID'"}
+2025-05-01 17:40:43,644 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-01 17:40:46,644 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:40:46,645 - ArbitrageTrader - INFO - Updated 0 exchange rates
+2025-05-01 17:40:46,709 - ArbitrageTrader - ERROR - Failed to get account balance: 400, {"errorMessage":"Invalid value specified for 'accountID'"}
+2025-05-01 17:40:46,710 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-01 17:40:49,715 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:40:49,717 - ArbitrageTrader - INFO - Updated 0 exchange rates
+2025-05-01 17:40:49,799 - ArbitrageTrader - ERROR - Failed to get account balance: 400, {"errorMessage":"Invalid value specified for 'accountID'"}
+2025-05-01 17:40:49,800 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-01 17:40:52,803 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:40:52,804 - ArbitrageTrader - INFO - Updated 0 exchange rates
+2025-05-01 17:40:52,888 - ArbitrageTrader - ERROR - Failed to get account balance: 400, {"errorMessage":"Invalid value specified for 'accountID'"}
+2025-05-01 17:40:52,889 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-01 17:40:55,893 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:40:55,894 - ArbitrageTrader - INFO - Updated 0 exchange rates
+2025-05-01 17:40:55,977 - ArbitrageTrader - ERROR - Failed to get account balance: 400, {"errorMessage":"Invalid value specified for 'accountID'"}
+2025-05-01 17:40:55,978 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-01 17:40:58,982 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:40:58,982 - ArbitrageTrader - INFO - Updated 0 exchange rates
+2025-05-01 17:40:59,088 - ArbitrageTrader - ERROR - Failed to get account balance: 400, {"errorMessage":"Invalid value specified for 'accountID'"}
+2025-05-01 17:40:59,089 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-01 17:41:02,095 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:41:02,095 - ArbitrageTrader - INFO - Updated 0 exchange rates
+2025-05-01 17:41:02,172 - ArbitrageTrader - ERROR - Failed to get account balance: 400, {"errorMessage":"Invalid value specified for 'accountID'"}
+2025-05-01 17:41:02,173 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-01 17:41:05,178 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:41:05,178 - ArbitrageTrader - INFO - Updated 0 exchange rates
+2025-05-01 17:41:05,266 - ArbitrageTrader - ERROR - Failed to get account balance: 400, {"errorMessage":"Invalid value specified for 'accountID'"}
+2025-05-01 17:41:05,267 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-01 17:41:08,273 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:41:08,275 - ArbitrageTrader - INFO - Updated 0 exchange rates
+2025-05-01 17:41:08,362 - ArbitrageTrader - ERROR - Failed to get account balance: 400, {"errorMessage":"Invalid value specified for 'accountID'"}
+2025-05-01 17:41:08,363 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-01 17:41:11,368 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:41:11,369 - ArbitrageTrader - INFO - Updated 0 exchange rates
+2025-05-01 17:41:11,450 - ArbitrageTrader - ERROR - Failed to get account balance: 400, {"errorMessage":"Invalid value specified for 'accountID'"}
+2025-05-01 17:41:11,450 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-01 17:41:14,453 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:41:14,454 - ArbitrageTrader - INFO - Updated 0 exchange rates
+2025-05-01 17:41:14,540 - ArbitrageTrader - ERROR - Failed to get account balance: 400, {"errorMessage":"Invalid value specified for 'accountID'"}
+2025-05-01 17:41:14,541 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-01 17:41:17,542 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:41:17,543 - ArbitrageTrader - INFO - Updated 0 exchange rates
+2025-05-01 17:41:17,631 - ArbitrageTrader - ERROR - Failed to get account balance: 400, {"errorMessage":"Invalid value specified for 'accountID'"}
+2025-05-01 17:41:17,631 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-01 17:41:20,637 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:41:20,637 - ArbitrageTrader - INFO - Updated 0 exchange rates
+2025-05-01 17:41:20,717 - ArbitrageTrader - ERROR - Failed to get account balance: 400, {"errorMessage":"Invalid value specified for 'accountID'"}
+2025-05-01 17:41:20,718 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-01 17:41:23,722 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:41:23,723 - ArbitrageTrader - INFO - Updated 0 exchange rates
+2025-05-01 17:41:23,849 - ArbitrageTrader - ERROR - Failed to get account balance: 400, {"errorMessage":"Invalid value specified for 'accountID'"}
+2025-05-01 17:41:23,850 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-01 17:41:26,855 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:41:26,855 - ArbitrageTrader - INFO - Updated 0 exchange rates
+2025-05-01 17:41:26,986 - ArbitrageTrader - ERROR - Failed to get account balance: 400, {"errorMessage":"Invalid value specified for 'accountID'"}
+2025-05-01 17:41:26,987 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-01 17:41:29,988 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:41:29,988 - ArbitrageTrader - INFO - Updated 0 exchange rates
+2025-05-01 17:41:30,107 - ArbitrageTrader - ERROR - Failed to get account balance: 400, {"errorMessage":"Invalid value specified for 'accountID'"}
+2025-05-01 17:41:30,108 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-01 17:41:33,113 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:41:33,113 - ArbitrageTrader - INFO - Updated 0 exchange rates
+2025-05-01 17:41:33,240 - ArbitrageTrader - ERROR - Failed to get account balance: 400, {"errorMessage":"Invalid value specified for 'accountID'"}
+2025-05-01 17:41:33,241 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-01 17:41:36,246 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:41:36,248 - ArbitrageTrader - INFO - Updated 0 exchange rates
+2025-05-01 17:41:36,346 - ArbitrageTrader - ERROR - Failed to get account balance: 400, {"errorMessage":"Invalid value specified for 'accountID'"}
+2025-05-01 17:41:36,347 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-01 17:41:39,353 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:41:39,354 - ArbitrageTrader - INFO - Updated 0 exchange rates
+2025-05-01 17:41:39,443 - ArbitrageTrader - ERROR - Failed to get account balance: 400, {"errorMessage":"Invalid value specified for 'accountID'"}
+2025-05-01 17:41:39,444 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-01 17:41:42,450 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:41:42,450 - ArbitrageTrader - INFO - Updated 0 exchange rates
+2025-05-01 17:41:42,549 - ArbitrageTrader - ERROR - Failed to get account balance: 400, {"errorMessage":"Invalid value specified for 'accountID'"}
+2025-05-01 17:41:42,550 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-01 17:41:45,554 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:41:45,554 - ArbitrageTrader - INFO - Updated 0 exchange rates
+2025-05-01 17:41:45,634 - ArbitrageTrader - ERROR - Failed to get account balance: 400, {"errorMessage":"Invalid value specified for 'accountID'"}
+2025-05-01 17:41:45,634 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-01 17:41:48,635 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:41:48,636 - ArbitrageTrader - INFO - Updated 0 exchange rates
+2025-05-01 17:41:48,744 - ArbitrageTrader - ERROR - Failed to get account balance: 400, {"errorMessage":"Invalid value specified for 'accountID'"}
+2025-05-01 17:41:48,745 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-01 17:41:51,751 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:41:51,753 - ArbitrageTrader - INFO - Updated 0 exchange rates
+2025-05-01 17:41:51,862 - ArbitrageTrader - ERROR - Failed to get account balance: 400, {"errorMessage":"Invalid value specified for 'accountID'"}
+2025-05-01 17:41:51,863 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-01 17:41:54,869 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:41:54,869 - ArbitrageTrader - INFO - Updated 0 exchange rates
+2025-05-01 17:41:54,978 - ArbitrageTrader - ERROR - Failed to get account balance: 400, {"errorMessage":"Invalid value specified for 'accountID'"}
+2025-05-01 17:41:54,978 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-01 17:41:57,984 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:41:57,984 - ArbitrageTrader - INFO - Updated 0 exchange rates
+2025-05-01 17:41:58,072 - ArbitrageTrader - ERROR - Failed to get account balance: 400, {"errorMessage":"Invalid value specified for 'accountID'"}
+2025-05-01 17:41:58,073 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-01 17:42:01,075 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:42:01,076 - ArbitrageTrader - INFO - Updated 0 exchange rates
+2025-05-01 17:42:01,155 - ArbitrageTrader - ERROR - Failed to get account balance: 400, {"errorMessage":"Invalid value specified for 'accountID'"}
+2025-05-01 17:42:01,156 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-01 17:42:04,161 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:42:04,161 - ArbitrageTrader - INFO - Updated 0 exchange rates
+2025-05-01 17:42:04,253 - ArbitrageTrader - ERROR - Failed to get account balance: 400, {"errorMessage":"Invalid value specified for 'accountID'"}
+2025-05-01 17:42:04,254 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-01 17:42:07,259 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:42:07,260 - ArbitrageTrader - INFO - Updated 0 exchange rates
+2025-05-01 17:42:07,335 - ArbitrageTrader - ERROR - Failed to get account balance: 400, {"errorMessage":"Invalid value specified for 'accountID'"}
+2025-05-01 17:42:07,335 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-01 17:42:10,339 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:42:10,340 - ArbitrageTrader - INFO - Updated 0 exchange rates
+2025-05-01 17:42:10,426 - ArbitrageTrader - ERROR - Failed to get account balance: 400, {"errorMessage":"Invalid value specified for 'accountID'"}
+2025-05-01 17:42:10,427 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-01 17:42:13,432 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:42:13,435 - ArbitrageTrader - INFO - Updated 0 exchange rates
+2025-05-01 17:42:13,537 - ArbitrageTrader - ERROR - Failed to get account balance: 400, {"errorMessage":"Invalid value specified for 'accountID'"}
+2025-05-01 17:42:13,538 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-01 17:42:16,543 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:42:16,544 - ArbitrageTrader - INFO - Updated 0 exchange rates
+2025-05-01 17:42:16,674 - ArbitrageTrader - ERROR - Failed to get account balance: 400, {"errorMessage":"Invalid value specified for 'accountID'"}
+2025-05-01 17:42:16,675 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-01 17:42:19,679 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:42:19,680 - ArbitrageTrader - INFO - Updated 0 exchange rates
+2025-05-01 17:42:19,750 - ArbitrageTrader - ERROR - Failed to get account balance: 400, {"errorMessage":"Invalid value specified for 'accountID'"}
+2025-05-01 17:42:19,752 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-01 17:42:22,753 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:42:22,754 - ArbitrageTrader - INFO - Updated 0 exchange rates
+2025-05-01 17:42:22,862 - ArbitrageTrader - ERROR - Failed to get account balance: 400, {"errorMessage":"Invalid value specified for 'accountID'"}
+2025-05-01 17:42:22,863 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-01 17:42:25,863 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:42:25,864 - ArbitrageTrader - INFO - Updated 0 exchange rates
+2025-05-01 17:42:25,958 - ArbitrageTrader - ERROR - Failed to get account balance: 400, {"errorMessage":"Invalid value specified for 'accountID'"}
+2025-05-01 17:42:25,959 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-01 17:42:28,964 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:42:28,965 - ArbitrageTrader - INFO - Updated 0 exchange rates
+2025-05-01 17:42:29,031 - ArbitrageTrader - ERROR - Failed to get account balance: 400, {"errorMessage":"Invalid value specified for 'accountID'"}
+2025-05-01 17:42:29,031 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-01 17:42:32,037 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:42:32,038 - ArbitrageTrader - INFO - Updated 0 exchange rates
+2025-05-01 17:42:32,130 - ArbitrageTrader - ERROR - Failed to get account balance: 400, {"errorMessage":"Invalid value specified for 'accountID'"}
+2025-05-01 17:42:32,130 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-01 17:42:35,135 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:42:35,136 - ArbitrageTrader - INFO - Updated 0 exchange rates
+2025-05-01 17:42:35,214 - ArbitrageTrader - ERROR - Failed to get account balance: 400, {"errorMessage":"Invalid value specified for 'accountID'"}
+2025-05-01 17:42:35,215 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-01 17:42:38,222 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:42:38,224 - ArbitrageTrader - INFO - Updated 0 exchange rates
+2025-05-01 17:42:38,342 - ArbitrageTrader - ERROR - Failed to get account balance: 400, {"errorMessage":"Invalid value specified for 'accountID'"}
+2025-05-01 17:42:38,343 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-01 17:42:41,346 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:42:41,347 - ArbitrageTrader - INFO - Updated 0 exchange rates
+2025-05-01 17:42:41,420 - ArbitrageTrader - ERROR - Failed to get account balance: 400, {"errorMessage":"Invalid value specified for 'accountID'"}
+2025-05-01 17:42:41,421 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-01 17:42:44,426 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:42:44,427 - ArbitrageTrader - INFO - Updated 0 exchange rates
+2025-05-01 17:42:44,513 - ArbitrageTrader - ERROR - Failed to get account balance: 400, {"errorMessage":"Invalid value specified for 'accountID'"}
+2025-05-01 17:42:44,513 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-01 17:42:47,515 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:42:47,516 - ArbitrageTrader - INFO - Updated 0 exchange rates
+2025-05-01 17:42:47,596 - ArbitrageTrader - ERROR - Failed to get account balance: 400, {"errorMessage":"Invalid value specified for 'accountID'"}
+2025-05-01 17:42:47,597 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-01 17:42:50,602 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:42:50,603 - ArbitrageTrader - INFO - Updated 0 exchange rates
+2025-05-01 17:42:50,683 - ArbitrageTrader - ERROR - Failed to get account balance: 400, {"errorMessage":"Invalid value specified for 'accountID'"}
+2025-05-01 17:42:50,684 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-01 17:42:53,686 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:42:53,688 - ArbitrageTrader - INFO - Updated 0 exchange rates
+2025-05-01 17:42:53,773 - ArbitrageTrader - ERROR - Failed to get account balance: 400, {"errorMessage":"Invalid value specified for 'accountID'"}
+2025-05-01 17:42:53,774 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-01 17:42:56,777 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:42:56,777 - ArbitrageTrader - INFO - Updated 0 exchange rates
+2025-05-01 17:42:56,897 - ArbitrageTrader - ERROR - Failed to get account balance: 400, {"errorMessage":"Invalid value specified for 'accountID'"}
+2025-05-01 17:42:56,897 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-01 17:42:59,900 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:42:59,901 - ArbitrageTrader - INFO - Updated 0 exchange rates
+2025-05-01 17:43:00,007 - ArbitrageTrader - ERROR - Failed to get account balance: 400, {"errorMessage":"Invalid value specified for 'accountID'"}
+2025-05-01 17:43:00,012 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-01 17:43:03,017 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:43:03,019 - ArbitrageTrader - INFO - Updated 0 exchange rates
+2025-05-01 17:43:03,088 - ArbitrageTrader - ERROR - Failed to get account balance: 400, {"errorMessage":"Invalid value specified for 'accountID'"}
+2025-05-01 17:43:03,089 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-01 17:43:06,096 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:43:06,098 - ArbitrageTrader - INFO - Updated 0 exchange rates
+2025-05-01 17:43:06,186 - ArbitrageTrader - ERROR - Failed to get account balance: 400, {"errorMessage":"Invalid value specified for 'accountID'"}
+2025-05-01 17:43:06,187 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-01 17:43:09,191 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:43:09,192 - ArbitrageTrader - INFO - Updated 0 exchange rates
+2025-05-01 17:43:09,282 - ArbitrageTrader - ERROR - Failed to get account balance: 400, {"errorMessage":"Invalid value specified for 'accountID'"}
+2025-05-01 17:43:09,285 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-01 17:43:12,287 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:43:12,287 - ArbitrageTrader - INFO - Updated 0 exchange rates
+2025-05-01 17:43:12,471 - ArbitrageTrader - ERROR - Failed to get account balance: 400, {"errorMessage":"Invalid value specified for 'accountID'"}
+2025-05-01 17:43:12,471 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-01 17:43:15,473 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:43:15,474 - ArbitrageTrader - INFO - Updated 0 exchange rates
+2025-05-01 17:43:15,557 - ArbitrageTrader - ERROR - Failed to get account balance: 400, {"errorMessage":"Invalid value specified for 'accountID'"}
+2025-05-01 17:43:15,558 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-01 17:43:18,560 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:43:18,561 - ArbitrageTrader - INFO - Updated 0 exchange rates
+2025-05-01 17:43:18,633 - ArbitrageTrader - ERROR - Failed to get account balance: 400, {"errorMessage":"Invalid value specified for 'accountID'"}
+2025-05-01 17:43:18,633 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-01 17:43:21,638 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:43:21,638 - ArbitrageTrader - INFO - Updated 0 exchange rates
+2025-05-01 17:43:21,728 - ArbitrageTrader - ERROR - Failed to get account balance: 400, {"errorMessage":"Invalid value specified for 'accountID'"}
+2025-05-01 17:43:21,729 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-01 17:43:24,733 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:43:24,734 - ArbitrageTrader - INFO - Updated 0 exchange rates
+2025-05-01 17:43:24,825 - ArbitrageTrader - ERROR - Failed to get account balance: 400, {"errorMessage":"Invalid value specified for 'accountID'"}
+2025-05-01 17:43:24,825 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-01 17:43:27,829 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:43:27,830 - ArbitrageTrader - INFO - Updated 0 exchange rates
+2025-05-01 17:43:27,918 - ArbitrageTrader - ERROR - Failed to get account balance: 400, {"errorMessage":"Invalid value specified for 'accountID'"}
+2025-05-01 17:43:27,919 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-01 17:43:30,926 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:43:30,926 - ArbitrageTrader - INFO - Updated 0 exchange rates
+2025-05-01 17:43:31,026 - ArbitrageTrader - ERROR - Failed to get account balance: 400, {"errorMessage":"Invalid value specified for 'accountID'"}
+2025-05-01 17:43:31,026 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-01 17:43:34,028 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:43:34,031 - ArbitrageTrader - INFO - Updated 0 exchange rates
+2025-05-01 17:43:34,198 - ArbitrageTrader - ERROR - Failed to get account balance: 400, {"errorMessage":"Invalid value specified for 'accountID'"}
+2025-05-01 17:43:34,198 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-01 17:43:37,204 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:43:37,204 - ArbitrageTrader - INFO - Updated 0 exchange rates
+2025-05-01 17:43:37,267 - ArbitrageTrader - ERROR - Failed to get account balance: 400, {"errorMessage":"Invalid value specified for 'accountID'"}
+2025-05-01 17:43:37,267 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-01 17:43:40,273 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:43:40,273 - ArbitrageTrader - INFO - Updated 0 exchange rates
+2025-05-01 17:43:40,351 - ArbitrageTrader - ERROR - Failed to get account balance: 400, {"errorMessage":"Invalid value specified for 'accountID'"}
+2025-05-01 17:43:40,352 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-01 17:43:43,357 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:43:43,358 - ArbitrageTrader - INFO - Updated 0 exchange rates
+2025-05-01 17:43:43,426 - ArbitrageTrader - ERROR - Failed to get account balance: 400, {"errorMessage":"Invalid value specified for 'accountID'"}
+2025-05-01 17:43:43,427 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-01 17:43:46,432 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:43:46,432 - ArbitrageTrader - INFO - Updated 0 exchange rates
+2025-05-01 17:43:46,497 - ArbitrageTrader - ERROR - Failed to get account balance: 400, {"errorMessage":"Invalid value specified for 'accountID'"}
+2025-05-01 17:43:46,497 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-01 17:43:49,501 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:43:49,502 - ArbitrageTrader - INFO - Updated 0 exchange rates
+2025-05-01 17:43:49,590 - ArbitrageTrader - ERROR - Failed to get account balance: 400, {"errorMessage":"Invalid value specified for 'accountID'"}
+2025-05-01 17:43:49,591 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-01 17:43:52,592 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:43:52,594 - ArbitrageTrader - INFO - Updated 0 exchange rates
+2025-05-01 17:43:52,707 - ArbitrageTrader - ERROR - Failed to get account balance: 400, {"errorMessage":"Invalid value specified for 'accountID'"}
+2025-05-01 17:43:52,708 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-01 17:43:55,712 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:43:55,712 - ArbitrageTrader - INFO - Updated 0 exchange rates
+2025-05-01 17:43:55,821 - ArbitrageTrader - ERROR - Failed to get account balance: 400, {"errorMessage":"Invalid value specified for 'accountID'"}
+2025-05-01 17:43:55,821 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-01 17:43:58,828 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:43:58,830 - ArbitrageTrader - INFO - Updated 0 exchange rates
+2025-05-01 17:43:58,926 - ArbitrageTrader - ERROR - Failed to get account balance: 400, {"errorMessage":"Invalid value specified for 'accountID'"}
+2025-05-01 17:43:58,927 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-01 17:44:01,932 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:44:01,933 - ArbitrageTrader - INFO - Updated 0 exchange rates
+2025-05-01 17:44:02,045 - ArbitrageTrader - ERROR - Failed to get account balance: 400, {"errorMessage":"Invalid value specified for 'accountID'"}
+2025-05-01 17:44:02,046 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-01 17:44:05,051 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:44:05,051 - ArbitrageTrader - INFO - Updated 0 exchange rates
+2025-05-01 17:44:05,127 - ArbitrageTrader - ERROR - Failed to get account balance: 400, {"errorMessage":"Invalid value specified for 'accountID'"}
+2025-05-01 17:44:05,128 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-01 17:44:08,133 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:44:08,133 - ArbitrageTrader - INFO - Updated 0 exchange rates
+2025-05-01 17:44:08,251 - ArbitrageTrader - ERROR - Failed to get account balance: 400, {"errorMessage":"Invalid value specified for 'accountID'"}
+2025-05-01 17:44:08,252 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-01 17:44:11,256 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:44:11,257 - ArbitrageTrader - INFO - Updated 0 exchange rates
+2025-05-01 17:44:11,356 - ArbitrageTrader - ERROR - Failed to get account balance: 400, {"errorMessage":"Invalid value specified for 'accountID'"}
+2025-05-01 17:44:11,356 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-01 17:44:14,359 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:44:14,360 - ArbitrageTrader - INFO - Updated 0 exchange rates
+2025-05-01 17:44:14,440 - ArbitrageTrader - ERROR - Failed to get account balance: 400, {"errorMessage":"Invalid value specified for 'accountID'"}
+2025-05-01 17:44:14,441 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-01 17:44:17,445 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:44:17,447 - ArbitrageTrader - INFO - Updated 0 exchange rates
+2025-05-01 17:44:17,534 - ArbitrageTrader - ERROR - Failed to get account balance: 400, {"errorMessage":"Invalid value specified for 'accountID'"}
+2025-05-01 17:44:17,535 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-01 17:44:20,536 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:44:20,536 - ArbitrageTrader - INFO - Updated 0 exchange rates
+2025-05-01 17:44:20,634 - ArbitrageTrader - ERROR - Failed to get account balance: 400, {"errorMessage":"Invalid value specified for 'accountID'"}
+2025-05-01 17:44:20,635 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-01 17:44:23,640 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:44:23,640 - ArbitrageTrader - INFO - Updated 0 exchange rates
+2025-05-01 17:44:23,735 - ArbitrageTrader - ERROR - Failed to get account balance: 400, {"errorMessage":"Invalid value specified for 'accountID'"}
+2025-05-01 17:44:23,736 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-01 17:44:26,738 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:44:26,738 - ArbitrageTrader - INFO - Updated 0 exchange rates
+2025-05-01 17:44:26,804 - ArbitrageTrader - ERROR - Failed to get account balance: 400, {"errorMessage":"Invalid value specified for 'accountID'"}
+2025-05-01 17:44:26,805 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-01 17:44:29,810 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:44:29,811 - ArbitrageTrader - INFO - Updated 0 exchange rates
+2025-05-01 17:44:29,893 - ArbitrageTrader - ERROR - Failed to get account balance: 400, {"errorMessage":"Invalid value specified for 'accountID'"}
+2025-05-01 17:44:29,894 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-01 17:44:32,896 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:44:32,896 - ArbitrageTrader - INFO - Updated 0 exchange rates
+2025-05-01 17:44:32,980 - ArbitrageTrader - ERROR - Failed to get account balance: 400, {"errorMessage":"Invalid value specified for 'accountID'"}
+2025-05-01 17:44:32,981 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-01 17:44:35,987 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:44:35,988 - ArbitrageTrader - INFO - Updated 0 exchange rates
+2025-05-01 17:44:36,107 - ArbitrageTrader - ERROR - Failed to get account balance: 400, {"errorMessage":"Invalid value specified for 'accountID'"}
+2025-05-01 17:44:36,108 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-01 17:44:39,110 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:44:39,111 - ArbitrageTrader - INFO - Updated 0 exchange rates
+2025-05-01 17:44:39,209 - ArbitrageTrader - ERROR - Failed to get account balance: 400, {"errorMessage":"Invalid value specified for 'accountID'"}
+2025-05-01 17:44:39,209 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-01 17:44:42,215 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:44:42,215 - ArbitrageTrader - INFO - Updated 0 exchange rates
+2025-05-01 17:44:42,327 - ArbitrageTrader - ERROR - Failed to get account balance: 400, {"errorMessage":"Invalid value specified for 'accountID'"}
+2025-05-01 17:44:42,327 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-01 17:44:45,333 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:44:45,333 - ArbitrageTrader - INFO - Updated 0 exchange rates
+2025-05-01 17:44:45,440 - ArbitrageTrader - ERROR - Failed to get account balance: 400, {"errorMessage":"Invalid value specified for 'accountID'"}
+2025-05-01 17:44:45,441 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-01 17:44:48,446 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:44:48,446 - ArbitrageTrader - INFO - Updated 0 exchange rates
+2025-05-01 17:44:48,516 - ArbitrageTrader - ERROR - Failed to get account balance: 400, {"errorMessage":"Invalid value specified for 'accountID'"}
+2025-05-01 17:44:48,517 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-01 17:44:51,521 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:44:51,522 - ArbitrageTrader - INFO - Updated 0 exchange rates
+2025-05-01 17:44:51,593 - ArbitrageTrader - ERROR - Failed to get account balance: 400, {"errorMessage":"Invalid value specified for 'accountID'"}
+2025-05-01 17:44:51,594 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-01 17:44:54,598 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:44:54,599 - ArbitrageTrader - INFO - Updated 0 exchange rates
+2025-05-01 17:44:54,679 - ArbitrageTrader - ERROR - Failed to get account balance: 400, {"errorMessage":"Invalid value specified for 'accountID'"}
+2025-05-01 17:44:54,679 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-01 17:44:57,685 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:44:57,686 - ArbitrageTrader - INFO - Updated 0 exchange rates
+2025-05-01 17:44:57,796 - ArbitrageTrader - ERROR - Failed to get account balance: 400, {"errorMessage":"Invalid value specified for 'accountID'"}
+2025-05-01 17:44:57,797 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-01 17:45:00,801 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:45:00,801 - ArbitrageTrader - INFO - Updated 0 exchange rates
+2025-05-01 17:45:00,914 - ArbitrageTrader - ERROR - Failed to get account balance: 400, {"errorMessage":"Invalid value specified for 'accountID'"}
+2025-05-01 17:45:00,915 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-01 17:45:03,916 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:45:03,917 - ArbitrageTrader - INFO - Updated 0 exchange rates
+2025-05-01 17:45:04,004 - ArbitrageTrader - ERROR - Failed to get account balance: 400, {"errorMessage":"Invalid value specified for 'accountID'"}
+2025-05-01 17:45:04,005 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-01 17:45:07,009 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:45:07,009 - ArbitrageTrader - INFO - Updated 0 exchange rates
+2025-05-01 17:45:07,087 - ArbitrageTrader - ERROR - Failed to get account balance: 400, {"errorMessage":"Invalid value specified for 'accountID'"}
+2025-05-01 17:45:07,088 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-01 17:45:10,092 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:45:10,094 - ArbitrageTrader - INFO - Updated 0 exchange rates
+2025-05-01 17:45:10,185 - ArbitrageTrader - ERROR - Failed to get account balance: 400, {"errorMessage":"Invalid value specified for 'accountID'"}
+2025-05-01 17:45:10,186 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-01 17:45:13,189 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:45:13,190 - ArbitrageTrader - INFO - Updated 0 exchange rates
+2025-05-01 17:45:13,269 - ArbitrageTrader - ERROR - Failed to get account balance: 400, {"errorMessage":"Invalid value specified for 'accountID'"}
+2025-05-01 17:45:13,270 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-01 17:45:16,273 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:45:16,274 - ArbitrageTrader - INFO - Updated 0 exchange rates
+2025-05-01 17:45:16,400 - ArbitrageTrader - ERROR - Failed to get account balance: 400, {"errorMessage":"Invalid value specified for 'accountID'"}
+2025-05-01 17:45:16,401 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-01 17:45:19,402 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:45:19,403 - ArbitrageTrader - INFO - Updated 0 exchange rates
+2025-05-01 17:45:19,546 - ArbitrageTrader - ERROR - Failed to get account balance: 400, {"errorMessage":"Invalid value specified for 'accountID'"}
+2025-05-01 17:45:19,547 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-01 17:45:22,552 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:45:22,553 - ArbitrageTrader - INFO - Updated 0 exchange rates
+2025-05-01 17:45:22,634 - ArbitrageTrader - ERROR - Failed to get account balance: 400, {"errorMessage":"Invalid value specified for 'accountID'"}
+2025-05-01 17:45:22,635 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-01 17:45:25,640 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:45:25,640 - ArbitrageTrader - INFO - Updated 0 exchange rates
+2025-05-01 17:45:25,740 - ArbitrageTrader - ERROR - Failed to get account balance: 400, {"errorMessage":"Invalid value specified for 'accountID'"}
+2025-05-01 17:45:25,741 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-01 17:45:28,742 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:45:28,743 - ArbitrageTrader - INFO - Updated 0 exchange rates
+2025-05-01 17:45:28,827 - ArbitrageTrader - ERROR - Failed to get account balance: 400, {"errorMessage":"Invalid value specified for 'accountID'"}
+2025-05-01 17:45:28,827 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-01 17:45:31,831 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:45:31,831 - ArbitrageTrader - INFO - Updated 0 exchange rates
+2025-05-01 17:45:32,080 - ArbitrageTrader - ERROR - Failed to get account balance: 400, {"errorMessage":"Invalid value specified for 'accountID'"}
+2025-05-01 17:45:32,081 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-01 17:45:35,087 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:45:35,089 - ArbitrageTrader - INFO - Updated 0 exchange rates
+2025-05-01 17:45:35,208 - ArbitrageTrader - ERROR - Failed to get account balance: 400, {"errorMessage":"Invalid value specified for 'accountID'"}
+2025-05-01 17:45:35,209 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-01 17:45:38,214 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:45:38,215 - ArbitrageTrader - INFO - Updated 0 exchange rates
+2025-05-01 17:45:38,297 - ArbitrageTrader - ERROR - Failed to get account balance: 400, {"errorMessage":"Invalid value specified for 'accountID'"}
+2025-05-01 17:45:38,297 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-01 17:45:41,302 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:45:41,303 - ArbitrageTrader - INFO - Updated 0 exchange rates
+2025-05-01 17:45:41,385 - ArbitrageTrader - ERROR - Failed to get account balance: 400, {"errorMessage":"Invalid value specified for 'accountID'"}
+2025-05-01 17:45:41,386 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-01 17:45:44,389 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:45:44,390 - ArbitrageTrader - INFO - Updated 0 exchange rates
+2025-05-01 17:45:44,470 - ArbitrageTrader - ERROR - Failed to get account balance: 400, {"errorMessage":"Invalid value specified for 'accountID'"}
+2025-05-01 17:45:44,470 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-01 17:45:47,476 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:45:47,478 - ArbitrageTrader - INFO - Updated 0 exchange rates
+2025-05-01 17:45:47,549 - ArbitrageTrader - ERROR - Failed to get account balance: 400, {"errorMessage":"Invalid value specified for 'accountID'"}
+2025-05-01 17:45:47,550 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-01 17:45:50,552 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:45:50,553 - ArbitrageTrader - INFO - Updated 0 exchange rates
+2025-05-01 17:45:50,645 - ArbitrageTrader - ERROR - Failed to get account balance: 400, {"errorMessage":"Invalid value specified for 'accountID'"}
+2025-05-01 17:45:50,646 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-01 17:45:53,648 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:45:53,649 - ArbitrageTrader - INFO - Updated 0 exchange rates
+2025-05-01 17:45:53,737 - ArbitrageTrader - ERROR - Failed to get account balance: 400, {"errorMessage":"Invalid value specified for 'accountID'"}
+2025-05-01 17:45:53,738 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-01 17:45:56,755 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:45:56,776 - ArbitrageTrader - INFO - Updated 0 exchange rates
+2025-05-01 17:45:56,895 - ArbitrageTrader - ERROR - Failed to get account balance: 400, {"errorMessage":"Invalid value specified for 'accountID'"}
+2025-05-01 17:45:56,895 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-01 17:45:59,919 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:45:59,933 - ArbitrageTrader - INFO - Updated 0 exchange rates
+2025-05-01 17:46:00,030 - ArbitrageTrader - ERROR - Failed to get account balance: 400, {"errorMessage":"Invalid value specified for 'accountID'"}
+2025-05-01 17:46:00,030 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-01 17:46:03,034 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:46:03,034 - ArbitrageTrader - INFO - Updated 0 exchange rates
+2025-05-01 17:46:03,258 - ArbitrageTrader - ERROR - Failed to get account balance: 400, {"errorMessage":"Invalid value specified for 'accountID'"}
+2025-05-01 17:46:03,258 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-01 17:46:06,264 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:46:06,265 - ArbitrageTrader - INFO - Updated 0 exchange rates
+2025-05-01 17:46:06,439 - ArbitrageTrader - ERROR - Failed to get account balance: 400, {"errorMessage":"Invalid value specified for 'accountID'"}
+2025-05-01 17:46:06,439 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-01 17:46:09,442 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:46:09,442 - ArbitrageTrader - INFO - Updated 0 exchange rates
+2025-05-01 17:46:09,516 - ArbitrageTrader - ERROR - Failed to get account balance: 400, {"errorMessage":"Invalid value specified for 'accountID'"}
+2025-05-01 17:46:09,516 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-01 17:46:12,522 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:46:12,522 - ArbitrageTrader - INFO - Updated 0 exchange rates
+2025-05-01 17:46:12,660 - ArbitrageTrader - ERROR - Failed to get account balance: 400, {"errorMessage":"Invalid value specified for 'accountID'"}
+2025-05-01 17:46:12,660 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-01 17:46:15,665 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:46:15,665 - ArbitrageTrader - INFO - Updated 0 exchange rates
+2025-05-01 17:46:15,760 - ArbitrageTrader - ERROR - Failed to get account balance: 400, {"errorMessage":"Invalid value specified for 'accountID'"}
+2025-05-01 17:46:15,761 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-01 17:46:18,763 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:46:18,764 - ArbitrageTrader - INFO - Updated 0 exchange rates
+2025-05-01 17:46:18,862 - ArbitrageTrader - ERROR - Failed to get account balance: 400, {"errorMessage":"Invalid value specified for 'accountID'"}
+2025-05-01 17:46:18,863 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-01 17:46:21,868 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:46:21,869 - ArbitrageTrader - INFO - Updated 0 exchange rates
+2025-05-01 17:46:21,945 - ArbitrageTrader - ERROR - Failed to get account balance: 400, {"errorMessage":"Invalid value specified for 'accountID'"}
+2025-05-01 17:46:21,945 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-01 17:46:24,951 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:46:24,951 - ArbitrageTrader - INFO - Updated 0 exchange rates
+2025-05-01 17:46:25,033 - ArbitrageTrader - ERROR - Failed to get account balance: 400, {"errorMessage":"Invalid value specified for 'accountID'"}
+2025-05-01 17:46:25,034 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-01 17:46:28,036 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:46:28,036 - ArbitrageTrader - INFO - Updated 0 exchange rates
+2025-05-01 17:46:28,109 - ArbitrageTrader - ERROR - Failed to get account balance: 400, {"errorMessage":"Invalid value specified for 'accountID'"}
+2025-05-01 17:46:28,110 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-01 17:46:31,116 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:46:31,116 - ArbitrageTrader - INFO - Updated 0 exchange rates
+2025-05-01 17:46:31,227 - ArbitrageTrader - ERROR - Failed to get account balance: 400, {"errorMessage":"Invalid value specified for 'accountID'"}
+2025-05-01 17:46:31,227 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-01 17:46:34,231 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:46:34,231 - ArbitrageTrader - INFO - Updated 0 exchange rates
+2025-05-01 17:46:34,315 - ArbitrageTrader - ERROR - Failed to get account balance: 400, {"errorMessage":"Invalid value specified for 'accountID'"}
+2025-05-01 17:46:34,316 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-01 17:46:37,318 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:46:37,319 - ArbitrageTrader - INFO - Updated 0 exchange rates
+2025-05-01 17:46:37,431 - ArbitrageTrader - ERROR - Failed to get account balance: 400, {"errorMessage":"Invalid value specified for 'accountID'"}
+2025-05-01 17:46:37,431 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-01 17:46:40,436 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:46:40,437 - ArbitrageTrader - INFO - Updated 0 exchange rates
+2025-05-01 17:46:40,553 - ArbitrageTrader - ERROR - Failed to get account balance: 400, {"errorMessage":"Invalid value specified for 'accountID'"}
+2025-05-01 17:46:40,554 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-01 17:46:43,559 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:46:43,560 - ArbitrageTrader - INFO - Updated 0 exchange rates
+2025-05-01 17:46:43,642 - ArbitrageTrader - ERROR - Failed to get account balance: 400, {"errorMessage":"Invalid value specified for 'accountID'"}
+2025-05-01 17:46:43,643 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-01 17:46:46,647 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:46:46,648 - ArbitrageTrader - INFO - Updated 0 exchange rates
+2025-05-01 17:46:46,729 - ArbitrageTrader - ERROR - Failed to get account balance: 400, {"errorMessage":"Invalid value specified for 'accountID'"}
+2025-05-01 17:46:46,729 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-01 17:46:49,735 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:46:49,735 - ArbitrageTrader - INFO - Updated 0 exchange rates
+2025-05-01 17:46:49,818 - ArbitrageTrader - ERROR - Failed to get account balance: 400, {"errorMessage":"Invalid value specified for 'accountID'"}
+2025-05-01 17:46:49,818 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-01 17:46:52,822 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:46:52,823 - ArbitrageTrader - INFO - Updated 0 exchange rates
+2025-05-01 17:46:52,914 - ArbitrageTrader - ERROR - Failed to get account balance: 400, {"errorMessage":"Invalid value specified for 'accountID'"}
+2025-05-01 17:46:52,915 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-01 17:46:55,921 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:46:55,921 - ArbitrageTrader - INFO - Updated 0 exchange rates
+2025-05-01 17:46:56,013 - ArbitrageTrader - ERROR - Failed to get account balance: 400, {"errorMessage":"Invalid value specified for 'accountID'"}
+2025-05-01 17:46:56,013 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-01 17:46:59,018 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:46:59,019 - ArbitrageTrader - INFO - Updated 0 exchange rates
+2025-05-01 17:46:59,104 - ArbitrageTrader - ERROR - Failed to get account balance: 400, {"errorMessage":"Invalid value specified for 'accountID'"}
+2025-05-01 17:46:59,105 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-01 17:47:02,110 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:47:02,111 - ArbitrageTrader - INFO - Updated 0 exchange rates
+2025-05-01 17:47:02,229 - ArbitrageTrader - ERROR - Failed to get account balance: 400, {"errorMessage":"Invalid value specified for 'accountID'"}
+2025-05-01 17:47:02,230 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-01 17:47:05,235 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:47:05,236 - ArbitrageTrader - INFO - Updated 0 exchange rates
+2025-05-01 17:47:05,313 - ArbitrageTrader - ERROR - Failed to get account balance: 400, {"errorMessage":"Invalid value specified for 'accountID'"}
+2025-05-01 17:47:05,314 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-01 17:47:08,319 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:47:08,320 - ArbitrageTrader - INFO - Updated 0 exchange rates
+2025-05-01 17:47:08,425 - ArbitrageTrader - ERROR - Failed to get account balance: 400, {"errorMessage":"Invalid value specified for 'accountID'"}
+2025-05-01 17:47:08,425 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-01 17:47:11,431 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:47:11,431 - ArbitrageTrader - INFO - Updated 0 exchange rates
+2025-05-01 17:47:11,516 - ArbitrageTrader - ERROR - Failed to get account balance: 400, {"errorMessage":"Invalid value specified for 'accountID'"}
+2025-05-01 17:47:11,517 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-01 17:47:14,520 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:47:14,520 - ArbitrageTrader - INFO - Updated 0 exchange rates
+2025-05-01 17:47:14,637 - ArbitrageTrader - ERROR - Failed to get account balance: 400, {"errorMessage":"Invalid value specified for 'accountID'"}
+2025-05-01 17:47:14,638 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-01 17:47:17,639 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:47:17,640 - ArbitrageTrader - INFO - Updated 0 exchange rates
+2025-05-01 17:47:17,733 - ArbitrageTrader - ERROR - Failed to get account balance: 400, {"errorMessage":"Invalid value specified for 'accountID'"}
+2025-05-01 17:47:17,733 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-01 17:47:20,735 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:47:20,736 - ArbitrageTrader - INFO - Updated 0 exchange rates
+2025-05-01 17:47:20,805 - ArbitrageTrader - ERROR - Failed to get account balance: 400, {"errorMessage":"Invalid value specified for 'accountID'"}
+2025-05-01 17:47:20,805 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-01 17:47:23,810 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:47:23,811 - ArbitrageTrader - INFO - Updated 0 exchange rates
+2025-05-01 17:47:23,892 - ArbitrageTrader - ERROR - Failed to get account balance: 400, {"errorMessage":"Invalid value specified for 'accountID'"}
+2025-05-01 17:47:23,893 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-01 17:47:26,896 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:47:26,896 - ArbitrageTrader - INFO - Updated 0 exchange rates
+2025-05-01 17:47:27,003 - ArbitrageTrader - ERROR - Failed to get account balance: 400, {"errorMessage":"Invalid value specified for 'accountID'"}
+2025-05-01 17:47:27,003 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-01 17:47:30,005 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:47:30,006 - ArbitrageTrader - INFO - Updated 0 exchange rates
+2025-05-01 17:47:30,108 - ArbitrageTrader - ERROR - Failed to get account balance: 400, {"errorMessage":"Invalid value specified for 'accountID'"}
+2025-05-01 17:47:30,108 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-01 17:47:33,110 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:47:33,111 - ArbitrageTrader - INFO - Updated 0 exchange rates
+2025-05-01 17:47:33,285 - ArbitrageTrader - ERROR - Failed to get account balance: 400, {"errorMessage":"Invalid value specified for 'accountID'"}
+2025-05-01 17:47:33,286 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-01 17:47:36,290 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:47:36,292 - ArbitrageTrader - INFO - Updated 0 exchange rates
+2025-05-01 17:47:36,396 - ArbitrageTrader - ERROR - Failed to get account balance: 400, {"errorMessage":"Invalid value specified for 'accountID'"}
+2025-05-01 17:47:36,396 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-01 17:47:39,398 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:47:39,398 - ArbitrageTrader - INFO - Updated 0 exchange rates
+2025-05-01 17:47:39,631 - ArbitrageTrader - ERROR - Failed to get account balance: 400, {"errorMessage":"Invalid value specified for 'accountID'"}
+2025-05-01 17:47:39,631 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-01 17:47:42,634 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:47:42,634 - ArbitrageTrader - INFO - Updated 0 exchange rates
+2025-05-01 17:47:42,741 - ArbitrageTrader - ERROR - Failed to get account balance: 400, {"errorMessage":"Invalid value specified for 'accountID'"}
+2025-05-01 17:47:42,742 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-01 17:47:45,744 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:47:45,745 - ArbitrageTrader - INFO - Updated 0 exchange rates
+2025-05-01 17:47:45,865 - ArbitrageTrader - ERROR - Failed to get account balance: 400, {"errorMessage":"Invalid value specified for 'accountID'"}
+2025-05-01 17:47:45,866 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-01 17:47:48,867 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:47:48,867 - ArbitrageTrader - INFO - Updated 0 exchange rates
+2025-05-01 17:47:48,961 - ArbitrageTrader - ERROR - Failed to get account balance: 400, {"errorMessage":"Invalid value specified for 'accountID'"}
+2025-05-01 17:47:48,962 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-01 17:47:51,963 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:47:51,964 - ArbitrageTrader - INFO - Updated 0 exchange rates
+2025-05-01 17:47:52,046 - ArbitrageTrader - ERROR - Failed to get account balance: 400, {"errorMessage":"Invalid value specified for 'accountID'"}
+2025-05-01 17:47:52,047 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-01 17:47:55,052 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:47:55,053 - ArbitrageTrader - INFO - Updated 0 exchange rates
+2025-05-01 17:47:55,173 - ArbitrageTrader - ERROR - Failed to get account balance: 400, {"errorMessage":"Invalid value specified for 'accountID'"}
+2025-05-01 17:47:55,174 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-01 17:47:58,175 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:47:58,175 - ArbitrageTrader - INFO - Updated 0 exchange rates
+2025-05-01 17:47:58,259 - ArbitrageTrader - ERROR - Failed to get account balance: 400, {"errorMessage":"Invalid value specified for 'accountID'"}
+2025-05-01 17:47:58,259 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-01 17:48:01,265 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:48:01,265 - ArbitrageTrader - INFO - Updated 0 exchange rates
+2025-05-01 17:48:01,364 - ArbitrageTrader - ERROR - Failed to get account balance: 400, {"errorMessage":"Invalid value specified for 'accountID'"}
+2025-05-01 17:48:01,364 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-01 17:48:04,366 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:48:04,366 - ArbitrageTrader - INFO - Updated 0 exchange rates
+2025-05-01 17:48:04,493 - ArbitrageTrader - ERROR - Failed to get account balance: 400, {"errorMessage":"Invalid value specified for 'accountID'"}
+2025-05-01 17:48:04,494 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-01 17:48:07,497 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:48:07,497 - ArbitrageTrader - INFO - Updated 0 exchange rates
+2025-05-01 17:48:07,588 - ArbitrageTrader - ERROR - Failed to get account balance: 400, {"errorMessage":"Invalid value specified for 'accountID'"}
+2025-05-01 17:48:07,589 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-01 17:48:10,595 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:48:10,597 - ArbitrageTrader - INFO - Updated 0 exchange rates
+2025-05-01 17:48:10,707 - ArbitrageTrader - ERROR - Failed to get account balance: 400, {"errorMessage":"Invalid value specified for 'accountID'"}
+2025-05-01 17:48:10,708 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-01 17:48:13,711 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:48:13,712 - ArbitrageTrader - INFO - Updated 0 exchange rates
+2025-05-01 17:48:13,800 - ArbitrageTrader - ERROR - Failed to get account balance: 400, {"errorMessage":"Invalid value specified for 'accountID'"}
+2025-05-01 17:48:13,801 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-01 17:48:16,806 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:48:16,807 - ArbitrageTrader - INFO - Updated 0 exchange rates
+2025-05-01 17:48:16,898 - ArbitrageTrader - ERROR - Failed to get account balance: 400, {"errorMessage":"Invalid value specified for 'accountID'"}
+2025-05-01 17:48:16,899 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-01 17:48:19,904 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:48:19,905 - ArbitrageTrader - INFO - Updated 0 exchange rates
+2025-05-01 17:48:19,997 - ArbitrageTrader - ERROR - Failed to get account balance: 400, {"errorMessage":"Invalid value specified for 'accountID'"}
+2025-05-01 17:48:19,998 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-01 17:48:23,000 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:48:23,000 - ArbitrageTrader - INFO - Updated 0 exchange rates
+2025-05-01 17:48:23,109 - ArbitrageTrader - ERROR - Failed to get account balance: 400, {"errorMessage":"Invalid value specified for 'accountID'"}
+2025-05-01 17:48:23,114 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-01 17:48:26,119 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:48:26,120 - ArbitrageTrader - INFO - Updated 0 exchange rates
+2025-05-01 17:48:26,225 - ArbitrageTrader - ERROR - Failed to get account balance: 400, {"errorMessage":"Invalid value specified for 'accountID'"}
+2025-05-01 17:48:26,226 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-01 17:48:29,227 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:48:29,229 - ArbitrageTrader - INFO - Updated 0 exchange rates
+2025-05-01 17:48:29,310 - ArbitrageTrader - ERROR - Failed to get account balance: 400, {"errorMessage":"Invalid value specified for 'accountID'"}
+2025-05-01 17:48:29,311 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-01 17:48:32,312 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:48:32,312 - ArbitrageTrader - INFO - Updated 0 exchange rates
+2025-05-01 17:48:32,400 - ArbitrageTrader - ERROR - Failed to get account balance: 400, {"errorMessage":"Invalid value specified for 'accountID'"}
+2025-05-01 17:48:32,401 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-01 17:48:35,407 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:48:35,410 - ArbitrageTrader - INFO - Updated 0 exchange rates
+2025-05-01 17:48:35,541 - ArbitrageTrader - ERROR - Failed to get account balance: 400, {"errorMessage":"Invalid value specified for 'accountID'"}
+2025-05-01 17:48:35,542 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-01 17:48:38,546 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:48:38,546 - ArbitrageTrader - INFO - Updated 0 exchange rates
+2025-05-01 17:48:38,642 - ArbitrageTrader - ERROR - Failed to get account balance: 400, {"errorMessage":"Invalid value specified for 'accountID'"}
+2025-05-01 17:48:38,643 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-01 17:48:41,644 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:48:41,645 - ArbitrageTrader - INFO - Updated 0 exchange rates
+2025-05-01 17:48:41,796 - ArbitrageTrader - ERROR - Failed to get account balance: 400, {"errorMessage":"Invalid value specified for 'accountID'"}
+2025-05-01 17:48:41,797 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-01 17:48:44,801 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:48:44,801 - ArbitrageTrader - INFO - Updated 0 exchange rates
+2025-05-01 17:48:44,872 - ArbitrageTrader - ERROR - Failed to get account balance: 400, {"errorMessage":"Invalid value specified for 'accountID'"}
+2025-05-01 17:48:44,872 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-01 17:48:47,877 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:48:47,879 - ArbitrageTrader - INFO - Updated 0 exchange rates
+2025-05-01 17:48:47,954 - ArbitrageTrader - ERROR - Failed to get account balance: 400, {"errorMessage":"Invalid value specified for 'accountID'"}
+2025-05-01 17:48:47,955 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-01 17:48:50,956 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:48:50,959 - ArbitrageTrader - INFO - Updated 0 exchange rates
+2025-05-01 17:48:51,044 - ArbitrageTrader - ERROR - Failed to get account balance: 400, {"errorMessage":"Invalid value specified for 'accountID'"}
+2025-05-01 17:48:51,045 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-01 17:48:54,049 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:48:54,050 - ArbitrageTrader - INFO - Updated 0 exchange rates
+2025-05-01 17:48:54,126 - ArbitrageTrader - ERROR - Failed to get account balance: 400, {"errorMessage":"Invalid value specified for 'accountID'"}
+2025-05-01 17:48:54,126 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-01 17:48:57,130 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:48:57,130 - ArbitrageTrader - INFO - Updated 0 exchange rates
+2025-05-01 17:48:57,214 - ArbitrageTrader - ERROR - Failed to get account balance: 400, {"errorMessage":"Invalid value specified for 'accountID'"}
+2025-05-01 17:48:57,214 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-01 17:49:00,216 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:49:00,216 - ArbitrageTrader - INFO - Updated 0 exchange rates
+2025-05-01 17:49:00,288 - ArbitrageTrader - ERROR - Failed to get account balance: 400, {"errorMessage":"Invalid value specified for 'accountID'"}
+2025-05-01 17:49:00,289 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-01 17:49:03,294 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:49:03,295 - ArbitrageTrader - INFO - Updated 0 exchange rates
+2025-05-01 17:49:03,375 - ArbitrageTrader - ERROR - Failed to get account balance: 400, {"errorMessage":"Invalid value specified for 'accountID'"}
+2025-05-01 17:49:03,375 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-01 17:49:06,376 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:49:06,377 - ArbitrageTrader - INFO - Updated 0 exchange rates
+2025-05-01 17:49:06,475 - ArbitrageTrader - ERROR - Failed to get account balance: 400, {"errorMessage":"Invalid value specified for 'accountID'"}
+2025-05-01 17:49:06,476 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-01 17:49:09,481 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:49:09,482 - ArbitrageTrader - INFO - Updated 0 exchange rates
+2025-05-01 17:49:09,668 - ArbitrageTrader - ERROR - Failed to get account balance: 400, {"errorMessage":"Invalid value specified for 'accountID'"}
+2025-05-01 17:49:09,668 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-01 17:49:12,673 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:49:12,673 - ArbitrageTrader - INFO - Updated 0 exchange rates
+2025-05-01 17:49:12,767 - ArbitrageTrader - ERROR - Failed to get account balance: 400, {"errorMessage":"Invalid value specified for 'accountID'"}
+2025-05-01 17:49:12,768 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-01 17:49:15,771 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:49:15,772 - ArbitrageTrader - INFO - Updated 0 exchange rates
+2025-05-01 17:49:15,862 - ArbitrageTrader - ERROR - Failed to get account balance: 400, {"errorMessage":"Invalid value specified for 'accountID'"}
+2025-05-01 17:49:15,863 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-01 17:49:18,869 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:49:18,870 - ArbitrageTrader - INFO - Updated 0 exchange rates
+2025-05-01 17:49:18,961 - ArbitrageTrader - ERROR - Failed to get account balance: 400, {"errorMessage":"Invalid value specified for 'accountID'"}
+2025-05-01 17:49:18,962 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-01 17:49:21,965 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:49:21,966 - ArbitrageTrader - INFO - Updated 0 exchange rates
+2025-05-01 17:49:22,031 - ArbitrageTrader - ERROR - Failed to get account balance: 400, {"errorMessage":"Invalid value specified for 'accountID'"}
+2025-05-01 17:49:22,032 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-01 17:49:25,038 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:49:25,039 - ArbitrageTrader - INFO - Updated 0 exchange rates
+2025-05-01 17:49:25,133 - ArbitrageTrader - ERROR - Failed to get account balance: 400, {"errorMessage":"Invalid value specified for 'accountID'"}
+2025-05-01 17:49:25,134 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-01 17:49:28,140 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:49:28,144 - ArbitrageTrader - INFO - Updated 0 exchange rates
+2025-05-01 17:49:28,235 - ArbitrageTrader - ERROR - Failed to get account balance: 400, {"errorMessage":"Invalid value specified for 'accountID'"}
+2025-05-01 17:49:28,239 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-01 17:49:31,245 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:49:31,245 - ArbitrageTrader - INFO - Updated 0 exchange rates
+2025-05-01 17:49:31,341 - ArbitrageTrader - ERROR - Failed to get account balance: 400, {"errorMessage":"Invalid value specified for 'accountID'"}
+2025-05-01 17:49:31,341 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-01 17:49:34,346 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:49:34,348 - ArbitrageTrader - INFO - Updated 0 exchange rates
+2025-05-01 17:49:34,472 - ArbitrageTrader - ERROR - Failed to get account balance: 400, {"errorMessage":"Invalid value specified for 'accountID'"}
+2025-05-01 17:49:34,472 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-01 17:49:37,477 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:49:37,477 - ArbitrageTrader - INFO - Updated 0 exchange rates
+2025-05-01 17:49:37,556 - ArbitrageTrader - ERROR - Failed to get account balance: 400, {"errorMessage":"Invalid value specified for 'accountID'"}
+2025-05-01 17:49:37,556 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-01 17:49:40,561 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:49:40,562 - ArbitrageTrader - INFO - Updated 0 exchange rates
+2025-05-01 17:49:40,647 - ArbitrageTrader - ERROR - Failed to get account balance: 400, {"errorMessage":"Invalid value specified for 'accountID'"}
+2025-05-01 17:49:40,648 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-01 17:49:43,653 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:49:43,653 - ArbitrageTrader - INFO - Updated 0 exchange rates
+2025-05-01 17:49:43,740 - ArbitrageTrader - ERROR - Failed to get account balance: 400, {"errorMessage":"Invalid value specified for 'accountID'"}
+2025-05-01 17:49:43,741 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-01 17:49:45,850 - ArbitrageTrader - INFO - Arbitrage trading stopped by user
+2025-05-01 17:49:45,935 - ArbitrageTrader - ERROR - Failed to get account balance: 400, {"errorMessage":"Invalid value specified for 'accountID'"}
+2025-05-01 17:49:45,938 - ArbitrageTrader - INFO - Trading session complete. Final balance: 10000.0
+2025-05-01 17:49:45,938 - ArbitrageTrader - INFO - Total profit/loss: 0.0 (0.00%)
+2025-05-01 17:49:45,942 - ArbitrageTrader - INFO - Performance data saved to ./data/performance_20250501_174945.json
+2025-05-01 17:49:45,943 - ArbitrageTrader - INFO - Performance report saved to ./data/summary_20250501_174945.txt

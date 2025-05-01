@@ -1,0 +1,442 @@
+2025-05-01 17:52:11,472 - ArbitrageTrader - INFO - Logging initialized at 20250501_175211
+2025-05-01 17:52:11,473 - ArbitrageTrader - INFO - Log file: ./logs/arbitrage_20250501_175211.log
+2025-05-01 17:52:11,473 - ArbitrageTrader - INFO - Loaded configuration from config.json
+2025-05-01 17:52:11,473 - ArbitrageTrader - INFO - OANDA Arbitrage Trading System
+2025-05-01 17:52:11,473 - ArbitrageTrader - INFO - ----------------------------------------
+2025-05-01 17:52:11,473 - ArbitrageTrader - INFO - Starting time: 2025-05-01 17:52:11.473193
+2025-05-01 17:52:11,473 - ArbitrageTrader - INFO - Mode: Live trading
+2025-05-01 17:52:11,473 - ArbitrageTrader - INFO - Environment: Production
+2025-05-01 17:52:11,473 - ArbitrageTrader - INFO - Check interval: 3 seconds
+2025-05-01 17:52:11,473 - ArbitrageTrader - INFO - ----------------------------------------
+2025-05-01 17:52:11,642 - ArbitrageTrader - INFO - Found 21 unique currencies
+2025-05-01 17:52:11,642 - ArbitrageTrader - INFO - OANDA Arbitrage Trader initialized in live mode
+2025-05-01 17:52:11,642 - ArbitrageTrader - INFO - Account ID: 001-001-13604949-002
+2025-05-01 17:52:11,642 - ArbitrageTrader - INFO - Starting balance: 0.0
+2025-05-01 17:52:11,642 - ArbitrageTrader - INFO - Monitoring 68 valid currency pairs
+2025-05-01 17:52:11,642 - ArbitrageTrader - INFO - Starting arbitrage trading system with check interval 3s
+2025-05-01 17:52:11,701 - ArbitrageTrader - INFO - Initial account balance: 0.0
+2025-05-01 17:52:11,701 - ArbitrageTrader - INFO - LIVE MODE: Executing real trades
+2025-05-01 17:52:11,701 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:52:12,173 - ArbitrageTrader - INFO - Updated 136 exchange rates
+2025-05-01 17:52:12,291 - ArbitrageTrader - INFO - Found arbitrage opportunity: 0.8195% profit
+2025-05-01 17:52:12,360 - ArbitrageTrader - INFO - Executing arbitrage cycle with expected profit: 0.8195%
+2025-05-01 17:52:12,360 - ArbitrageTrader - INFO - Cycle: EUR -> JPY -> TRY -> EUR
+2025-05-01 17:52:12,469 - ArbitrageTrader - ERROR - Order failed: 400, {"orderRejectTransaction":{"id":"4","accountID":"001-001-13604949-002","userID":13604949,"batchID":"4","requestID":"187467811700379148","time":"2025-05-01T21:52:12.460964615Z","type":"MARKET_ORDER_REJECT","rejectReason":"UNITS_INVALID","instrument":"EUR_JPY","units":"0","timeInForce":"FOK","positionFill":"DEFAULT","reason":"CLIENT_ORDER"},"relatedTransactionIDs":["4"],"lastTransactionID":"4","errorMessage":"Order units specified are invalid","errorCode":"UNITS_INVALID"}
+2025-05-01 17:52:12,470 - ArbitrageTrader - ERROR - Failed to execute trade: EUR to JPY
+2025-05-01 17:52:12,470 - ArbitrageTrader - WARNING - Trade failed: Order failed for EUR_JPY
+2025-05-01 17:52:18,474 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:52:18,942 - ArbitrageTrader - INFO - Updated 136 exchange rates
+2025-05-01 17:52:19,006 - ArbitrageTrader - INFO - Found arbitrage opportunity: 0.8207% profit
+2025-05-01 17:52:19,063 - ArbitrageTrader - INFO - Executing arbitrage cycle with expected profit: 0.8207%
+2025-05-01 17:52:19,063 - ArbitrageTrader - INFO - Cycle: EUR -> JPY -> TRY -> EUR
+2025-05-01 17:52:19,196 - ArbitrageTrader - ERROR - Order failed: 400, {"orderRejectTransaction":{"id":"5","accountID":"001-001-13604949-002","userID":13604949,"batchID":"5","requestID":"97395819180970406","time":"2025-05-01T21:52:19.188567051Z","type":"MARKET_ORDER_REJECT","rejectReason":"UNITS_INVALID","instrument":"EUR_JPY","units":"0","timeInForce":"FOK","positionFill":"DEFAULT","reason":"CLIENT_ORDER"},"relatedTransactionIDs":["5"],"lastTransactionID":"5","errorMessage":"Order units specified are invalid","errorCode":"UNITS_INVALID"}
+2025-05-01 17:52:19,197 - ArbitrageTrader - ERROR - Failed to execute trade: EUR to JPY
+2025-05-01 17:52:19,197 - ArbitrageTrader - WARNING - Trade failed: Order failed for EUR_JPY
+2025-05-01 17:52:25,202 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:52:25,664 - ArbitrageTrader - INFO - Updated 136 exchange rates
+2025-05-01 17:52:25,724 - ArbitrageTrader - INFO - Found arbitrage opportunity: 0.8226% profit
+2025-05-01 17:52:25,775 - ArbitrageTrader - INFO - Executing arbitrage cycle with expected profit: 0.8226%
+2025-05-01 17:52:25,775 - ArbitrageTrader - INFO - Cycle: EUR -> JPY -> TRY -> EUR
+2025-05-01 17:52:25,917 - ArbitrageTrader - ERROR - Order failed: 400, {"orderRejectTransaction":{"id":"6","accountID":"001-001-13604949-002","userID":13604949,"batchID":"6","requestID":"187467811754914665","time":"2025-05-01T21:52:25.904471915Z","type":"MARKET_ORDER_REJECT","rejectReason":"UNITS_INVALID","instrument":"EUR_JPY","units":"0","timeInForce":"FOK","positionFill":"DEFAULT","reason":"CLIENT_ORDER"},"relatedTransactionIDs":["6"],"lastTransactionID":"6","errorMessage":"Order units specified are invalid","errorCode":"UNITS_INVALID"}
+2025-05-01 17:52:25,918 - ArbitrageTrader - ERROR - Failed to execute trade: EUR to JPY
+2025-05-01 17:52:25,918 - ArbitrageTrader - WARNING - Trade failed: Order failed for EUR_JPY
+2025-05-01 17:52:31,924 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:52:32,396 - ArbitrageTrader - INFO - Updated 136 exchange rates
+2025-05-01 17:52:32,454 - ArbitrageTrader - INFO - Found arbitrage opportunity: 0.8446% profit
+2025-05-01 17:52:32,561 - ArbitrageTrader - INFO - Executing arbitrage cycle with expected profit: 0.8446%
+2025-05-01 17:52:32,562 - ArbitrageTrader - INFO - Cycle: EUR -> JPY -> TRY -> EUR
+2025-05-01 17:52:32,702 - ArbitrageTrader - ERROR - Order failed: 400, {"orderRejectTransaction":{"id":"7","accountID":"001-001-13604949-002","userID":13604949,"batchID":"7","requestID":"133424616253586636","time":"2025-05-01T21:52:32.688183605Z","type":"MARKET_ORDER_REJECT","rejectReason":"UNITS_INVALID","instrument":"EUR_JPY","units":"0","timeInForce":"FOK","positionFill":"DEFAULT","reason":"CLIENT_ORDER"},"relatedTransactionIDs":["7"],"lastTransactionID":"7","errorMessage":"Order units specified are invalid","errorCode":"UNITS_INVALID"}
+2025-05-01 17:52:32,703 - ArbitrageTrader - ERROR - Failed to execute trade: EUR to JPY
+2025-05-01 17:52:32,703 - ArbitrageTrader - WARNING - Trade failed: Order failed for EUR_JPY
+2025-05-01 17:52:38,709 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:52:39,242 - ArbitrageTrader - INFO - Updated 136 exchange rates
+2025-05-01 17:52:39,311 - ArbitrageTrader - INFO - Found arbitrage opportunity: 0.8446% profit
+2025-05-01 17:52:39,370 - ArbitrageTrader - INFO - Executing arbitrage cycle with expected profit: 0.8446%
+2025-05-01 17:52:39,370 - ArbitrageTrader - INFO - Cycle: EUR -> JPY -> TRY -> EUR
+2025-05-01 17:52:39,493 - ArbitrageTrader - ERROR - Order failed: 400, {"orderRejectTransaction":{"id":"8","accountID":"001-001-13604949-002","userID":13604949,"batchID":"8","requestID":"169453413301204591","time":"2025-05-01T21:52:39.482171305Z","type":"MARKET_ORDER_REJECT","rejectReason":"UNITS_INVALID","instrument":"EUR_JPY","units":"0","timeInForce":"FOK","positionFill":"DEFAULT","reason":"CLIENT_ORDER"},"relatedTransactionIDs":["8"],"lastTransactionID":"8","errorMessage":"Order units specified are invalid","errorCode":"UNITS_INVALID"}
+2025-05-01 17:52:39,493 - ArbitrageTrader - ERROR - Failed to execute trade: EUR to JPY
+2025-05-01 17:52:39,493 - ArbitrageTrader - WARNING - Trade failed: Order failed for EUR_JPY
+2025-05-01 17:52:45,499 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:52:45,944 - ArbitrageTrader - INFO - Updated 136 exchange rates
+2025-05-01 17:52:46,013 - ArbitrageTrader - INFO - Found arbitrage opportunity: 0.8415% profit
+2025-05-01 17:52:46,082 - ArbitrageTrader - INFO - Executing arbitrage cycle with expected profit: 0.8415%
+2025-05-01 17:52:46,083 - ArbitrageTrader - INFO - Cycle: EUR -> JPY -> TRY -> EUR
+2025-05-01 17:52:46,214 - ArbitrageTrader - ERROR - Order failed: 400, {"orderRejectTransaction":{"id":"9","accountID":"001-001-13604949-002","userID":13604949,"batchID":"9","requestID":"151439014823036973","time":"2025-05-01T21:52:46.193233206Z","type":"MARKET_ORDER_REJECT","rejectReason":"UNITS_INVALID","instrument":"EUR_JPY","units":"0","timeInForce":"FOK","positionFill":"DEFAULT","reason":"CLIENT_ORDER"},"relatedTransactionIDs":["9"],"lastTransactionID":"9","errorMessage":"Order units specified are invalid","errorCode":"UNITS_INVALID"}
+2025-05-01 17:52:46,215 - ArbitrageTrader - ERROR - Failed to execute trade: EUR to JPY
+2025-05-01 17:52:46,215 - ArbitrageTrader - WARNING - Trade failed: Order failed for EUR_JPY
+2025-05-01 17:52:52,219 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:52:52,706 - ArbitrageTrader - INFO - Updated 136 exchange rates
+2025-05-01 17:52:52,798 - ArbitrageTrader - INFO - Found arbitrage opportunity: 0.8619% profit
+2025-05-01 17:52:52,856 - ArbitrageTrader - INFO - Executing arbitrage cycle with expected profit: 0.8619%
+2025-05-01 17:52:52,857 - ArbitrageTrader - INFO - Cycle: JPY -> TRY -> EUR -> JPY
+2025-05-01 17:52:52,913 - ArbitrageTrader - WARNING - Error fetching price for JPY_TRY: 400, {"errorMessage":"Invalid value specified for 'instrument'"}
+2025-05-01 17:52:52,914 - ArbitrageTrader - ERROR - Failed to get price for JPY_TRY
+2025-05-01 17:52:52,914 - ArbitrageTrader - WARNING - Trade failed: Price data unavailable for JPY_TRY
+2025-05-01 17:52:58,920 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:52:59,418 - ArbitrageTrader - INFO - Updated 136 exchange rates
+2025-05-01 17:52:59,518 - ArbitrageTrader - INFO - Found arbitrage opportunity: 0.8601% profit
+2025-05-01 17:52:59,576 - ArbitrageTrader - INFO - Executing arbitrage cycle with expected profit: 0.8601%
+2025-05-01 17:52:59,576 - ArbitrageTrader - INFO - Cycle: JPY -> TRY -> EUR -> JPY
+2025-05-01 17:52:59,634 - ArbitrageTrader - WARNING - Error fetching price for JPY_TRY: 400, {"errorMessage":"Invalid value specified for 'instrument'"}
+2025-05-01 17:52:59,635 - ArbitrageTrader - ERROR - Failed to get price for JPY_TRY
+2025-05-01 17:52:59,635 - ArbitrageTrader - WARNING - Trade failed: Price data unavailable for JPY_TRY
+2025-05-01 17:53:05,640 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:53:06,123 - ArbitrageTrader - INFO - Updated 136 exchange rates
+2025-05-01 17:53:06,192 - ArbitrageTrader - INFO - Found arbitrage opportunity: 0.8632% profit
+2025-05-01 17:53:06,252 - ArbitrageTrader - INFO - Executing arbitrage cycle with expected profit: 0.8632%
+2025-05-01 17:53:06,252 - ArbitrageTrader - INFO - Cycle: EUR -> JPY -> TRY -> EUR
+2025-05-01 17:53:06,391 - ArbitrageTrader - ERROR - Order failed: 400, {"orderRejectTransaction":{"id":"10","accountID":"001-001-13604949-002","userID":13604949,"batchID":"10","requestID":"115410217888726336","time":"2025-05-01T21:53:06.385791187Z","type":"MARKET_ORDER_REJECT","rejectReason":"UNITS_INVALID","instrument":"EUR_JPY","units":"0","timeInForce":"FOK","positionFill":"DEFAULT","reason":"CLIENT_ORDER"},"relatedTransactionIDs":["10"],"lastTransactionID":"10","errorMessage":"Order units specified are invalid","errorCode":"UNITS_INVALID"}
+2025-05-01 17:53:06,392 - ArbitrageTrader - ERROR - Failed to execute trade: EUR to JPY
+2025-05-01 17:53:06,392 - ArbitrageTrader - WARNING - Trade failed: Order failed for EUR_JPY
+2025-05-01 17:53:12,397 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:53:12,865 - ArbitrageTrader - INFO - Updated 136 exchange rates
+2025-05-01 17:53:12,923 - ArbitrageTrader - INFO - Found arbitrage opportunity: 0.8615% profit
+2025-05-01 17:53:12,989 - ArbitrageTrader - INFO - Executing arbitrage cycle with expected profit: 0.8615%
+2025-05-01 17:53:12,990 - ArbitrageTrader - INFO - Cycle: EUR -> JPY -> TRY -> EUR
+2025-05-01 17:53:13,134 - ArbitrageTrader - ERROR - Order failed: 400, {"orderRejectTransaction":{"id":"11","accountID":"001-001-13604949-002","userID":13604949,"batchID":"11","requestID":"223496608973390352","time":"2025-05-01T21:53:13.119492606Z","type":"MARKET_ORDER_REJECT","rejectReason":"UNITS_INVALID","instrument":"EUR_JPY","units":"0","timeInForce":"FOK","positionFill":"DEFAULT","reason":"CLIENT_ORDER"},"relatedTransactionIDs":["11"],"lastTransactionID":"11","errorMessage":"Order units specified are invalid","errorCode":"UNITS_INVALID"}
+2025-05-01 17:53:13,134 - ArbitrageTrader - ERROR - Failed to execute trade: EUR to JPY
+2025-05-01 17:53:13,134 - ArbitrageTrader - WARNING - Trade failed: Order failed for EUR_JPY
+2025-05-01 17:53:19,138 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:53:19,631 - ArbitrageTrader - INFO - Updated 136 exchange rates
+2025-05-01 17:53:19,702 - ArbitrageTrader - INFO - Found arbitrage opportunity: 0.8609% profit
+2025-05-01 17:53:19,770 - ArbitrageTrader - INFO - Executing arbitrage cycle with expected profit: 0.8609%
+2025-05-01 17:53:19,770 - ArbitrageTrader - INFO - Cycle: EUR -> JPY -> TRY -> EUR
+2025-05-01 17:53:19,939 - ArbitrageTrader - ERROR - Order failed: 400, {"orderRejectTransaction":{"id":"12","accountID":"001-001-13604949-002","userID":13604949,"batchID":"12","requestID":"169453413469008070","time":"2025-05-01T21:53:19.929649330Z","type":"MARKET_ORDER_REJECT","rejectReason":"UNITS_INVALID","instrument":"EUR_JPY","units":"0","timeInForce":"FOK","positionFill":"DEFAULT","reason":"CLIENT_ORDER"},"relatedTransactionIDs":["12"],"lastTransactionID":"12","errorMessage":"Order units specified are invalid","errorCode":"UNITS_INVALID"}
+2025-05-01 17:53:19,939 - ArbitrageTrader - ERROR - Failed to execute trade: EUR to JPY
+2025-05-01 17:53:19,939 - ArbitrageTrader - WARNING - Trade failed: Order failed for EUR_JPY
+2025-05-01 17:53:25,945 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:53:26,448 - ArbitrageTrader - INFO - Updated 136 exchange rates
+2025-05-01 17:53:26,519 - ArbitrageTrader - INFO - Found arbitrage opportunity: 0.8609% profit
+2025-05-01 17:53:26,604 - ArbitrageTrader - INFO - Executing arbitrage cycle with expected profit: 0.8609%
+2025-05-01 17:53:26,604 - ArbitrageTrader - INFO - Cycle: EUR -> JPY -> TRY -> EUR
+2025-05-01 17:53:26,764 - ArbitrageTrader - ERROR - Order failed: 400, {"orderRejectTransaction":{"id":"13","accountID":"001-001-13604949-002","userID":13604949,"batchID":"13","requestID":"115410217972633303","time":"2025-05-01T21:53:26.751071777Z","type":"MARKET_ORDER_REJECT","rejectReason":"UNITS_INVALID","instrument":"EUR_JPY","units":"0","timeInForce":"FOK","positionFill":"DEFAULT","reason":"CLIENT_ORDER"},"relatedTransactionIDs":["13"],"lastTransactionID":"13","errorMessage":"Order units specified are invalid","errorCode":"UNITS_INVALID"}
+2025-05-01 17:53:26,765 - ArbitrageTrader - ERROR - Failed to execute trade: EUR to JPY
+2025-05-01 17:53:26,765 - ArbitrageTrader - WARNING - Trade failed: Order failed for EUR_JPY
+2025-05-01 17:53:32,771 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:53:33,233 - ArbitrageTrader - INFO - Updated 136 exchange rates
+2025-05-01 17:53:33,306 - ArbitrageTrader - INFO - Found arbitrage opportunity: 0.8578% profit
+2025-05-01 17:53:33,357 - ArbitrageTrader - INFO - Executing arbitrage cycle with expected profit: 0.8578%
+2025-05-01 17:53:33,357 - ArbitrageTrader - INFO - Cycle: EUR -> JPY -> TRY -> EUR
+2025-05-01 17:53:33,484 - ArbitrageTrader - ERROR - Order failed: 400, {"orderRejectTransaction":{"id":"14","accountID":"001-001-13604949-002","userID":13604949,"batchID":"14","requestID":"187467812040177841","time":"2025-05-01T21:53:33.463916349Z","type":"MARKET_ORDER_REJECT","rejectReason":"UNITS_INVALID","instrument":"EUR_JPY","units":"0","timeInForce":"FOK","positionFill":"DEFAULT","reason":"CLIENT_ORDER"},"relatedTransactionIDs":["14"],"lastTransactionID":"14","errorMessage":"Order units specified are invalid","errorCode":"UNITS_INVALID"}
+2025-05-01 17:53:33,485 - ArbitrageTrader - ERROR - Failed to execute trade: EUR to JPY
+2025-05-01 17:53:33,486 - ArbitrageTrader - WARNING - Trade failed: Order failed for EUR_JPY
+2025-05-01 17:53:39,488 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:53:39,942 - ArbitrageTrader - INFO - Updated 136 exchange rates
+2025-05-01 17:53:40,017 - ArbitrageTrader - INFO - Found arbitrage opportunity: 0.8370% profit
+2025-05-01 17:53:40,081 - ArbitrageTrader - INFO - Executing arbitrage cycle with expected profit: 0.8370%
+2025-05-01 17:53:40,082 - ArbitrageTrader - INFO - Cycle: EUR -> JPY -> TRY -> EUR
+2025-05-01 17:53:40,203 - ArbitrageTrader - ERROR - Order failed: 400, {"orderRejectTransaction":{"id":"15","accountID":"001-001-13604949-002","userID":13604949,"batchID":"15","requestID":"169453413557104062","time":"2025-05-01T21:53:40.189238520Z","type":"MARKET_ORDER_REJECT","rejectReason":"UNITS_INVALID","instrument":"EUR_JPY","units":"0","timeInForce":"FOK","positionFill":"DEFAULT","reason":"CLIENT_ORDER"},"relatedTransactionIDs":["15"],"lastTransactionID":"15","errorMessage":"Order units specified are invalid","errorCode":"UNITS_INVALID"}
+2025-05-01 17:53:40,204 - ArbitrageTrader - ERROR - Failed to execute trade: EUR to JPY
+2025-05-01 17:53:40,204 - ArbitrageTrader - WARNING - Trade failed: Order failed for EUR_JPY
+2025-05-01 17:53:46,205 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:53:46,647 - ArbitrageTrader - INFO - Updated 136 exchange rates
+2025-05-01 17:53:46,728 - ArbitrageTrader - INFO - Found arbitrage opportunity: 0.8357% profit
+2025-05-01 17:53:46,784 - ArbitrageTrader - INFO - Executing arbitrage cycle with expected profit: 0.8357%
+2025-05-01 17:53:46,784 - ArbitrageTrader - INFO - Cycle: EUR -> JPY -> TRY -> EUR
+2025-05-01 17:53:46,916 - ArbitrageTrader - ERROR - Order failed: 400, {"orderRejectTransaction":{"id":"16","accountID":"001-001-13604949-002","userID":13604949,"batchID":"16","requestID":"115410218056539293","time":"2025-05-01T21:53:46.902845599Z","type":"MARKET_ORDER_REJECT","rejectReason":"UNITS_INVALID","instrument":"EUR_JPY","units":"0","timeInForce":"FOK","positionFill":"DEFAULT","reason":"CLIENT_ORDER"},"relatedTransactionIDs":["16"],"lastTransactionID":"16","errorMessage":"Order units specified are invalid","errorCode":"UNITS_INVALID"}
+2025-05-01 17:53:46,916 - ArbitrageTrader - ERROR - Failed to execute trade: EUR to JPY
+2025-05-01 17:53:46,917 - ArbitrageTrader - WARNING - Trade failed: Order failed for EUR_JPY
+2025-05-01 17:53:52,920 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:53:53,364 - ArbitrageTrader - INFO - Updated 136 exchange rates
+2025-05-01 17:53:53,448 - ArbitrageTrader - INFO - Found arbitrage opportunity: 0.8357% profit
+2025-05-01 17:53:53,505 - ArbitrageTrader - INFO - Executing arbitrage cycle with expected profit: 0.8357%
+2025-05-01 17:53:53,505 - ArbitrageTrader - INFO - Cycle: EUR -> JPY -> TRY -> EUR
+2025-05-01 17:53:53,638 - ArbitrageTrader - ERROR - Order failed: 400, {"orderRejectTransaction":{"id":"17","accountID":"001-001-13604949-002","userID":13604949,"batchID":"17","requestID":"97395819575339082","time":"2025-05-01T21:53:53.618376386Z","type":"MARKET_ORDER_REJECT","rejectReason":"UNITS_INVALID","instrument":"EUR_JPY","units":"0","timeInForce":"FOK","positionFill":"DEFAULT","reason":"CLIENT_ORDER"},"relatedTransactionIDs":["17"],"lastTransactionID":"17","errorMessage":"Order units specified are invalid","errorCode":"UNITS_INVALID"}
+2025-05-01 17:53:53,639 - ArbitrageTrader - ERROR - Failed to execute trade: EUR to JPY
+2025-05-01 17:53:53,639 - ArbitrageTrader - WARNING - Trade failed: Order failed for EUR_JPY
+2025-05-01 17:53:59,645 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:54:00,074 - ArbitrageTrader - INFO - Updated 136 exchange rates
+2025-05-01 17:54:00,167 - ArbitrageTrader - INFO - Found arbitrage opportunity: 0.8357% profit
+2025-05-01 17:54:00,222 - ArbitrageTrader - INFO - Executing arbitrage cycle with expected profit: 0.8357%
+2025-05-01 17:54:00,222 - ArbitrageTrader - INFO - Cycle: EUR -> JPY -> TRY -> EUR
+2025-05-01 17:54:00,356 - ArbitrageTrader - ERROR - Order failed: 400, {"orderRejectTransaction":{"id":"18","accountID":"001-001-13604949-002","userID":13604949,"batchID":"18","requestID":"187467812153444422","time":"2025-05-01T21:54:00.345787866Z","type":"MARKET_ORDER_REJECT","rejectReason":"UNITS_INVALID","instrument":"EUR_JPY","units":"0","timeInForce":"FOK","positionFill":"DEFAULT","reason":"CLIENT_ORDER"},"relatedTransactionIDs":["18"],"lastTransactionID":"18","errorMessage":"Order units specified are invalid","errorCode":"UNITS_INVALID"}
+2025-05-01 17:54:00,356 - ArbitrageTrader - ERROR - Failed to execute trade: EUR to JPY
+2025-05-01 17:54:00,357 - ArbitrageTrader - WARNING - Trade failed: Order failed for EUR_JPY
+2025-05-01 17:54:06,362 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:54:06,846 - ArbitrageTrader - INFO - Updated 136 exchange rates
+2025-05-01 17:54:06,909 - ArbitrageTrader - INFO - Found arbitrage opportunity: 0.8357% profit
+2025-05-01 17:54:06,980 - ArbitrageTrader - INFO - Executing arbitrage cycle with expected profit: 0.8357%
+2025-05-01 17:54:06,980 - ArbitrageTrader - INFO - Cycle: EUR -> JPY -> TRY -> EUR
+2025-05-01 17:54:07,104 - ArbitrageTrader - ERROR - Order failed: 400, {"orderRejectTransaction":{"id":"19","accountID":"001-001-13604949-002","userID":13604949,"batchID":"19","requestID":"115410218144639948","time":"2025-05-01T21:54:07.091390029Z","type":"MARKET_ORDER_REJECT","rejectReason":"UNITS_INVALID","instrument":"EUR_JPY","units":"0","timeInForce":"FOK","positionFill":"DEFAULT","reason":"CLIENT_ORDER"},"relatedTransactionIDs":["19"],"lastTransactionID":"19","errorMessage":"Order units specified are invalid","errorCode":"UNITS_INVALID"}
+2025-05-01 17:54:07,105 - ArbitrageTrader - ERROR - Failed to execute trade: EUR to JPY
+2025-05-01 17:54:07,105 - ArbitrageTrader - WARNING - Trade failed: Order failed for EUR_JPY
+2025-05-01 17:54:13,110 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:54:13,665 - ArbitrageTrader - INFO - Updated 136 exchange rates
+2025-05-01 17:54:13,750 - ArbitrageTrader - INFO - Found arbitrage opportunity: 0.8357% profit
+2025-05-01 17:54:13,812 - ArbitrageTrader - INFO - Executing arbitrage cycle with expected profit: 0.8357%
+2025-05-01 17:54:13,813 - ArbitrageTrader - INFO - Cycle: EUR -> JPY -> TRY -> EUR
+2025-05-01 17:54:13,922 - ArbitrageTrader - ERROR - Order failed: 400, {"orderRejectTransaction":{"id":"20","accountID":"001-001-13604949-002","userID":13604949,"batchID":"20","requestID":"151439015188017987","time":"2025-05-01T21:54:13.914044002Z","type":"MARKET_ORDER_REJECT","rejectReason":"UNITS_INVALID","instrument":"EUR_JPY","units":"0","timeInForce":"FOK","positionFill":"DEFAULT","reason":"CLIENT_ORDER"},"relatedTransactionIDs":["20"],"lastTransactionID":"20","errorMessage":"Order units specified are invalid","errorCode":"UNITS_INVALID"}
+2025-05-01 17:54:13,923 - ArbitrageTrader - ERROR - Failed to execute trade: EUR to JPY
+2025-05-01 17:54:13,923 - ArbitrageTrader - WARNING - Trade failed: Order failed for EUR_JPY
+2025-05-01 17:54:19,927 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:54:20,474 - ArbitrageTrader - INFO - Updated 136 exchange rates
+2025-05-01 17:54:20,544 - ArbitrageTrader - INFO - Found arbitrage opportunity: 0.8343% profit
+2025-05-01 17:54:20,620 - ArbitrageTrader - INFO - Executing arbitrage cycle with expected profit: 0.8343%
+2025-05-01 17:54:20,620 - ArbitrageTrader - INFO - Cycle: EUR -> JPY -> TRY -> EUR
+2025-05-01 17:54:20,756 - ArbitrageTrader - ERROR - Order failed: 400, {"orderRejectTransaction":{"id":"21","accountID":"001-001-13604949-002","userID":13604949,"batchID":"21","requestID":"115410218199179459","time":"2025-05-01T21:54:20.743386107Z","type":"MARKET_ORDER_REJECT","rejectReason":"UNITS_INVALID","instrument":"EUR_JPY","units":"0","timeInForce":"FOK","positionFill":"DEFAULT","reason":"CLIENT_ORDER"},"relatedTransactionIDs":["21"],"lastTransactionID":"21","errorMessage":"Order units specified are invalid","errorCode":"UNITS_INVALID"}
+2025-05-01 17:54:20,757 - ArbitrageTrader - ERROR - Failed to execute trade: EUR to JPY
+2025-05-01 17:54:20,757 - ArbitrageTrader - WARNING - Trade failed: Order failed for EUR_JPY
+2025-05-01 17:54:26,762 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:54:27,229 - ArbitrageTrader - INFO - Updated 136 exchange rates
+2025-05-01 17:54:27,294 - ArbitrageTrader - INFO - Found arbitrage opportunity: 0.8325% profit
+2025-05-01 17:54:27,346 - ArbitrageTrader - INFO - Executing arbitrage cycle with expected profit: 0.8325%
+2025-05-01 17:54:27,346 - ArbitrageTrader - INFO - Cycle: EUR -> JPY -> TRY -> EUR
+2025-05-01 17:54:27,468 - ArbitrageTrader - ERROR - Order failed: 400, {"orderRejectTransaction":{"id":"22","accountID":"001-001-13604949-002","userID":13604949,"batchID":"22","requestID":"187467812266711335","time":"2025-05-01T21:54:27.457414001Z","type":"MARKET_ORDER_REJECT","rejectReason":"UNITS_INVALID","instrument":"EUR_JPY","units":"0","timeInForce":"FOK","positionFill":"DEFAULT","reason":"CLIENT_ORDER"},"relatedTransactionIDs":["22"],"lastTransactionID":"22","errorMessage":"Order units specified are invalid","errorCode":"UNITS_INVALID"}
+2025-05-01 17:54:27,469 - ArbitrageTrader - ERROR - Failed to execute trade: EUR to JPY
+2025-05-01 17:54:27,469 - ArbitrageTrader - WARNING - Trade failed: Order failed for EUR_JPY
+2025-05-01 17:54:33,475 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:54:33,940 - ArbitrageTrader - INFO - Updated 136 exchange rates
+2025-05-01 17:54:34,010 - ArbitrageTrader - INFO - Found arbitrage opportunity: 0.8312% profit
+2025-05-01 17:54:34,063 - ArbitrageTrader - INFO - Executing arbitrage cycle with expected profit: 0.8312%
+2025-05-01 17:54:34,063 - ArbitrageTrader - INFO - Cycle: JPY -> TRY -> EUR -> JPY
+2025-05-01 17:54:34,243 - ArbitrageTrader - WARNING - Error fetching price for JPY_TRY: 400, {"errorMessage":"Invalid value specified for 'instrument'"}
+2025-05-01 17:54:34,244 - ArbitrageTrader - ERROR - Failed to get price for JPY_TRY
+2025-05-01 17:54:34,244 - ArbitrageTrader - WARNING - Trade failed: Price data unavailable for JPY_TRY
+2025-05-01 17:54:40,247 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:54:40,709 - ArbitrageTrader - INFO - Updated 136 exchange rates
+2025-05-01 17:54:40,807 - ArbitrageTrader - INFO - Found arbitrage opportunity: 0.8312% profit
+2025-05-01 17:54:40,865 - ArbitrageTrader - INFO - Executing arbitrage cycle with expected profit: 0.8312%
+2025-05-01 17:54:40,865 - ArbitrageTrader - INFO - Cycle: JPY -> TRY -> EUR -> JPY
+2025-05-01 17:54:40,942 - ArbitrageTrader - WARNING - Error fetching price for JPY_TRY: 400, {"errorMessage":"Invalid value specified for 'instrument'"}
+2025-05-01 17:54:40,943 - ArbitrageTrader - ERROR - Failed to get price for JPY_TRY
+2025-05-01 17:54:40,943 - ArbitrageTrader - WARNING - Trade failed: Price data unavailable for JPY_TRY
+2025-05-01 17:54:46,947 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:54:47,415 - ArbitrageTrader - INFO - Updated 136 exchange rates
+2025-05-01 17:54:47,484 - ArbitrageTrader - INFO - Found arbitrage opportunity: 0.8306% profit
+2025-05-01 17:54:47,556 - ArbitrageTrader - INFO - Executing arbitrage cycle with expected profit: 0.8306%
+2025-05-01 17:54:47,556 - ArbitrageTrader - INFO - Cycle: EUR -> JPY -> TRY -> EUR
+2025-05-01 17:54:47,678 - ArbitrageTrader - ERROR - Order failed: 400, {"orderRejectTransaction":{"id":"23","accountID":"001-001-13604949-002","userID":13604949,"batchID":"23","requestID":"97395819801888708","time":"2025-05-01T21:54:47.670823886Z","type":"MARKET_ORDER_REJECT","rejectReason":"UNITS_INVALID","instrument":"EUR_JPY","units":"0","timeInForce":"FOK","positionFill":"DEFAULT","reason":"CLIENT_ORDER"},"relatedTransactionIDs":["23"],"lastTransactionID":"23","errorMessage":"Order units specified are invalid","errorCode":"UNITS_INVALID"}
+2025-05-01 17:54:47,678 - ArbitrageTrader - ERROR - Failed to execute trade: EUR to JPY
+2025-05-01 17:54:47,679 - ArbitrageTrader - WARNING - Trade failed: Order failed for EUR_JPY
+2025-05-01 17:54:53,683 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:54:54,132 - ArbitrageTrader - INFO - Updated 136 exchange rates
+2025-05-01 17:54:54,246 - ArbitrageTrader - INFO - Found arbitrage opportunity: 0.8325% profit
+2025-05-01 17:54:54,297 - ArbitrageTrader - INFO - Executing arbitrage cycle with expected profit: 0.8325%
+2025-05-01 17:54:54,297 - ArbitrageTrader - INFO - Cycle: EUR -> JPY -> TRY -> EUR
+2025-05-01 17:54:54,436 - ArbitrageTrader - ERROR - Order failed: 400, {"orderRejectTransaction":{"id":"24","accountID":"001-001-13604949-002","userID":13604949,"batchID":"24","requestID":"151439015360019008","time":"2025-05-01T21:54:54.426642898Z","type":"MARKET_ORDER_REJECT","rejectReason":"UNITS_INVALID","instrument":"EUR_JPY","units":"0","timeInForce":"FOK","positionFill":"DEFAULT","reason":"CLIENT_ORDER"},"relatedTransactionIDs":["24"],"lastTransactionID":"24","errorMessage":"Order units specified are invalid","errorCode":"UNITS_INVALID"}
+2025-05-01 17:54:54,436 - ArbitrageTrader - ERROR - Failed to execute trade: EUR to JPY
+2025-05-01 17:54:54,436 - ArbitrageTrader - WARNING - Trade failed: Order failed for EUR_JPY
+2025-05-01 17:55:00,442 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:55:01,022 - ArbitrageTrader - INFO - Updated 136 exchange rates
+2025-05-01 17:55:01,094 - ArbitrageTrader - INFO - Found arbitrage opportunity: 0.7957% profit
+2025-05-01 17:55:01,151 - ArbitrageTrader - INFO - Executing arbitrage cycle with expected profit: 0.7957%
+2025-05-01 17:55:01,152 - ArbitrageTrader - INFO - Cycle: EUR -> JPY -> TRY -> EUR
+2025-05-01 17:55:01,305 - ArbitrageTrader - ERROR - Order failed: 400, {"orderRejectTransaction":{"id":"25","accountID":"001-001-13604949-002","userID":13604949,"batchID":"25","requestID":"223496609426455547","time":"2025-05-01T21:55:01.276173107Z","type":"MARKET_ORDER_REJECT","rejectReason":"UNITS_INVALID","instrument":"EUR_JPY","units":"0","timeInForce":"FOK","positionFill":"DEFAULT","reason":"CLIENT_ORDER"},"relatedTransactionIDs":["25"],"lastTransactionID":"25","errorMessage":"Order units specified are invalid","errorCode":"UNITS_INVALID"}
+2025-05-01 17:55:01,305 - ArbitrageTrader - ERROR - Failed to execute trade: EUR to JPY
+2025-05-01 17:55:01,305 - ArbitrageTrader - WARNING - Trade failed: Order failed for EUR_JPY
+2025-05-01 17:55:07,311 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:55:07,783 - ArbitrageTrader - INFO - Updated 136 exchange rates
+2025-05-01 17:55:07,850 - ArbitrageTrader - INFO - Found arbitrage opportunity: 0.7957% profit
+2025-05-01 17:55:07,941 - ArbitrageTrader - INFO - Executing arbitrage cycle with expected profit: 0.7957%
+2025-05-01 17:55:07,942 - ArbitrageTrader - INFO - Cycle: EUR -> JPY -> TRY -> EUR
+2025-05-01 17:55:08,071 - ArbitrageTrader - ERROR - Order failed: 400, {"orderRejectTransaction":{"id":"26","accountID":"001-001-13604949-002","userID":13604949,"batchID":"26","requestID":"187467812438708029","time":"2025-05-01T21:55:08.056649373Z","type":"MARKET_ORDER_REJECT","rejectReason":"UNITS_INVALID","instrument":"EUR_JPY","units":"0","timeInForce":"FOK","positionFill":"DEFAULT","reason":"CLIENT_ORDER"},"relatedTransactionIDs":["26"],"lastTransactionID":"26","errorMessage":"Order units specified are invalid","errorCode":"UNITS_INVALID"}
+2025-05-01 17:55:08,072 - ArbitrageTrader - ERROR - Failed to execute trade: EUR to JPY
+2025-05-01 17:55:08,072 - ArbitrageTrader - WARNING - Trade failed: Order failed for EUR_JPY
+2025-05-01 17:55:14,075 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:55:14,591 - ArbitrageTrader - INFO - Updated 136 exchange rates
+2025-05-01 17:55:14,665 - ArbitrageTrader - INFO - Found arbitrage opportunity: 0.7956% profit
+2025-05-01 17:55:14,731 - ArbitrageTrader - INFO - Executing arbitrage cycle with expected profit: 0.7956%
+2025-05-01 17:55:14,731 - ArbitrageTrader - INFO - Cycle: EUR -> JPY -> TRY -> EUR
+2025-05-01 17:55:14,864 - ArbitrageTrader - ERROR - Order failed: 400, {"orderRejectTransaction":{"id":"27","accountID":"001-001-13604949-002","userID":13604949,"batchID":"27","requestID":"205482210973687353","time":"2025-05-01T21:55:14.853743443Z","type":"MARKET_ORDER_REJECT","rejectReason":"UNITS_INVALID","instrument":"EUR_JPY","units":"0","timeInForce":"FOK","positionFill":"DEFAULT","reason":"CLIENT_ORDER"},"relatedTransactionIDs":["27"],"lastTransactionID":"27","errorMessage":"Order units specified are invalid","errorCode":"UNITS_INVALID"}
+2025-05-01 17:55:14,865 - ArbitrageTrader - ERROR - Failed to execute trade: EUR to JPY
+2025-05-01 17:55:14,865 - ArbitrageTrader - WARNING - Trade failed: Order failed for EUR_JPY
+2025-05-01 17:55:20,868 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:55:21,356 - ArbitrageTrader - INFO - Updated 136 exchange rates
+2025-05-01 17:55:21,418 - ArbitrageTrader - INFO - Found arbitrage opportunity: 0.7962% profit
+2025-05-01 17:55:21,475 - ArbitrageTrader - INFO - Executing arbitrage cycle with expected profit: 0.7962%
+2025-05-01 17:55:21,476 - ArbitrageTrader - INFO - Cycle: EUR -> JPY -> TRY -> EUR
+2025-05-01 17:55:21,626 - ArbitrageTrader - ERROR - Order failed: 400, {"orderRejectTransaction":{"id":"28","accountID":"001-001-13604949-002","userID":13604949,"batchID":"28","requestID":"115410218455091218","time":"2025-05-01T21:55:21.613047390Z","type":"MARKET_ORDER_REJECT","rejectReason":"UNITS_INVALID","instrument":"EUR_JPY","units":"0","timeInForce":"FOK","positionFill":"DEFAULT","reason":"CLIENT_ORDER"},"relatedTransactionIDs":["28"],"lastTransactionID":"28","errorMessage":"Order units specified are invalid","errorCode":"UNITS_INVALID"}
+2025-05-01 17:55:21,627 - ArbitrageTrader - ERROR - Failed to execute trade: EUR to JPY
+2025-05-01 17:55:21,627 - ArbitrageTrader - WARNING - Trade failed: Order failed for EUR_JPY
+2025-05-01 17:55:27,629 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:55:28,199 - ArbitrageTrader - INFO - Updated 136 exchange rates
+2025-05-01 17:55:28,268 - ArbitrageTrader - INFO - Found arbitrage opportunity: 0.7962% profit
+2025-05-01 17:55:28,328 - ArbitrageTrader - INFO - Executing arbitrage cycle with expected profit: 0.7962%
+2025-05-01 17:55:28,328 - ArbitrageTrader - INFO - Cycle: EUR -> JPY -> TRY -> EUR
+2025-05-01 17:55:28,468 - ArbitrageTrader - ERROR - Order failed: 400, {"orderRejectTransaction":{"id":"29","accountID":"001-001-13604949-002","userID":13604949,"batchID":"29","requestID":"133424616991960274","time":"2025-05-01T21:55:28.457888555Z","type":"MARKET_ORDER_REJECT","rejectReason":"UNITS_INVALID","instrument":"EUR_JPY","units":"0","timeInForce":"FOK","positionFill":"DEFAULT","reason":"CLIENT_ORDER"},"relatedTransactionIDs":["29"],"lastTransactionID":"29","errorMessage":"Order units specified are invalid","errorCode":"UNITS_INVALID"}
+2025-05-01 17:55:28,469 - ArbitrageTrader - ERROR - Failed to execute trade: EUR to JPY
+2025-05-01 17:55:28,469 - ArbitrageTrader - WARNING - Trade failed: Order failed for EUR_JPY
+2025-05-01 17:55:34,474 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:55:34,936 - ArbitrageTrader - INFO - Updated 136 exchange rates
+2025-05-01 17:55:34,994 - ArbitrageTrader - INFO - Found arbitrage opportunity: 0.7962% profit
+2025-05-01 17:55:35,049 - ArbitrageTrader - INFO - Executing arbitrage cycle with expected profit: 0.7962%
+2025-05-01 17:55:35,050 - ArbitrageTrader - INFO - Cycle: EUR -> JPY -> TRY -> EUR
+2025-05-01 17:55:35,173 - ArbitrageTrader - ERROR - Order failed: 400, {"orderRejectTransaction":{"id":"30","accountID":"001-001-13604949-002","userID":13604949,"batchID":"30","requestID":"151439015532023802","time":"2025-05-01T21:55:35.161352650Z","type":"MARKET_ORDER_REJECT","rejectReason":"UNITS_INVALID","instrument":"EUR_JPY","units":"0","timeInForce":"FOK","positionFill":"DEFAULT","reason":"CLIENT_ORDER"},"relatedTransactionIDs":["30"],"lastTransactionID":"30","errorMessage":"Order units specified are invalid","errorCode":"UNITS_INVALID"}
+2025-05-01 17:55:35,173 - ArbitrageTrader - ERROR - Failed to execute trade: EUR to JPY
+2025-05-01 17:55:35,173 - ArbitrageTrader - WARNING - Trade failed: Order failed for EUR_JPY
+2025-05-01 17:55:41,178 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:55:41,666 - ArbitrageTrader - INFO - Updated 136 exchange rates
+2025-05-01 17:55:41,733 - ArbitrageTrader - INFO - Found arbitrage opportunity: 0.7962% profit
+2025-05-01 17:55:41,801 - ArbitrageTrader - INFO - Executing arbitrage cycle with expected profit: 0.7962%
+2025-05-01 17:55:41,801 - ArbitrageTrader - INFO - Cycle: EUR -> JPY -> TRY -> EUR
+2025-05-01 17:55:41,919 - ArbitrageTrader - ERROR - Order failed: 400, {"orderRejectTransaction":{"id":"31","accountID":"001-001-13604949-002","userID":13604949,"batchID":"31","requestID":"133424617046499663","time":"2025-05-01T21:55:41.911168780Z","type":"MARKET_ORDER_REJECT","rejectReason":"UNITS_INVALID","instrument":"EUR_JPY","units":"0","timeInForce":"FOK","positionFill":"DEFAULT","reason":"CLIENT_ORDER"},"relatedTransactionIDs":["31"],"lastTransactionID":"31","errorMessage":"Order units specified are invalid","errorCode":"UNITS_INVALID"}
+2025-05-01 17:55:41,920 - ArbitrageTrader - ERROR - Failed to execute trade: EUR to JPY
+2025-05-01 17:55:41,920 - ArbitrageTrader - WARNING - Trade failed: Order failed for EUR_JPY
+2025-05-01 17:55:47,926 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:55:48,433 - ArbitrageTrader - INFO - Updated 136 exchange rates
+2025-05-01 17:55:48,512 - ArbitrageTrader - INFO - Found arbitrage opportunity: 0.7956% profit
+2025-05-01 17:55:48,590 - ArbitrageTrader - INFO - Executing arbitrage cycle with expected profit: 0.7956%
+2025-05-01 17:55:48,591 - ArbitrageTrader - INFO - Cycle: EUR -> JPY -> TRY -> EUR
+2025-05-01 17:55:48,714 - ArbitrageTrader - ERROR - Order failed: 400, {"orderRejectTransaction":{"id":"32","accountID":"001-001-13604949-002","userID":13604949,"batchID":"32","requestID":"151439015586561581","time":"2025-05-01T21:55:48.707159472Z","type":"MARKET_ORDER_REJECT","rejectReason":"UNITS_INVALID","instrument":"EUR_JPY","units":"0","timeInForce":"FOK","positionFill":"DEFAULT","reason":"CLIENT_ORDER"},"relatedTransactionIDs":["32"],"lastTransactionID":"32","errorMessage":"Order units specified are invalid","errorCode":"UNITS_INVALID"}
+2025-05-01 17:55:48,715 - ArbitrageTrader - ERROR - Failed to execute trade: EUR to JPY
+2025-05-01 17:55:48,715 - ArbitrageTrader - WARNING - Trade failed: Order failed for EUR_JPY
+2025-05-01 17:55:54,719 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:55:55,230 - ArbitrageTrader - INFO - Updated 136 exchange rates
+2025-05-01 17:55:55,295 - ArbitrageTrader - INFO - Found arbitrage opportunity: 0.7956% profit
+2025-05-01 17:55:55,350 - ArbitrageTrader - INFO - Executing arbitrage cycle with expected profit: 0.7956%
+2025-05-01 17:55:55,351 - ArbitrageTrader - INFO - Cycle: EUR -> JPY -> TRY -> EUR
+2025-05-01 17:55:55,493 - ArbitrageTrader - ERROR - Order failed: 400, {"orderRejectTransaction":{"id":"33","accountID":"001-001-13604949-002","userID":13604949,"batchID":"33","requestID":"223496609652990384","time":"2025-05-01T21:55:55.476559380Z","type":"MARKET_ORDER_REJECT","rejectReason":"UNITS_INVALID","instrument":"EUR_JPY","units":"0","timeInForce":"FOK","positionFill":"DEFAULT","reason":"CLIENT_ORDER"},"relatedTransactionIDs":["33"],"lastTransactionID":"33","errorMessage":"Order units specified are invalid","errorCode":"UNITS_INVALID"}
+2025-05-01 17:55:55,494 - ArbitrageTrader - ERROR - Failed to execute trade: EUR to JPY
+2025-05-01 17:55:55,494 - ArbitrageTrader - WARNING - Trade failed: Order failed for EUR_JPY
+2025-05-01 17:56:01,499 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:56:02,017 - ArbitrageTrader - INFO - Updated 136 exchange rates
+2025-05-01 17:56:02,115 - ArbitrageTrader - INFO - Found arbitrage opportunity: 0.7962% profit
+2025-05-01 17:56:02,191 - ArbitrageTrader - INFO - Executing arbitrage cycle with expected profit: 0.7962%
+2025-05-01 17:56:02,192 - ArbitrageTrader - INFO - Cycle: EUR -> JPY -> TRY -> EUR
+2025-05-01 17:56:02,300 - ArbitrageTrader - ERROR - Order failed: 400, {"orderRejectTransaction":{"id":"34","accountID":"001-001-13604949-002","userID":13604949,"batchID":"34","requestID":"97395820116543044","time":"2025-05-01T21:56:02.293541260Z","type":"MARKET_ORDER_REJECT","rejectReason":"UNITS_INVALID","instrument":"EUR_JPY","units":"0","timeInForce":"FOK","positionFill":"DEFAULT","reason":"CLIENT_ORDER"},"relatedTransactionIDs":["34"],"lastTransactionID":"34","errorMessage":"Order units specified are invalid","errorCode":"UNITS_INVALID"}
+2025-05-01 17:56:02,300 - ArbitrageTrader - ERROR - Failed to execute trade: EUR to JPY
+2025-05-01 17:56:02,301 - ArbitrageTrader - WARNING - Trade failed: Order failed for EUR_JPY
+2025-05-01 17:56:08,306 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:56:08,805 - ArbitrageTrader - INFO - Updated 136 exchange rates
+2025-05-01 17:56:08,911 - ArbitrageTrader - INFO - Found arbitrage opportunity: 0.7962% profit
+2025-05-01 17:56:08,971 - ArbitrageTrader - INFO - Executing arbitrage cycle with expected profit: 0.7962%
+2025-05-01 17:56:08,971 - ArbitrageTrader - INFO - Cycle: EUR -> JPY -> TRY -> EUR
+2025-05-01 17:56:09,105 - ArbitrageTrader - ERROR - Order failed: 400, {"orderRejectTransaction":{"id":"35","accountID":"001-001-13604949-002","userID":13604949,"batchID":"35","requestID":"97395820145910993","time":"2025-05-01T21:56:09.095192061Z","type":"MARKET_ORDER_REJECT","rejectReason":"UNITS_INVALID","instrument":"EUR_JPY","units":"0","timeInForce":"FOK","positionFill":"DEFAULT","reason":"CLIENT_ORDER"},"relatedTransactionIDs":["35"],"lastTransactionID":"35","errorMessage":"Order units specified are invalid","errorCode":"UNITS_INVALID"}
+2025-05-01 17:56:09,105 - ArbitrageTrader - ERROR - Failed to execute trade: EUR to JPY
+2025-05-01 17:56:09,105 - ArbitrageTrader - WARNING - Trade failed: Order failed for EUR_JPY
+2025-05-01 17:56:15,107 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:56:15,615 - ArbitrageTrader - INFO - Updated 136 exchange rates
+2025-05-01 17:56:15,684 - ArbitrageTrader - INFO - Found arbitrage opportunity: 0.7956% profit
+2025-05-01 17:56:15,745 - ArbitrageTrader - INFO - Executing arbitrage cycle with expected profit: 0.7956%
+2025-05-01 17:56:15,745 - ArbitrageTrader - INFO - Cycle: EUR -> JPY -> TRY -> EUR
+2025-05-01 17:56:15,857 - ArbitrageTrader - ERROR - Order failed: 400, {"orderRejectTransaction":{"id":"36","accountID":"001-001-13604949-002","userID":13604949,"batchID":"36","requestID":"133424617189141646","time":"2025-05-01T21:56:15.847214446Z","type":"MARKET_ORDER_REJECT","rejectReason":"UNITS_INVALID","instrument":"EUR_JPY","units":"0","timeInForce":"FOK","positionFill":"DEFAULT","reason":"CLIENT_ORDER"},"relatedTransactionIDs":["36"],"lastTransactionID":"36","errorMessage":"Order units specified are invalid","errorCode":"UNITS_INVALID"}
+2025-05-01 17:56:15,858 - ArbitrageTrader - ERROR - Failed to execute trade: EUR to JPY
+2025-05-01 17:56:15,858 - ArbitrageTrader - WARNING - Trade failed: Order failed for EUR_JPY
+2025-05-01 17:56:21,909 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:56:22,369 - ArbitrageTrader - INFO - Updated 136 exchange rates
+2025-05-01 17:56:22,433 - ArbitrageTrader - INFO - Found arbitrage opportunity: 0.7962% profit
+2025-05-01 17:56:22,496 - ArbitrageTrader - INFO - Executing arbitrage cycle with expected profit: 0.7962%
+2025-05-01 17:56:22,496 - ArbitrageTrader - INFO - Cycle: EUR -> JPY -> TRY -> EUR
+2025-05-01 17:56:22,609 - ArbitrageTrader - ERROR - Order failed: 400, {"orderRejectTransaction":{"id":"37","accountID":"001-001-13604949-002","userID":13604949,"batchID":"37","requestID":"133424617218508731","time":"2025-05-01T21:56:22.601843498Z","type":"MARKET_ORDER_REJECT","rejectReason":"UNITS_INVALID","instrument":"EUR_JPY","units":"0","timeInForce":"FOK","positionFill":"DEFAULT","reason":"CLIENT_ORDER"},"relatedTransactionIDs":["37"],"lastTransactionID":"37","errorMessage":"Order units specified are invalid","errorCode":"UNITS_INVALID"}
+2025-05-01 17:56:22,609 - ArbitrageTrader - ERROR - Failed to execute trade: EUR to JPY
+2025-05-01 17:56:22,609 - ArbitrageTrader - WARNING - Trade failed: Order failed for EUR_JPY
+2025-05-01 17:56:28,614 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:56:29,243 - ArbitrageTrader - INFO - Updated 136 exchange rates
+2025-05-01 17:56:29,335 - ArbitrageTrader - INFO - Found arbitrage opportunity: 0.7962% profit
+2025-05-01 17:56:29,394 - ArbitrageTrader - INFO - Executing arbitrage cycle with expected profit: 0.7962%
+2025-05-01 17:56:29,394 - ArbitrageTrader - INFO - Cycle: EUR -> JPY -> TRY -> EUR
+2025-05-01 17:56:29,517 - ArbitrageTrader - ERROR - Order failed: 400, {"orderRejectTransaction":{"id":"38","accountID":"001-001-13604949-002","userID":13604949,"batchID":"38","requestID":"169453414266071775","time":"2025-05-01T21:56:29.507052823Z","type":"MARKET_ORDER_REJECT","rejectReason":"UNITS_INVALID","instrument":"EUR_JPY","units":"0","timeInForce":"FOK","positionFill":"DEFAULT","reason":"CLIENT_ORDER"},"relatedTransactionIDs":["38"],"lastTransactionID":"38","errorMessage":"Order units specified are invalid","errorCode":"UNITS_INVALID"}
+2025-05-01 17:56:29,518 - ArbitrageTrader - ERROR - Failed to execute trade: EUR to JPY
+2025-05-01 17:56:29,518 - ArbitrageTrader - WARNING - Trade failed: Order failed for EUR_JPY
+2025-05-01 17:56:35,524 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:56:35,969 - ArbitrageTrader - INFO - Updated 136 exchange rates
+2025-05-01 17:56:36,034 - ArbitrageTrader - INFO - Found arbitrage opportunity: 0.7962% profit
+2025-05-01 17:56:36,095 - ArbitrageTrader - INFO - Executing arbitrage cycle with expected profit: 0.7962%
+2025-05-01 17:56:36,095 - ArbitrageTrader - INFO - Cycle: EUR -> JPY -> TRY -> EUR
+2025-05-01 17:56:36,216 - ArbitrageTrader - ERROR - Order failed: 400, {"orderRejectTransaction":{"id":"39","accountID":"001-001-13604949-002","userID":13604949,"batchID":"39","requestID":"223496609824988315","time":"2025-05-01T21:56:36.206187074Z","type":"MARKET_ORDER_REJECT","rejectReason":"UNITS_INVALID","instrument":"EUR_JPY","units":"0","timeInForce":"FOK","positionFill":"DEFAULT","reason":"CLIENT_ORDER"},"relatedTransactionIDs":["39"],"lastTransactionID":"39","errorMessage":"Order units specified are invalid","errorCode":"UNITS_INVALID"}
+2025-05-01 17:56:36,217 - ArbitrageTrader - ERROR - Failed to execute trade: EUR to JPY
+2025-05-01 17:56:36,217 - ArbitrageTrader - WARNING - Trade failed: Order failed for EUR_JPY
+2025-05-01 17:56:42,222 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:56:42,706 - ArbitrageTrader - INFO - Updated 136 exchange rates
+2025-05-01 17:56:42,773 - ArbitrageTrader - INFO - Found arbitrage opportunity: 0.7962% profit
+2025-05-01 17:56:42,826 - ArbitrageTrader - INFO - Executing arbitrage cycle with expected profit: 0.7962%
+2025-05-01 17:56:42,826 - ArbitrageTrader - INFO - Cycle: EUR -> JPY -> TRY -> EUR
+2025-05-01 17:56:42,945 - ArbitrageTrader - ERROR - Order failed: 400, {"orderRejectTransaction":{"id":"40","accountID":"001-001-13604949-002","userID":13604949,"batchID":"40","requestID":"115410218794910604","time":"2025-05-01T21:56:42.936106852Z","type":"MARKET_ORDER_REJECT","rejectReason":"UNITS_INVALID","instrument":"EUR_JPY","units":"0","timeInForce":"FOK","positionFill":"DEFAULT","reason":"CLIENT_ORDER"},"relatedTransactionIDs":["40"],"lastTransactionID":"40","errorMessage":"Order units specified are invalid","errorCode":"UNITS_INVALID"}
+2025-05-01 17:56:42,946 - ArbitrageTrader - ERROR - Failed to execute trade: EUR to JPY
+2025-05-01 17:56:42,946 - ArbitrageTrader - WARNING - Trade failed: Order failed for EUR_JPY
+2025-05-01 17:56:48,951 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:56:49,457 - ArbitrageTrader - INFO - Updated 136 exchange rates
+2025-05-01 17:56:49,552 - ArbitrageTrader - INFO - Found arbitrage opportunity: 0.7962% profit
+2025-05-01 17:56:49,605 - ArbitrageTrader - INFO - Executing arbitrage cycle with expected profit: 0.7962%
+2025-05-01 17:56:49,605 - ArbitrageTrader - INFO - Cycle: EUR -> JPY -> TRY -> EUR
+2025-05-01 17:56:49,723 - ArbitrageTrader - ERROR - Order failed: 400, {"orderRejectTransaction":{"id":"41","accountID":"001-001-13604949-002","userID":13604949,"batchID":"41","requestID":"115410218824277681","time":"2025-05-01T21:56:49.712242939Z","type":"MARKET_ORDER_REJECT","rejectReason":"UNITS_INVALID","instrument":"EUR_JPY","units":"0","timeInForce":"FOK","positionFill":"DEFAULT","reason":"CLIENT_ORDER"},"relatedTransactionIDs":["41"],"lastTransactionID":"41","errorMessage":"Order units specified are invalid","errorCode":"UNITS_INVALID"}
+2025-05-01 17:56:49,723 - ArbitrageTrader - ERROR - Failed to execute trade: EUR to JPY
+2025-05-01 17:56:49,724 - ArbitrageTrader - WARNING - Trade failed: Order failed for EUR_JPY
+2025-05-01 17:56:55,729 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:56:56,223 - ArbitrageTrader - INFO - Updated 136 exchange rates
+2025-05-01 17:56:56,291 - ArbitrageTrader - INFO - Found arbitrage opportunity: 0.7962% profit
+2025-05-01 17:56:56,355 - ArbitrageTrader - INFO - Executing arbitrage cycle with expected profit: 0.7962%
+2025-05-01 17:56:56,355 - ArbitrageTrader - INFO - Cycle: EUR -> JPY -> TRY -> EUR
+2025-05-01 17:56:56,474 - ArbitrageTrader - ERROR - Order failed: 400, {"orderRejectTransaction":{"id":"42","accountID":"001-001-13604949-002","userID":13604949,"batchID":"42","requestID":"133424617361150322","time":"2025-05-01T21:56:56.464660837Z","type":"MARKET_ORDER_REJECT","rejectReason":"UNITS_INVALID","instrument":"EUR_JPY","units":"0","timeInForce":"FOK","positionFill":"DEFAULT","reason":"CLIENT_ORDER"},"relatedTransactionIDs":["42"],"lastTransactionID":"42","errorMessage":"Order units specified are invalid","errorCode":"UNITS_INVALID"}
+2025-05-01 17:56:56,475 - ArbitrageTrader - ERROR - Failed to execute trade: EUR to JPY
+2025-05-01 17:56:56,475 - ArbitrageTrader - WARNING - Trade failed: Order failed for EUR_JPY
+2025-05-01 17:57:02,481 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:57:02,983 - ArbitrageTrader - INFO - Updated 136 exchange rates
+2025-05-01 17:57:03,050 - ArbitrageTrader - INFO - Found arbitrage opportunity: 0.7962% profit
+2025-05-01 17:57:03,106 - ArbitrageTrader - INFO - Executing arbitrage cycle with expected profit: 0.7962%
+2025-05-01 17:57:03,106 - ArbitrageTrader - INFO - Cycle: EUR -> JPY -> TRY -> EUR
+2025-05-01 17:57:03,234 - ArbitrageTrader - ERROR - Order failed: 400, {"orderRejectTransaction":{"id":"43","accountID":"001-001-13604949-002","userID":13604949,"batchID":"43","requestID":"115410218883011417","time":"2025-05-01T21:57:03.220753131Z","type":"MARKET_ORDER_REJECT","rejectReason":"UNITS_INVALID","instrument":"EUR_JPY","units":"0","timeInForce":"FOK","positionFill":"DEFAULT","reason":"CLIENT_ORDER"},"relatedTransactionIDs":["43"],"lastTransactionID":"43","errorMessage":"Order units specified are invalid","errorCode":"UNITS_INVALID"}
+2025-05-01 17:57:03,235 - ArbitrageTrader - ERROR - Failed to execute trade: EUR to JPY
+2025-05-01 17:57:03,235 - ArbitrageTrader - WARNING - Trade failed: Order failed for EUR_JPY
+2025-05-01 17:57:09,240 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:57:09,720 - ArbitrageTrader - INFO - Updated 136 exchange rates
+2025-05-01 17:57:09,787 - ArbitrageTrader - INFO - Found arbitrage opportunity: 0.8478% profit
+2025-05-01 17:57:09,841 - ArbitrageTrader - INFO - Executing arbitrage cycle with expected profit: 0.8478%
+2025-05-01 17:57:09,842 - ArbitrageTrader - INFO - Cycle: EUR -> JPY -> TRY -> EUR
+2025-05-01 17:57:09,963 - ArbitrageTrader - ERROR - Order failed: 400, {"orderRejectTransaction":{"id":"44","accountID":"001-001-13604949-002","userID":13604949,"batchID":"44","requestID":"133424617415690846","time":"2025-05-01T21:57:09.952228896Z","type":"MARKET_ORDER_REJECT","rejectReason":"UNITS_INVALID","instrument":"EUR_JPY","units":"0","timeInForce":"FOK","positionFill":"DEFAULT","reason":"CLIENT_ORDER"},"relatedTransactionIDs":["44"],"lastTransactionID":"44","errorMessage":"Order units specified are invalid","errorCode":"UNITS_INVALID"}
+2025-05-01 17:57:09,963 - ArbitrageTrader - ERROR - Failed to execute trade: EUR to JPY
+2025-05-01 17:57:09,964 - ArbitrageTrader - WARNING - Trade failed: Order failed for EUR_JPY
+2025-05-01 17:57:15,965 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:57:16,419 - ArbitrageTrader - INFO - Updated 136 exchange rates
+2025-05-01 17:57:16,485 - ArbitrageTrader - INFO - Found arbitrage opportunity: 0.8435% profit
+2025-05-01 17:57:16,537 - ArbitrageTrader - INFO - Executing arbitrage cycle with expected profit: 0.8435%
+2025-05-01 17:57:16,537 - ArbitrageTrader - INFO - Cycle: EUR -> JPY -> TRY -> EUR
+2025-05-01 17:57:16,668 - ArbitrageTrader - ERROR - Order failed: 400, {"orderRejectTransaction":{"id":"45","accountID":"001-001-13604949-002","userID":13604949,"batchID":"45","requestID":"151439015955739545","time":"2025-05-01T21:57:16.660543553Z","type":"MARKET_ORDER_REJECT","rejectReason":"UNITS_INVALID","instrument":"EUR_JPY","units":"0","timeInForce":"FOK","positionFill":"DEFAULT","reason":"CLIENT_ORDER"},"relatedTransactionIDs":["45"],"lastTransactionID":"45","errorMessage":"Order units specified are invalid","errorCode":"UNITS_INVALID"}
+2025-05-01 17:57:16,669 - ArbitrageTrader - ERROR - Failed to execute trade: EUR to JPY
+2025-05-01 17:57:16,669 - ArbitrageTrader - WARNING - Trade failed: Order failed for EUR_JPY
+2025-05-01 17:57:22,671 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:57:23,126 - ArbitrageTrader - INFO - Updated 136 exchange rates
+2025-05-01 17:57:23,200 - ArbitrageTrader - INFO - Found arbitrage opportunity: 0.8459% profit
+2025-05-01 17:57:23,256 - ArbitrageTrader - INFO - Executing arbitrage cycle with expected profit: 0.8459%
+2025-05-01 17:57:23,256 - ArbitrageTrader - INFO - Cycle: EUR -> JPY -> TRY -> EUR
+2025-05-01 17:57:23,377 - ArbitrageTrader - ERROR - Order failed: 400, {"orderRejectTransaction":{"id":"46","accountID":"001-001-13604949-002","userID":13604949,"batchID":"46","requestID":"133424617474425182","time":"2025-05-01T21:57:23.363461720Z","type":"MARKET_ORDER_REJECT","rejectReason":"UNITS_INVALID","instrument":"EUR_JPY","units":"0","timeInForce":"FOK","positionFill":"DEFAULT","reason":"CLIENT_ORDER"},"relatedTransactionIDs":["46"],"lastTransactionID":"46","errorMessage":"Order units specified are invalid","errorCode":"UNITS_INVALID"}
+2025-05-01 17:57:23,378 - ArbitrageTrader - ERROR - Failed to execute trade: EUR to JPY
+2025-05-01 17:57:23,378 - ArbitrageTrader - WARNING - Trade failed: Order failed for EUR_JPY
+2025-05-01 17:57:29,383 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:57:29,873 - ArbitrageTrader - INFO - Updated 136 exchange rates
+2025-05-01 17:57:29,944 - ArbitrageTrader - INFO - Found arbitrage opportunity: 0.8459% profit
+2025-05-01 17:57:30,009 - ArbitrageTrader - INFO - Executing arbitrage cycle with expected profit: 0.8459%
+2025-05-01 17:57:30,009 - ArbitrageTrader - INFO - Cycle: EUR -> JPY -> TRY -> EUR
+2025-05-01 17:57:30,157 - ArbitrageTrader - ERROR - Order failed: 400, {"orderRejectTransaction":{"id":"47","accountID":"001-001-13604949-002","userID":13604949,"batchID":"47","requestID":"187467813034403383","time":"2025-05-01T21:57:30.138340507Z","type":"MARKET_ORDER_REJECT","rejectReason":"UNITS_INVALID","instrument":"EUR_JPY","units":"0","timeInForce":"FOK","positionFill":"DEFAULT","reason":"CLIENT_ORDER"},"relatedTransactionIDs":["47"],"lastTransactionID":"47","errorMessage":"Order units specified are invalid","errorCode":"UNITS_INVALID"}
+2025-05-01 17:57:30,157 - ArbitrageTrader - ERROR - Failed to execute trade: EUR to JPY
+2025-05-01 17:57:30,158 - ArbitrageTrader - WARNING - Trade failed: Order failed for EUR_JPY
+2025-05-01 17:57:36,163 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:57:36,634 - ArbitrageTrader - INFO - Updated 136 exchange rates
+2025-05-01 17:57:36,715 - ArbitrageTrader - INFO - Found arbitrage opportunity: 0.8459% profit
+2025-05-01 17:57:36,772 - ArbitrageTrader - INFO - Executing arbitrage cycle with expected profit: 0.8459%
+2025-05-01 17:57:36,772 - ArbitrageTrader - INFO - Cycle: EUR -> JPY -> TRY -> EUR
+2025-05-01 17:57:36,901 - ArbitrageTrader - ERROR - Order failed: 400, {"orderRejectTransaction":{"id":"48","accountID":"001-001-13604949-002","userID":13604949,"batchID":"48","requestID":"133424617528964629","time":"2025-05-01T21:57:36.884266864Z","type":"MARKET_ORDER_REJECT","rejectReason":"UNITS_INVALID","instrument":"EUR_JPY","units":"0","timeInForce":"FOK","positionFill":"DEFAULT","reason":"CLIENT_ORDER"},"relatedTransactionIDs":["48"],"lastTransactionID":"48","errorMessage":"Order units specified are invalid","errorCode":"UNITS_INVALID"}
+2025-05-01 17:57:36,901 - ArbitrageTrader - ERROR - Failed to execute trade: EUR to JPY
+2025-05-01 17:57:36,902 - ArbitrageTrader - WARNING - Trade failed: Order failed for EUR_JPY
+2025-05-01 17:57:42,905 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:57:43,386 - ArbitrageTrader - INFO - Updated 136 exchange rates
+2025-05-01 17:57:43,459 - ArbitrageTrader - INFO - Found arbitrage opportunity: 0.8459% profit
+2025-05-01 17:57:43,515 - ArbitrageTrader - INFO - Executing arbitrage cycle with expected profit: 0.8459%
+2025-05-01 17:57:43,515 - ArbitrageTrader - INFO - Cycle: EUR -> JPY -> TRY -> EUR
+2025-05-01 17:57:43,661 - ArbitrageTrader - ERROR - Order failed: 400, {"orderRejectTransaction":{"id":"49","accountID":"001-001-13604949-002","userID":13604949,"batchID":"49","requestID":"169453414576509376","time":"2025-05-01T21:57:43.647336817Z","type":"MARKET_ORDER_REJECT","rejectReason":"UNITS_INVALID","instrument":"EUR_JPY","units":"0","timeInForce":"FOK","positionFill":"DEFAULT","reason":"CLIENT_ORDER"},"relatedTransactionIDs":["49"],"lastTransactionID":"49","errorMessage":"Order units specified are invalid","errorCode":"UNITS_INVALID"}
+2025-05-01 17:57:43,661 - ArbitrageTrader - ERROR - Failed to execute trade: EUR to JPY
+2025-05-01 17:57:43,661 - ArbitrageTrader - WARNING - Trade failed: Order failed for EUR_JPY
+2025-05-01 17:57:49,664 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:57:50,136 - ArbitrageTrader - INFO - Updated 136 exchange rates
+2025-05-01 17:57:50,194 - ArbitrageTrader - INFO - Found arbitrage opportunity: 0.8459% profit
+2025-05-01 17:57:50,242 - ArbitrageTrader - INFO - Executing arbitrage cycle with expected profit: 0.8459%
+2025-05-01 17:57:50,242 - ArbitrageTrader - INFO - Cycle: EUR -> JPY -> TRY -> EUR
+2025-05-01 17:57:50,430 - ArbitrageTrader - ERROR - Order failed: 400, {"orderRejectTransaction":{"id":"50","accountID":"001-001-13604949-002","userID":13604949,"batchID":"50","requestID":"169453414605874963","time":"2025-05-01T21:57:50.414911871Z","type":"MARKET_ORDER_REJECT","rejectReason":"UNITS_INVALID","instrument":"EUR_JPY","units":"0","timeInForce":"FOK","positionFill":"DEFAULT","reason":"CLIENT_ORDER"},"relatedTransactionIDs":["50"],"lastTransactionID":"50","errorMessage":"Order units specified are invalid","errorCode":"UNITS_INVALID"}
+2025-05-01 17:57:50,430 - ArbitrageTrader - ERROR - Failed to execute trade: EUR to JPY
+2025-05-01 17:57:50,430 - ArbitrageTrader - WARNING - Trade failed: Order failed for EUR_JPY
+2025-05-01 17:57:56,435 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:57:56,889 - ArbitrageTrader - INFO - Updated 136 exchange rates
+2025-05-01 17:57:56,977 - ArbitrageTrader - INFO - Found arbitrage opportunity: 0.8459% profit
+2025-05-01 17:57:57,032 - ArbitrageTrader - INFO - Executing arbitrage cycle with expected profit: 0.8459%
+2025-05-01 17:57:57,033 - ArbitrageTrader - INFO - Cycle: EUR -> JPY -> TRY -> EUR
+2025-05-01 17:57:57,161 - ArbitrageTrader - ERROR - Order failed: 400, {"orderRejectTransaction":{"id":"51","accountID":"001-001-13604949-002","userID":13604949,"batchID":"51","requestID":"187467813147670037","time":"2025-05-01T21:57:57.151390428Z","type":"MARKET_ORDER_REJECT","rejectReason":"UNITS_INVALID","instrument":"EUR_JPY","units":"0","timeInForce":"FOK","positionFill":"DEFAULT","reason":"CLIENT_ORDER"},"relatedTransactionIDs":["51"],"lastTransactionID":"51","errorMessage":"Order units specified are invalid","errorCode":"UNITS_INVALID"}
+2025-05-01 17:57:57,162 - ArbitrageTrader - ERROR - Failed to execute trade: EUR to JPY
+2025-05-01 17:57:57,162 - ArbitrageTrader - WARNING - Trade failed: Order failed for EUR_JPY
+2025-05-01 17:58:03,166 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:58:03,801 - ArbitrageTrader - INFO - Updated 136 exchange rates
+2025-05-01 17:58:03,888 - ArbitrageTrader - INFO - Found arbitrage opportunity: 0.8459% profit
+2025-05-01 17:58:03,964 - ArbitrageTrader - INFO - Executing arbitrage cycle with expected profit: 0.8459%
+2025-05-01 17:58:03,964 - ArbitrageTrader - INFO - Cycle: EUR -> JPY -> TRY -> EUR
+2025-05-01 17:58:04,130 - ArbitrageTrader - ERROR - Order failed: 400, {"orderRejectTransaction":{"id":"52","accountID":"001-001-13604949-002","userID":13604949,"batchID":"52","requestID":"133424617646432397","time":"2025-05-01T21:58:04.115960083Z","type":"MARKET_ORDER_REJECT","rejectReason":"UNITS_INVALID","instrument":"EUR_JPY","units":"0","timeInForce":"FOK","positionFill":"DEFAULT","reason":"CLIENT_ORDER"},"relatedTransactionIDs":["52"],"lastTransactionID":"52","errorMessage":"Order units specified are invalid","errorCode":"UNITS_INVALID"}
+2025-05-01 17:58:04,130 - ArbitrageTrader - ERROR - Failed to execute trade: EUR to JPY
+2025-05-01 17:58:04,131 - ArbitrageTrader - WARNING - Trade failed: Order failed for EUR_JPY

@@ -1,0 +1,31 @@
+2025-05-01 17:49:46,210 - ArbitrageTrader - INFO - Logging initialized at 20250501_174946
+2025-05-01 17:49:46,210 - ArbitrageTrader - INFO - Log file: ./logs/arbitrage_20250501_174946.log
+2025-05-01 17:49:46,210 - ArbitrageTrader - INFO - Loaded configuration from config.json
+2025-05-01 17:49:46,210 - ArbitrageTrader - INFO - OANDA Arbitrage Trading System
+2025-05-01 17:49:46,210 - ArbitrageTrader - INFO - ----------------------------------------
+2025-05-01 17:49:46,210 - ArbitrageTrader - INFO - Starting time: 2025-05-01 17:49:46.210864
+2025-05-01 17:49:46,210 - ArbitrageTrader - INFO - Mode: Live trading
+2025-05-01 17:49:46,210 - ArbitrageTrader - INFO - Environment: Practice
+2025-05-01 17:49:46,210 - ArbitrageTrader - INFO - Check interval: 3 seconds
+2025-05-01 17:49:46,210 - ArbitrageTrader - INFO - ----------------------------------------
+2025-05-01 17:49:46,430 - ArbitrageTrader - ERROR - Failed to get account balance: 401, {"errorMessage":"Insufficient authorization to perform request."}
+2025-05-01 17:49:46,521 - ArbitrageTrader - ERROR - Failed to get instruments: 401, {"errorMessage":"Insufficient authorization to perform request."}
+2025-05-01 17:49:46,522 - ArbitrageTrader - INFO - Found 0 unique currencies
+2025-05-01 17:49:46,522 - ArbitrageTrader - INFO - OANDA Arbitrage Trader initialized in practice mode
+2025-05-01 17:49:46,523 - ArbitrageTrader - INFO - Account ID: 001-001-13604949-002
+2025-05-01 17:49:46,523 - ArbitrageTrader - INFO - Starting balance: 10000.0
+2025-05-01 17:49:46,523 - ArbitrageTrader - INFO - Monitoring 0 valid currency pairs
+2025-05-01 17:49:46,523 - ArbitrageTrader - INFO - Starting arbitrage trading system with check interval 3s
+2025-05-01 17:49:46,621 - ArbitrageTrader - ERROR - Failed to get account balance: 401, {"errorMessage":"Insufficient authorization to perform request."}
+2025-05-01 17:49:46,622 - ArbitrageTrader - INFO - Initial account balance: 10000.0
+2025-05-01 17:49:46,622 - ArbitrageTrader - INFO - LIVE MODE: Executing real trades
+2025-05-01 17:49:46,622 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:49:46,623 - ArbitrageTrader - INFO - Updated 0 exchange rates
+2025-05-01 17:49:46,705 - ArbitrageTrader - ERROR - Failed to get account balance: 401, {"errorMessage":"Insufficient authorization to perform request."}
+2025-05-01 17:49:46,706 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-01 17:49:48,801 - ArbitrageTrader - INFO - Arbitrage trading stopped by user
+2025-05-01 17:49:48,904 - ArbitrageTrader - ERROR - Failed to get account balance: 401, {"errorMessage":"Insufficient authorization to perform request."}
+2025-05-01 17:49:48,905 - ArbitrageTrader - INFO - Trading session complete. Final balance: 10000.0
+2025-05-01 17:49:48,905 - ArbitrageTrader - INFO - Total profit/loss: 0.0 (0.00%)
+2025-05-01 17:49:48,907 - ArbitrageTrader - INFO - Performance data saved to ./data/performance_20250501_174948.json
+2025-05-01 17:49:48,908 - ArbitrageTrader - INFO - Performance report saved to ./data/summary_20250501_174948.txt

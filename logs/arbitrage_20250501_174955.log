@@ -1,0 +1,181 @@
+2025-05-01 17:49:55,681 - ArbitrageTrader - INFO - Logging initialized at 20250501_174955
+2025-05-01 17:49:55,681 - ArbitrageTrader - INFO - Log file: ./logs/arbitrage_20250501_174955.log
+2025-05-01 17:49:55,681 - ArbitrageTrader - INFO - Loaded configuration from config.json
+2025-05-01 17:49:55,681 - ArbitrageTrader - INFO - OANDA Arbitrage Trading System
+2025-05-01 17:49:55,682 - ArbitrageTrader - INFO - ----------------------------------------
+2025-05-01 17:49:55,682 - ArbitrageTrader - INFO - Starting time: 2025-05-01 17:49:55.682031
+2025-05-01 17:49:55,682 - ArbitrageTrader - INFO - Mode: Live trading
+2025-05-01 17:49:55,682 - ArbitrageTrader - INFO - Environment: Practice
+2025-05-01 17:49:55,682 - ArbitrageTrader - INFO - Check interval: 3 seconds
+2025-05-01 17:49:55,682 - ArbitrageTrader - INFO - ----------------------------------------
+2025-05-01 17:49:55,763 - ArbitrageTrader - ERROR - Failed to get account balance: 401, {"errorMessage":"Insufficient authorization to perform request."}
+2025-05-01 17:49:55,881 - ArbitrageTrader - ERROR - Failed to get instruments: 401, {"errorMessage":"Insufficient authorization to perform request."}
+2025-05-01 17:49:55,882 - ArbitrageTrader - INFO - Found 0 unique currencies
+2025-05-01 17:49:55,882 - ArbitrageTrader - INFO - OANDA Arbitrage Trader initialized in practice mode
+2025-05-01 17:49:55,882 - ArbitrageTrader - INFO - Account ID: 001-001-13604949-002
+2025-05-01 17:49:55,882 - ArbitrageTrader - INFO - Starting balance: 10000.0
+2025-05-01 17:49:55,882 - ArbitrageTrader - INFO - Monitoring 0 valid currency pairs
+2025-05-01 17:49:55,882 - ArbitrageTrader - INFO - Starting arbitrage trading system with check interval 3s
+2025-05-01 17:49:55,989 - ArbitrageTrader - ERROR - Failed to get account balance: 401, {"errorMessage":"Insufficient authorization to perform request."}
+2025-05-01 17:49:55,990 - ArbitrageTrader - INFO - Initial account balance: 10000.0
+2025-05-01 17:49:55,990 - ArbitrageTrader - INFO - LIVE MODE: Executing real trades
+2025-05-01 17:49:55,990 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:49:55,991 - ArbitrageTrader - INFO - Updated 0 exchange rates
+2025-05-01 17:49:56,115 - ArbitrageTrader - ERROR - Failed to get account balance: 401, {"errorMessage":"Insufficient authorization to perform request."}
+2025-05-01 17:49:56,116 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-01 17:49:59,120 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:49:59,121 - ArbitrageTrader - INFO - Updated 0 exchange rates
+2025-05-01 17:49:59,203 - ArbitrageTrader - ERROR - Failed to get account balance: 401, {"errorMessage":"Insufficient authorization to perform request."}
+2025-05-01 17:49:59,204 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-01 17:50:02,209 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:50:02,209 - ArbitrageTrader - INFO - Updated 0 exchange rates
+2025-05-01 17:50:02,323 - ArbitrageTrader - ERROR - Failed to get account balance: 401, {"errorMessage":"Insufficient authorization to perform request."}
+2025-05-01 17:50:02,324 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-01 17:50:05,329 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:50:05,330 - ArbitrageTrader - INFO - Updated 0 exchange rates
+2025-05-01 17:50:05,420 - ArbitrageTrader - ERROR - Failed to get account balance: 401, {"errorMessage":"Insufficient authorization to perform request."}
+2025-05-01 17:50:05,421 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-01 17:50:08,426 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:50:08,427 - ArbitrageTrader - INFO - Updated 0 exchange rates
+2025-05-01 17:50:08,499 - ArbitrageTrader - ERROR - Failed to get account balance: 401, {"errorMessage":"Insufficient authorization to perform request."}
+2025-05-01 17:50:08,499 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-01 17:50:11,505 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:50:11,505 - ArbitrageTrader - INFO - Updated 0 exchange rates
+2025-05-01 17:50:11,590 - ArbitrageTrader - ERROR - Failed to get account balance: 401, {"errorMessage":"Insufficient authorization to perform request."}
+2025-05-01 17:50:11,590 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-01 17:50:14,596 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:50:14,597 - ArbitrageTrader - INFO - Updated 0 exchange rates
+2025-05-01 17:50:14,760 - ArbitrageTrader - ERROR - Failed to get account balance: 401, {"errorMessage":"Insufficient authorization to perform request."}
+2025-05-01 17:50:14,761 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-01 17:50:17,767 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:50:17,767 - ArbitrageTrader - INFO - Updated 0 exchange rates
+2025-05-01 17:50:17,859 - ArbitrageTrader - ERROR - Failed to get account balance: 401, {"errorMessage":"Insufficient authorization to perform request."}
+2025-05-01 17:50:17,860 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-01 17:50:20,862 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:50:20,863 - ArbitrageTrader - INFO - Updated 0 exchange rates
+2025-05-01 17:50:20,987 - ArbitrageTrader - ERROR - Failed to get account balance: 401, {"errorMessage":"Insufficient authorization to perform request."}
+2025-05-01 17:50:20,988 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-01 17:50:23,991 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:50:23,992 - ArbitrageTrader - INFO - Updated 0 exchange rates
+2025-05-01 17:50:24,090 - ArbitrageTrader - ERROR - Failed to get account balance: 401, {"errorMessage":"Insufficient authorization to perform request."}
+2025-05-01 17:50:24,091 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-01 17:50:27,092 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:50:27,093 - ArbitrageTrader - INFO - Updated 0 exchange rates
+2025-05-01 17:50:27,225 - ArbitrageTrader - ERROR - Failed to get account balance: 401, {"errorMessage":"Insufficient authorization to perform request."}
+2025-05-01 17:50:27,226 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-01 17:50:30,231 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:50:30,231 - ArbitrageTrader - INFO - Updated 0 exchange rates
+2025-05-01 17:50:30,352 - ArbitrageTrader - ERROR - Failed to get account balance: 401, {"errorMessage":"Insufficient authorization to perform request."}
+2025-05-01 17:50:30,352 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-01 17:50:33,358 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:50:33,359 - ArbitrageTrader - INFO - Updated 0 exchange rates
+2025-05-01 17:50:33,439 - ArbitrageTrader - ERROR - Failed to get account balance: 401, {"errorMessage":"Insufficient authorization to perform request."}
+2025-05-01 17:50:33,439 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-01 17:50:36,442 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:50:36,443 - ArbitrageTrader - INFO - Updated 0 exchange rates
+2025-05-01 17:50:36,563 - ArbitrageTrader - ERROR - Failed to get account balance: 401, {"errorMessage":"Insufficient authorization to perform request."}
+2025-05-01 17:50:36,564 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-01 17:50:39,569 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:50:39,569 - ArbitrageTrader - INFO - Updated 0 exchange rates
+2025-05-01 17:50:39,682 - ArbitrageTrader - ERROR - Failed to get account balance: 401, {"errorMessage":"Insufficient authorization to perform request."}
+2025-05-01 17:50:39,682 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-01 17:50:42,688 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:50:42,689 - ArbitrageTrader - INFO - Updated 0 exchange rates
+2025-05-01 17:50:42,812 - ArbitrageTrader - ERROR - Failed to get account balance: 401, {"errorMessage":"Insufficient authorization to perform request."}
+2025-05-01 17:50:42,813 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-01 17:50:45,815 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:50:45,816 - ArbitrageTrader - INFO - Updated 0 exchange rates
+2025-05-01 17:50:45,915 - ArbitrageTrader - ERROR - Failed to get account balance: 401, {"errorMessage":"Insufficient authorization to perform request."}
+2025-05-01 17:50:45,916 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-01 17:50:48,921 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:50:48,922 - ArbitrageTrader - INFO - Updated 0 exchange rates
+2025-05-01 17:50:49,020 - ArbitrageTrader - ERROR - Failed to get account balance: 401, {"errorMessage":"Insufficient authorization to perform request."}
+2025-05-01 17:50:49,020 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-01 17:50:52,026 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:50:52,026 - ArbitrageTrader - INFO - Updated 0 exchange rates
+2025-05-01 17:50:52,137 - ArbitrageTrader - ERROR - Failed to get account balance: 401, {"errorMessage":"Insufficient authorization to perform request."}
+2025-05-01 17:50:52,138 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-01 17:50:55,147 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:50:55,149 - ArbitrageTrader - INFO - Updated 0 exchange rates
+2025-05-01 17:50:55,239 - ArbitrageTrader - ERROR - Failed to get account balance: 401, {"errorMessage":"Insufficient authorization to perform request."}
+2025-05-01 17:50:55,240 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-01 17:50:58,240 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:50:58,241 - ArbitrageTrader - INFO - Updated 0 exchange rates
+2025-05-01 17:50:58,340 - ArbitrageTrader - ERROR - Failed to get account balance: 401, {"errorMessage":"Insufficient authorization to perform request."}
+2025-05-01 17:50:58,341 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-01 17:51:10,035 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:51:10,054 - ArbitrageTrader - INFO - Updated 0 exchange rates
+2025-05-01 17:51:10,649 - ArbitrageTrader - ERROR - Failed to get account balance: 401, {"errorMessage":"Insufficient authorization to perform request."}
+2025-05-01 17:51:10,649 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-01 17:51:13,657 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:51:13,667 - ArbitrageTrader - INFO - Updated 0 exchange rates
+2025-05-01 17:51:13,761 - ArbitrageTrader - ERROR - Failed to get account balance: 401, {"errorMessage":"Insufficient authorization to perform request."}
+2025-05-01 17:51:13,761 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-01 17:51:16,766 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:51:16,769 - ArbitrageTrader - INFO - Updated 0 exchange rates
+2025-05-01 17:51:16,905 - ArbitrageTrader - ERROR - Failed to get account balance: 401, {"errorMessage":"Insufficient authorization to perform request."}
+2025-05-01 17:51:16,906 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-01 17:51:19,911 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:51:19,912 - ArbitrageTrader - INFO - Updated 0 exchange rates
+2025-05-01 17:51:20,008 - ArbitrageTrader - ERROR - Failed to get account balance: 401, {"errorMessage":"Insufficient authorization to perform request."}
+2025-05-01 17:51:20,009 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-01 17:51:23,014 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:51:23,015 - ArbitrageTrader - INFO - Updated 0 exchange rates
+2025-05-01 17:51:23,110 - ArbitrageTrader - ERROR - Failed to get account balance: 401, {"errorMessage":"Insufficient authorization to perform request."}
+2025-05-01 17:51:23,111 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-01 17:51:26,115 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:51:26,115 - ArbitrageTrader - INFO - Updated 0 exchange rates
+2025-05-01 17:51:26,223 - ArbitrageTrader - ERROR - Failed to get account balance: 401, {"errorMessage":"Insufficient authorization to perform request."}
+2025-05-01 17:51:26,223 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-01 17:51:29,228 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:51:29,229 - ArbitrageTrader - INFO - Updated 0 exchange rates
+2025-05-01 17:51:29,355 - ArbitrageTrader - ERROR - Failed to get account balance: 401, {"errorMessage":"Insufficient authorization to perform request."}
+2025-05-01 17:51:29,356 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-01 17:51:32,360 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:51:32,361 - ArbitrageTrader - INFO - Updated 0 exchange rates
+2025-05-01 17:51:32,506 - ArbitrageTrader - ERROR - Failed to get account balance: 401, {"errorMessage":"Insufficient authorization to perform request."}
+2025-05-01 17:51:32,507 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-01 17:51:35,508 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:51:35,509 - ArbitrageTrader - INFO - Updated 0 exchange rates
+2025-05-01 17:51:35,635 - ArbitrageTrader - ERROR - Failed to get account balance: 401, {"errorMessage":"Insufficient authorization to perform request."}
+2025-05-01 17:51:35,636 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-01 17:51:38,642 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:51:38,643 - ArbitrageTrader - INFO - Updated 0 exchange rates
+2025-05-01 17:51:38,794 - ArbitrageTrader - ERROR - Failed to get account balance: 401, {"errorMessage":"Insufficient authorization to perform request."}
+2025-05-01 17:51:38,794 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-01 17:51:41,800 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:51:41,801 - ArbitrageTrader - INFO - Updated 0 exchange rates
+2025-05-01 17:51:41,888 - ArbitrageTrader - ERROR - Failed to get account balance: 401, {"errorMessage":"Insufficient authorization to perform request."}
+2025-05-01 17:51:41,888 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-01 17:51:44,893 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:51:44,894 - ArbitrageTrader - INFO - Updated 0 exchange rates
+2025-05-01 17:51:44,987 - ArbitrageTrader - ERROR - Failed to get account balance: 401, {"errorMessage":"Insufficient authorization to perform request."}
+2025-05-01 17:51:44,989 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-01 17:51:47,990 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:51:47,990 - ArbitrageTrader - INFO - Updated 0 exchange rates
+2025-05-01 17:51:48,128 - ArbitrageTrader - ERROR - Failed to get account balance: 401, {"errorMessage":"Insufficient authorization to perform request."}
+2025-05-01 17:51:48,128 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-01 17:51:51,133 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:51:51,133 - ArbitrageTrader - INFO - Updated 0 exchange rates
+2025-05-01 17:51:51,223 - ArbitrageTrader - ERROR - Failed to get account balance: 401, {"errorMessage":"Insufficient authorization to perform request."}
+2025-05-01 17:51:51,223 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-01 17:51:54,227 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:51:54,229 - ArbitrageTrader - INFO - Updated 0 exchange rates
+2025-05-01 17:51:54,335 - ArbitrageTrader - ERROR - Failed to get account balance: 401, {"errorMessage":"Insufficient authorization to perform request."}
+2025-05-01 17:51:54,336 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-01 17:51:57,341 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:51:57,341 - ArbitrageTrader - INFO - Updated 0 exchange rates
+2025-05-01 17:51:57,447 - ArbitrageTrader - ERROR - Failed to get account balance: 401, {"errorMessage":"Insufficient authorization to perform request."}
+2025-05-01 17:51:57,448 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-01 17:52:00,453 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:52:00,453 - ArbitrageTrader - INFO - Updated 0 exchange rates
+2025-05-01 17:52:00,553 - ArbitrageTrader - ERROR - Failed to get account balance: 401, {"errorMessage":"Insufficient authorization to perform request."}
+2025-05-01 17:52:00,554 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-01 17:52:03,560 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:52:03,560 - ArbitrageTrader - INFO - Updated 0 exchange rates
+2025-05-01 17:52:03,667 - ArbitrageTrader - ERROR - Failed to get account balance: 401, {"errorMessage":"Insufficient authorization to perform request."}
+2025-05-01 17:52:03,667 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-01 17:52:06,673 - ArbitrageTrader - INFO - Strategy adjusted for new_york session: profit threshold=0.100%, check interval=3s
+2025-05-01 17:52:06,674 - ArbitrageTrader - INFO - Updated 0 exchange rates
+2025-05-01 17:52:06,769 - ArbitrageTrader - ERROR - Failed to get account balance: 401, {"errorMessage":"Insufficient authorization to perform request."}
+2025-05-01 17:52:06,770 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
