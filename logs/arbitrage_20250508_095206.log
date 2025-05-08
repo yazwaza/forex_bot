@@ -1,0 +1,242 @@
+2025-05-08 09:52:06,791 - ArbitrageTrader - INFO - Logging initialized at 20250508_095206
+2025-05-08 09:52:06,791 - ArbitrageTrader - INFO - Log file: ./logs/arbitrage_20250508_095206.log
+2025-05-08 09:52:06,792 - ArbitrageTrader - INFO - Loaded configuration from config.json
+2025-05-08 09:52:06,792 - ArbitrageTrader - INFO - OANDA Arbitrage Trading System
+2025-05-08 09:52:06,792 - ArbitrageTrader - INFO - ----------------------------------------
+2025-05-08 09:52:06,792 - ArbitrageTrader - INFO - Starting time: 2025-05-08 09:52:06.792142
+2025-05-08 09:52:06,792 - ArbitrageTrader - INFO - Mode: Live trading
+2025-05-08 09:52:06,792 - ArbitrageTrader - INFO - Environment: Practice
+2025-05-08 09:52:06,792 - ArbitrageTrader - INFO - Check interval: 3 seconds
+2025-05-08 09:52:06,792 - ArbitrageTrader - INFO - ----------------------------------------
+2025-05-08 09:52:07,022 - ArbitrageTrader - INFO - Found 21 unique currencies
+2025-05-08 09:52:07,022 - ArbitrageTrader - WARNING - Currency pair CHF_CAD not supported by OANDA - excluding from monitoring
+2025-05-08 09:52:07,097 - ArbitrageTrader - INFO - OANDA Arbitrage Trader initialized in practice mode
+2025-05-08 09:52:07,098 - ArbitrageTrader - INFO - Account ID: 101-001-31395009-001
+2025-05-08 09:52:07,098 - ArbitrageTrader - INFO - Starting balance: 100177.6106
+2025-05-08 09:52:07,098 - ArbitrageTrader - INFO - Monitoring 68 valid currency pairs
+2025-05-08 09:52:07,186 - ArbitrageTrader - INFO - Starting arbitrage trading system with check interval 3s
+2025-05-08 09:52:07,267 - ArbitrageTrader - INFO - Initial account balance: 100177.6106
+2025-05-08 09:52:07,268 - ArbitrageTrader - INFO - LIVE MODE: Executing real trades
+2025-05-08 09:52:07,268 - ArbitrageTrader - INFO - Strategy adjusted for london_ny_overlap session: profit threshold=0.040%, check interval=1s
+2025-05-08 09:52:08,048 - ArbitrageTrader - INFO - Updated 136 exchange rates
+2025-05-08 09:52:08,152 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-08 09:52:11,154 - ArbitrageTrader - INFO - Strategy adjusted for london_ny_overlap session: profit threshold=0.040%, check interval=1s
+2025-05-08 09:52:11,833 - ArbitrageTrader - INFO - Updated 136 exchange rates
+2025-05-08 09:52:11,934 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-08 09:52:14,937 - ArbitrageTrader - INFO - Strategy adjusted for london_ny_overlap session: profit threshold=0.040%, check interval=1s
+2025-05-08 09:52:15,565 - ArbitrageTrader - INFO - Updated 136 exchange rates
+2025-05-08 09:52:15,663 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-08 09:52:18,665 - ArbitrageTrader - INFO - Strategy adjusted for london_ny_overlap session: profit threshold=0.040%, check interval=1s
+2025-05-08 09:52:19,281 - ArbitrageTrader - INFO - Updated 136 exchange rates
+2025-05-08 09:52:19,359 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-08 09:52:22,363 - ArbitrageTrader - INFO - Strategy adjusted for london_ny_overlap session: profit threshold=0.040%, check interval=1s
+2025-05-08 09:52:23,066 - ArbitrageTrader - INFO - Updated 136 exchange rates
+2025-05-08 09:52:23,142 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-08 09:52:26,142 - ArbitrageTrader - INFO - Strategy adjusted for london_ny_overlap session: profit threshold=0.040%, check interval=1s
+2025-05-08 09:52:27,618 - ArbitrageTrader - INFO - Updated 136 exchange rates
+2025-05-08 09:52:27,835 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-08 09:52:30,842 - ArbitrageTrader - INFO - Strategy adjusted for london_ny_overlap session: profit threshold=0.040%, check interval=1s
+2025-05-08 09:52:30,876 - ArbitrageTrader - WARNING - Exception fetching price for USD_CHF: HTTPSConnectionPool(host='api-fxpractice.oanda.com', port=443): Max retries exceeded with url: /v3/instruments/USD_CHF/candles?count=1&price=MBA&granularity=S5 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x1042ccda0>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))
+2025-05-08 09:52:31,444 - ArbitrageTrader - INFO - Updated 134 exchange rates
+2025-05-08 09:52:31,550 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-08 09:52:34,555 - ArbitrageTrader - INFO - Strategy adjusted for london_ny_overlap session: profit threshold=0.040%, check interval=1s
+2025-05-08 09:52:35,247 - ArbitrageTrader - INFO - Updated 136 exchange rates
+2025-05-08 09:52:35,324 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-08 09:52:38,326 - ArbitrageTrader - INFO - Strategy adjusted for london_ny_overlap session: profit threshold=0.040%, check interval=1s
+2025-05-08 09:52:38,932 - ArbitrageTrader - INFO - Updated 136 exchange rates
+2025-05-08 09:52:39,071 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-08 09:52:42,074 - ArbitrageTrader - INFO - Strategy adjusted for london_ny_overlap session: profit threshold=0.040%, check interval=1s
+2025-05-08 09:52:42,800 - ArbitrageTrader - INFO - Updated 136 exchange rates
+2025-05-08 09:52:42,865 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-08 09:52:45,870 - ArbitrageTrader - INFO - Strategy adjusted for london_ny_overlap session: profit threshold=0.040%, check interval=1s
+2025-05-08 09:52:46,577 - ArbitrageTrader - INFO - Updated 136 exchange rates
+2025-05-08 09:52:46,662 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-08 09:52:49,668 - ArbitrageTrader - INFO - Strategy adjusted for london_ny_overlap session: profit threshold=0.040%, check interval=1s
+2025-05-08 09:52:50,457 - ArbitrageTrader - INFO - Updated 136 exchange rates
+2025-05-08 09:52:50,575 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-08 09:52:53,580 - ArbitrageTrader - INFO - Strategy adjusted for london_ny_overlap session: profit threshold=0.040%, check interval=1s
+2025-05-08 09:52:54,712 - ArbitrageTrader - INFO - Updated 136 exchange rates
+2025-05-08 09:52:54,785 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-08 09:52:57,791 - ArbitrageTrader - INFO - Strategy adjusted for london_ny_overlap session: profit threshold=0.040%, check interval=1s
+2025-05-08 09:52:58,375 - ArbitrageTrader - INFO - Updated 136 exchange rates
+2025-05-08 09:52:58,468 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-08 09:53:01,473 - ArbitrageTrader - INFO - Strategy adjusted for london_ny_overlap session: profit threshold=0.040%, check interval=1s
+2025-05-08 09:53:02,301 - ArbitrageTrader - INFO - Updated 136 exchange rates
+2025-05-08 09:53:02,387 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-08 09:53:05,388 - ArbitrageTrader - INFO - Strategy adjusted for london_ny_overlap session: profit threshold=0.040%, check interval=1s
+2025-05-08 09:53:06,542 - ArbitrageTrader - INFO - Updated 136 exchange rates
+2025-05-08 09:53:06,619 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-08 09:53:09,620 - ArbitrageTrader - INFO - Strategy adjusted for london_ny_overlap session: profit threshold=0.040%, check interval=1s
+2025-05-08 09:53:10,270 - ArbitrageTrader - INFO - Updated 136 exchange rates
+2025-05-08 09:53:10,416 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-08 09:53:13,421 - ArbitrageTrader - INFO - Strategy adjusted for london_ny_overlap session: profit threshold=0.040%, check interval=1s
+2025-05-08 09:53:14,145 - ArbitrageTrader - INFO - Updated 136 exchange rates
+2025-05-08 09:53:14,245 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-08 09:53:17,250 - ArbitrageTrader - INFO - Strategy adjusted for london_ny_overlap session: profit threshold=0.040%, check interval=1s
+2025-05-08 09:53:17,871 - ArbitrageTrader - INFO - Updated 136 exchange rates
+2025-05-08 09:53:17,963 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-08 09:53:20,968 - ArbitrageTrader - INFO - Strategy adjusted for london_ny_overlap session: profit threshold=0.040%, check interval=1s
+2025-05-08 09:53:21,867 - ArbitrageTrader - INFO - Updated 136 exchange rates
+2025-05-08 09:53:21,994 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-08 09:53:24,995 - ArbitrageTrader - INFO - Strategy adjusted for london_ny_overlap session: profit threshold=0.040%, check interval=1s
+2025-05-08 09:53:25,646 - ArbitrageTrader - INFO - Updated 136 exchange rates
+2025-05-08 09:53:25,733 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-08 09:53:28,737 - ArbitrageTrader - INFO - Strategy adjusted for london_ny_overlap session: profit threshold=0.040%, check interval=1s
+2025-05-08 09:53:29,571 - ArbitrageTrader - INFO - Updated 136 exchange rates
+2025-05-08 09:53:29,659 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-08 09:53:32,664 - ArbitrageTrader - INFO - Strategy adjusted for london_ny_overlap session: profit threshold=0.040%, check interval=1s
+2025-05-08 09:53:33,250 - ArbitrageTrader - INFO - Updated 136 exchange rates
+2025-05-08 09:53:33,320 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-08 09:53:36,325 - ArbitrageTrader - INFO - Strategy adjusted for london_ny_overlap session: profit threshold=0.040%, check interval=1s
+2025-05-08 09:53:37,449 - ArbitrageTrader - INFO - Updated 136 exchange rates
+2025-05-08 09:53:37,530 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-08 09:53:40,535 - ArbitrageTrader - INFO - Strategy adjusted for london_ny_overlap session: profit threshold=0.040%, check interval=1s
+2025-05-08 09:53:41,184 - ArbitrageTrader - INFO - Updated 136 exchange rates
+2025-05-08 09:53:41,332 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-08 09:53:44,337 - ArbitrageTrader - INFO - Strategy adjusted for london_ny_overlap session: profit threshold=0.040%, check interval=1s
+2025-05-08 09:53:44,956 - ArbitrageTrader - INFO - Updated 136 exchange rates
+2025-05-08 09:53:45,037 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-08 09:53:48,043 - ArbitrageTrader - INFO - Strategy adjusted for london_ny_overlap session: profit threshold=0.040%, check interval=1s
+2025-05-08 09:53:48,653 - ArbitrageTrader - INFO - Updated 136 exchange rates
+2025-05-08 09:53:48,738 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-08 09:53:51,740 - ArbitrageTrader - INFO - Strategy adjusted for london_ny_overlap session: profit threshold=0.040%, check interval=1s
+2025-05-08 09:54:10,841 - ArbitrageTrader - INFO - Updated 136 exchange rates
+2025-05-08 09:54:10,915 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-08 09:54:13,921 - ArbitrageTrader - INFO - Strategy adjusted for london_ny_overlap session: profit threshold=0.040%, check interval=1s
+2025-05-08 09:54:14,685 - ArbitrageTrader - INFO - Updated 136 exchange rates
+2025-05-08 09:54:14,873 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-08 09:54:17,877 - ArbitrageTrader - INFO - Strategy adjusted for london_ny_overlap session: profit threshold=0.040%, check interval=1s
+2025-05-08 09:54:19,031 - ArbitrageTrader - INFO - Updated 136 exchange rates
+2025-05-08 09:54:19,110 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-08 09:54:22,115 - ArbitrageTrader - INFO - Strategy adjusted for london_ny_overlap session: profit threshold=0.040%, check interval=1s
+2025-05-08 09:54:22,519 - ArbitrageTrader - WARNING - Exception fetching price for CAD_SGD: HTTPSConnectionPool(host='api-fxpractice.oanda.com', port=443): Max retries exceeded with url: /v3/instruments/CAD_SGD/candles?count=1&price=MBA&granularity=S5 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x10425e3c0>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))
+2025-05-08 09:54:22,736 - ArbitrageTrader - INFO - Updated 134 exchange rates
+2025-05-08 09:54:22,846 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-08 09:54:25,851 - ArbitrageTrader - INFO - Strategy adjusted for london_ny_overlap session: profit threshold=0.040%, check interval=1s
+2025-05-08 09:54:26,530 - ArbitrageTrader - INFO - Updated 136 exchange rates
+2025-05-08 09:54:26,626 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-08 09:54:29,631 - ArbitrageTrader - INFO - Strategy adjusted for london_ny_overlap session: profit threshold=0.040%, check interval=1s
+2025-05-08 09:54:30,235 - ArbitrageTrader - INFO - Updated 136 exchange rates
+2025-05-08 09:54:30,305 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-08 09:54:33,310 - ArbitrageTrader - INFO - Strategy adjusted for london_ny_overlap session: profit threshold=0.040%, check interval=1s
+2025-05-08 09:54:34,225 - ArbitrageTrader - INFO - Updated 136 exchange rates
+2025-05-08 09:54:34,288 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-08 09:54:37,289 - ArbitrageTrader - INFO - Strategy adjusted for london_ny_overlap session: profit threshold=0.040%, check interval=1s
+2025-05-08 09:54:37,920 - ArbitrageTrader - INFO - Updated 136 exchange rates
+2025-05-08 09:54:37,995 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-08 09:54:41,001 - ArbitrageTrader - INFO - Strategy adjusted for london_ny_overlap session: profit threshold=0.040%, check interval=1s
+2025-05-08 09:54:41,662 - ArbitrageTrader - INFO - Updated 136 exchange rates
+2025-05-08 09:54:41,763 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-08 09:54:44,768 - ArbitrageTrader - INFO - Strategy adjusted for london_ny_overlap session: profit threshold=0.040%, check interval=1s
+2025-05-08 09:54:47,022 - ArbitrageTrader - INFO - Updated 136 exchange rates
+2025-05-08 09:54:48,774 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-08 09:54:51,777 - ArbitrageTrader - INFO - Strategy adjusted for london_ny_overlap session: profit threshold=0.040%, check interval=1s
+2025-05-08 09:54:55,066 - ArbitrageTrader - INFO - Updated 136 exchange rates
+2025-05-08 09:54:55,396 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-08 09:54:58,397 - ArbitrageTrader - INFO - Strategy adjusted for london_ny_overlap session: profit threshold=0.040%, check interval=1s
+2025-05-08 09:55:01,273 - ArbitrageTrader - INFO - Updated 136 exchange rates
+2025-05-08 09:55:01,461 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-08 09:55:04,465 - ArbitrageTrader - INFO - Strategy adjusted for london_ny_overlap session: profit threshold=0.040%, check interval=1s
+2025-05-08 09:55:05,867 - ArbitrageTrader - INFO - Updated 136 exchange rates
+2025-05-08 09:55:05,961 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-08 09:55:08,961 - ArbitrageTrader - INFO - Strategy adjusted for london_ny_overlap session: profit threshold=0.040%, check interval=1s
+2025-05-08 09:55:10,060 - ArbitrageTrader - INFO - Updated 136 exchange rates
+2025-05-08 09:55:10,142 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-08 09:55:13,142 - ArbitrageTrader - INFO - Strategy adjusted for london_ny_overlap session: profit threshold=0.040%, check interval=1s
+2025-05-08 09:55:13,915 - ArbitrageTrader - INFO - Updated 136 exchange rates
+2025-05-08 09:55:14,003 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-08 09:55:17,008 - ArbitrageTrader - INFO - Strategy adjusted for london_ny_overlap session: profit threshold=0.040%, check interval=1s
+2025-05-08 09:55:17,572 - ArbitrageTrader - INFO - Updated 136 exchange rates
+2025-05-08 09:55:17,736 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-08 09:55:20,739 - ArbitrageTrader - INFO - Strategy adjusted for london_ny_overlap session: profit threshold=0.040%, check interval=1s
+2025-05-08 09:55:20,829 - ArbitrageTrader - WARNING - Exception fetching price for AUD_CHF: HTTPSConnectionPool(host='api-fxpractice.oanda.com', port=443): Max retries exceeded with url: /v3/instruments/AUD_CHF/candles?count=1&price=MBA&granularity=S5 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x102f5f770>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))
+2025-05-08 09:55:21,473 - ArbitrageTrader - INFO - Updated 134 exchange rates
+2025-05-08 09:55:21,536 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-08 09:55:24,542 - ArbitrageTrader - INFO - Strategy adjusted for london_ny_overlap session: profit threshold=0.040%, check interval=1s
+2025-05-08 09:55:25,265 - ArbitrageTrader - INFO - Updated 136 exchange rates
+2025-05-08 09:55:25,334 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-08 09:55:28,339 - ArbitrageTrader - INFO - Strategy adjusted for london_ny_overlap session: profit threshold=0.040%, check interval=1s
+2025-05-08 09:55:29,108 - ArbitrageTrader - INFO - Updated 136 exchange rates
+2025-05-08 09:55:29,190 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-08 09:55:32,196 - ArbitrageTrader - INFO - Strategy adjusted for london_ny_overlap session: profit threshold=0.040%, check interval=1s
+2025-05-08 09:55:32,789 - ArbitrageTrader - INFO - Updated 136 exchange rates
+2025-05-08 09:55:32,869 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-08 09:55:35,873 - ArbitrageTrader - INFO - Strategy adjusted for london_ny_overlap session: profit threshold=0.040%, check interval=1s
+2025-05-08 09:55:36,627 - ArbitrageTrader - INFO - Updated 136 exchange rates
+2025-05-08 09:55:36,709 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-08 09:55:39,713 - ArbitrageTrader - INFO - Strategy adjusted for london_ny_overlap session: profit threshold=0.040%, check interval=1s
+2025-05-08 09:55:40,325 - ArbitrageTrader - INFO - Updated 136 exchange rates
+2025-05-08 09:55:40,471 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-08 09:55:43,477 - ArbitrageTrader - INFO - Strategy adjusted for london_ny_overlap session: profit threshold=0.040%, check interval=1s
+2025-05-08 09:55:44,213 - ArbitrageTrader - INFO - Updated 136 exchange rates
+2025-05-08 09:55:44,278 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-08 09:55:47,279 - ArbitrageTrader - INFO - Strategy adjusted for london_ny_overlap session: profit threshold=0.040%, check interval=1s
+2025-05-08 09:55:47,969 - ArbitrageTrader - INFO - Updated 136 exchange rates
+2025-05-08 09:55:48,176 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-08 09:55:51,182 - ArbitrageTrader - INFO - Strategy adjusted for london_ny_overlap session: profit threshold=0.040%, check interval=1s
+2025-05-08 09:55:51,555 - ArbitrageTrader - WARNING - Exception fetching price for EUR_DKK: HTTPSConnectionPool(host='api-fxpractice.oanda.com', port=443): Max retries exceeded with url: /v3/instruments/EUR_DKK/candles?count=1&price=MBA&granularity=S5 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x1042ce7b0>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))
+2025-05-08 09:55:51,943 - ArbitrageTrader - INFO - Updated 134 exchange rates
+2025-05-08 09:55:52,010 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-08 09:55:55,011 - ArbitrageTrader - INFO - Strategy adjusted for london_ny_overlap session: profit threshold=0.040%, check interval=1s
+2025-05-08 09:55:55,591 - ArbitrageTrader - INFO - Updated 136 exchange rates
+2025-05-08 09:55:55,682 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-08 09:55:58,688 - ArbitrageTrader - INFO - Strategy adjusted for london_ny_overlap session: profit threshold=0.040%, check interval=1s
+2025-05-08 09:55:59,377 - ArbitrageTrader - INFO - Updated 136 exchange rates
+2025-05-08 09:55:59,458 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-08 09:56:02,464 - ArbitrageTrader - INFO - Strategy adjusted for london_ny_overlap session: profit threshold=0.040%, check interval=1s
+2025-05-08 09:56:03,300 - ArbitrageTrader - INFO - Updated 136 exchange rates
+2025-05-08 09:56:03,369 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-08 09:56:06,370 - ArbitrageTrader - INFO - Strategy adjusted for london_ny_overlap session: profit threshold=0.040%, check interval=1s
+2025-05-08 09:56:07,121 - ArbitrageTrader - INFO - Updated 136 exchange rates
+2025-05-08 09:56:07,202 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-08 09:56:10,208 - ArbitrageTrader - INFO - Strategy adjusted for london_ny_overlap session: profit threshold=0.040%, check interval=1s
+2025-05-08 09:56:10,829 - ArbitrageTrader - INFO - Updated 136 exchange rates
+2025-05-08 09:56:10,924 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-08 09:56:13,930 - ArbitrageTrader - INFO - Strategy adjusted for london_ny_overlap session: profit threshold=0.040%, check interval=1s
+2025-05-08 09:56:14,620 - ArbitrageTrader - INFO - Updated 136 exchange rates
+2025-05-08 09:56:14,685 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-08 09:56:17,688 - ArbitrageTrader - INFO - Strategy adjusted for london_ny_overlap session: profit threshold=0.040%, check interval=1s
+2025-05-08 09:56:18,299 - ArbitrageTrader - INFO - Updated 136 exchange rates
+2025-05-08 09:56:18,447 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-08 09:56:21,453 - ArbitrageTrader - INFO - Strategy adjusted for london_ny_overlap session: profit threshold=0.040%, check interval=1s
+2025-05-08 09:56:22,066 - ArbitrageTrader - INFO - Updated 136 exchange rates
+2025-05-08 09:56:22,148 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-08 09:56:25,149 - ArbitrageTrader - INFO - Strategy adjusted for london_ny_overlap session: profit threshold=0.040%, check interval=1s
+2025-05-08 09:56:26,025 - ArbitrageTrader - INFO - Updated 136 exchange rates
+2025-05-08 09:56:26,098 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-08 09:56:29,103 - ArbitrageTrader - INFO - Strategy adjusted for london_ny_overlap session: profit threshold=0.040%, check interval=1s
+2025-05-08 09:56:29,864 - ArbitrageTrader - INFO - Updated 136 exchange rates
+2025-05-08 09:56:29,940 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-08 09:56:32,945 - ArbitrageTrader - INFO - Strategy adjusted for london_ny_overlap session: profit threshold=0.040%, check interval=1s
+2025-05-08 09:56:33,561 - ArbitrageTrader - INFO - Updated 136 exchange rates
+2025-05-08 09:56:33,641 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-08 09:56:36,643 - ArbitrageTrader - INFO - Strategy adjusted for london_ny_overlap session: profit threshold=0.040%, check interval=1s
+2025-05-08 09:56:37,364 - ArbitrageTrader - INFO - Updated 136 exchange rates
+2025-05-08 09:56:37,451 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-08 09:56:40,456 - ArbitrageTrader - INFO - Strategy adjusted for london_ny_overlap session: profit threshold=0.040%, check interval=1s
+2025-05-08 09:56:41,384 - ArbitrageTrader - INFO - Updated 136 exchange rates
+2025-05-08 09:56:41,462 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-08 09:56:44,467 - ArbitrageTrader - INFO - Strategy adjusted for london_ny_overlap session: profit threshold=0.040%, check interval=1s
+2025-05-08 09:56:45,475 - ArbitrageTrader - INFO - Updated 136 exchange rates
+2025-05-08 09:56:45,668 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-08 09:56:48,676 - ArbitrageTrader - INFO - Strategy adjusted for london_ny_overlap session: profit threshold=0.040%, check interval=1s
+2025-05-08 09:56:49,504 - ArbitrageTrader - INFO - Updated 136 exchange rates
+2025-05-08 09:56:49,751 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-08 09:56:52,756 - ArbitrageTrader - INFO - Strategy adjusted for london_ny_overlap session: profit threshold=0.040%, check interval=1s
+2025-05-08 09:56:53,408 - ArbitrageTrader - INFO - Updated 136 exchange rates
+2025-05-08 09:56:53,505 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-08 09:56:56,510 - ArbitrageTrader - INFO - Strategy adjusted for london_ny_overlap session: profit threshold=0.040%, check interval=1s
+2025-05-08 09:56:57,275 - ArbitrageTrader - INFO - Updated 136 exchange rates
+2025-05-08 09:56:57,336 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-08 09:57:00,341 - ArbitrageTrader - INFO - Strategy adjusted for london_ny_overlap session: profit threshold=0.040%, check interval=1s
+2025-05-08 09:57:00,957 - ArbitrageTrader - INFO - Updated 136 exchange rates
+2025-05-08 09:57:01,026 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-08 09:57:04,031 - ArbitrageTrader - INFO - Strategy adjusted for london_ny_overlap session: profit threshold=0.040%, check interval=1s
+2025-05-08 09:57:04,888 - ArbitrageTrader - INFO - Updated 136 exchange rates
+2025-05-08 09:57:04,984 - ArbitrageTrader - INFO - No profitable arbitrage opportunities found
+2025-05-08 09:57:07,990 - ArbitrageTrader - INFO - Strategy adjusted for london_ny_overlap session: profit threshold=0.040%, check interval=1s
+2025-05-08 09:57:08,941 - ArbitrageTrader - INFO - Arbitrage trading stopped by user
+2025-05-08 09:57:09,017 - ArbitrageTrader - INFO - Trading session complete. Final balance: 100177.6106
+2025-05-08 09:57:09,017 - ArbitrageTrader - INFO - Total profit/loss: 0.0 (0.00%)
+2025-05-08 09:57:09,018 - ArbitrageTrader - INFO - Performance data saved to ./data/performance_20250508_095709.json
+2025-05-08 09:57:09,018 - ArbitrageTrader - INFO - Performance report saved to ./data/summary_20250508_095709.txt

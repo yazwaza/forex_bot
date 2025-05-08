@@ -1,0 +1,42 @@
+2025-05-08 09:57:09,232 - ArbitrageTrader - INFO - Logging initialized at 20250508_095709
+2025-05-08 09:57:09,232 - ArbitrageTrader - INFO - Log file: ./logs/arbitrage_20250508_095709.log
+2025-05-08 09:57:09,232 - ArbitrageTrader - INFO - Loaded configuration from config.json
+2025-05-08 09:57:09,232 - ArbitrageTrader - INFO - OANDA Arbitrage Trading System
+2025-05-08 09:57:09,232 - ArbitrageTrader - INFO - ----------------------------------------
+2025-05-08 09:57:09,232 - ArbitrageTrader - INFO - Starting time: 2025-05-08 09:57:09.232959
+2025-05-08 09:57:09,232 - ArbitrageTrader - INFO - Mode: Live trading
+2025-05-08 09:57:09,232 - ArbitrageTrader - INFO - Environment: Production
+2025-05-08 09:57:09,233 - ArbitrageTrader - INFO - Check interval: 3 seconds
+2025-05-08 09:57:09,233 - ArbitrageTrader - INFO - ----------------------------------------
+2025-05-08 09:57:09,432 - ArbitrageTrader - INFO - Found 21 unique currencies
+2025-05-08 09:57:09,432 - ArbitrageTrader - INFO - OANDA Arbitrage Trader initialized in live mode
+2025-05-08 09:57:09,433 - ArbitrageTrader - INFO - Account ID: 001-001-13604949-002
+2025-05-08 09:57:09,433 - ArbitrageTrader - INFO - Starting balance: 0.0
+2025-05-08 09:57:09,433 - ArbitrageTrader - INFO - Monitoring 68 valid currency pairs
+2025-05-08 09:57:09,433 - ArbitrageTrader - INFO - Starting arbitrage trading system with check interval 3s
+2025-05-08 09:57:09,503 - ArbitrageTrader - INFO - Initial account balance: 0.0
+2025-05-08 09:57:09,503 - ArbitrageTrader - INFO - LIVE MODE: Executing real trades
+2025-05-08 09:57:09,503 - ArbitrageTrader - INFO - Strategy adjusted for london_ny_overlap session: profit threshold=0.080%, check interval=1s
+2025-05-08 09:57:10,092 - ArbitrageTrader - INFO - Updated 136 exchange rates
+2025-05-08 09:57:10,145 - ArbitrageTrader - INFO - Found arbitrage opportunity: 0.4578% profit
+2025-05-08 09:57:10,213 - ArbitrageTrader - INFO - Executing arbitrage cycle with expected profit: 0.4578%
+2025-05-08 09:57:10,213 - ArbitrageTrader - INFO - Cycle: USD -> JPY -> TRY -> USD
+2025-05-08 09:57:10,350 - ArbitrageTrader - ERROR - Order failed: 400, {"orderRejectTransaction":{"id":"2468","accountID":"001-001-13604949-002","userID":13604949,"batchID":"2468","requestID":"151441431846985747","time":"2025-05-08T13:57:10.379636938Z","type":"MARKET_ORDER_REJECT","rejectReason":"UNITS_INVALID","instrument":"USD_JPY","units":"0","timeInForce":"FOK","positionFill":"DEFAULT","reason":"CLIENT_ORDER"},"relatedTransactionIDs":["2468"],"lastTransactionID":"2468","errorMessage":"Order units specified are invalid","errorCode":"UNITS_INVALID"}
+2025-05-08 09:57:10,350 - ArbitrageTrader - ERROR - Failed to execute trade: USD to JPY
+2025-05-08 09:57:10,350 - ArbitrageTrader - WARNING - Trade failed: Order failed for USD_JPY
+2025-05-08 09:57:16,356 - ArbitrageTrader - INFO - Strategy adjusted for london_ny_overlap session: profit threshold=0.080%, check interval=1s
+2025-05-08 09:57:16,866 - ArbitrageTrader - INFO - Updated 136 exchange rates
+2025-05-08 09:57:16,976 - ArbitrageTrader - INFO - Found arbitrage opportunity: 0.4611% profit
+2025-05-08 09:57:17,033 - ArbitrageTrader - INFO - Executing arbitrage cycle with expected profit: 0.4611%
+2025-05-08 09:57:17,033 - ArbitrageTrader - INFO - Cycle: USD -> JPY -> TRY -> USD
+2025-05-08 09:57:17,158 - ArbitrageTrader - ERROR - Order failed: 400, {"orderRejectTransaction":{"id":"2469","accountID":"001-001-13604949-002","userID":13604949,"batchID":"2469","requestID":"115412634858484803","time":"2025-05-08T13:57:17.185633241Z","type":"MARKET_ORDER_REJECT","rejectReason":"UNITS_INVALID","instrument":"USD_JPY","units":"0","timeInForce":"FOK","positionFill":"DEFAULT","reason":"CLIENT_ORDER"},"relatedTransactionIDs":["2469"],"lastTransactionID":"2469","errorMessage":"Order units specified are invalid","errorCode":"UNITS_INVALID"}
+2025-05-08 09:57:17,158 - ArbitrageTrader - ERROR - Failed to execute trade: USD to JPY
+2025-05-08 09:57:17,159 - ArbitrageTrader - WARNING - Trade failed: Order failed for USD_JPY
+2025-05-08 09:57:23,162 - ArbitrageTrader - INFO - Strategy adjusted for london_ny_overlap session: profit threshold=0.080%, check interval=1s
+2025-05-08 09:57:23,630 - ArbitrageTrader - INFO - Updated 136 exchange rates
+2025-05-08 09:57:23,699 - ArbitrageTrader - INFO - Found arbitrage opportunity: 0.4695% profit
+2025-05-08 09:57:23,754 - ArbitrageTrader - INFO - Executing arbitrage cycle with expected profit: 0.4695%
+2025-05-08 09:57:23,754 - ArbitrageTrader - INFO - Cycle: USD -> JPY -> TRY -> USD
+2025-05-08 09:57:23,875 - ArbitrageTrader - ERROR - Order failed: 400, {"orderRejectTransaction":{"id":"2470","accountID":"001-001-13604949-002","userID":13604949,"batchID":"2470","requestID":"169455830413093256","time":"2025-05-08T13:57:23.903068806Z","type":"MARKET_ORDER_REJECT","rejectReason":"UNITS_INVALID","instrument":"USD_JPY","units":"0","timeInForce":"FOK","positionFill":"DEFAULT","reason":"CLIENT_ORDER"},"relatedTransactionIDs":["2470"],"lastTransactionID":"2470","errorMessage":"Order units specified are invalid","errorCode":"UNITS_INVALID"}
+2025-05-08 09:57:23,875 - ArbitrageTrader - ERROR - Failed to execute trade: USD to JPY
+2025-05-08 09:57:23,876 - ArbitrageTrader - WARNING - Trade failed: Order failed for USD_JPY

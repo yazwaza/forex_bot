@@ -1,7 +1,7 @@
 {
-    "api_key": "e2e4b21591d33ae56c469f57d5569d2f-e10ec75c62d272d5f27aa294a5b55fca",
-    "account_id": "001-001-13604949-002",
-    "practice_mode": false,
+    "api_key": "236214682d3e2f35b504a6533031f197-869f250d31b20b2df81d58b233aac055",
+    "account_id": "101-001-31395009-001",
+    "practice_mode": true,
     "check_interval": 3,
     "min_profit_threshold": 0.001,
     "max_runtime": null,

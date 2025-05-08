@@ -1,0 +1,15 @@
+{
+    "start_time": "2025-05-07T15:26:13.808172",
+    "end_time": "2025-05-07T15:34:35.743403",
+    "metrics": {
+        "total_trades": 0,
+        "profitable_trades": 0,
+        "loss_trades": 0,
+        "win_rate": 0,
+        "avg_profit": 0,
+        "avg_loss": 0,
+        "avg_slippage": 0,
+        "total_profit": 0
+    },
+    "trades": []
+}

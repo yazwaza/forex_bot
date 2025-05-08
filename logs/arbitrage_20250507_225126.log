@@ -1,0 +1,5 @@
+2025-05-07 22:51:26,484 - ArbitrageTrader - INFO - Logging initialized at 20250507_225126
+2025-05-07 22:51:26,484 - ArbitrageTrader - INFO - Log file: ./logs/arbitrage_20250507_225126.log
+2025-05-07 22:51:26,485 - ArbitrageTrader - ERROR - Error loading configuration from config.json: Expecting value: line 25 column 9 (char 756)
+2025-05-07 22:51:26,485 - ArbitrageTrader - INFO - Using default configuration
+2025-05-07 22:51:26,485 - ArbitrageTrader - ERROR - API key and account ID must be provided in config or environment variables

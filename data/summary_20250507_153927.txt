@@ -1,0 +1,19 @@
+OANDA Arbitrage Trading System - Performance Report
+==================================================
+
+Report generated: 2025-05-07 15:39:27.788468
+Trading session: 2025-05-07 15:34:36.162809 to 2025-05-07 15:39:27.788481
+Duration: 0:04:51.625674
+
+Performance Metrics:
+--------------------
+Total trades: 0
+Profitable trades: 0 (0.00%)
+Loss trades: 0
+Average profit: 0.0000%
+Average loss: 0.0000%
+Average slippage: 0.0000%
+Total profit: 0.0000%
+
+Recent Trades:
+--------------------

@@ -1,0 +1,11 @@
+2025-05-07 15:40:01,399 - ArbitrageTrader - INFO - Logging initialized at 20250507_154001
+2025-05-07 15:40:01,399 - ArbitrageTrader - INFO - Log file: ./logs/arbitrage_20250507_154001.log
+2025-05-07 15:40:01,399 - ArbitrageTrader - INFO - Loaded configuration from config.json
+2025-05-07 15:40:01,399 - ArbitrageTrader - INFO - OANDA Arbitrage Trading System
+2025-05-07 15:40:01,399 - ArbitrageTrader - INFO - ----------------------------------------
+2025-05-07 15:40:01,399 - ArbitrageTrader - INFO - Starting time: 2025-05-07 15:40:01.399963
+2025-05-07 15:40:01,399 - ArbitrageTrader - INFO - Mode: Live trading
+2025-05-07 15:40:01,400 - ArbitrageTrader - INFO - Environment: Practice
+2025-05-07 15:40:01,400 - ArbitrageTrader - INFO - Check interval: 3 seconds
+2025-05-07 15:40:01,400 - ArbitrageTrader - INFO - ----------------------------------------
+2025-05-07 15:40:01,570 - ArbitrageTrader - INFO - Found 21 unique currencies

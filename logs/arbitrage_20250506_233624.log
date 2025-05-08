@@ -1,0 +1,75 @@
+2025-05-06 23:36:24,262 - ArbitrageTrader - INFO - Logging initialized at 20250506_233624
+2025-05-06 23:36:24,262 - ArbitrageTrader - INFO - Log file: ./logs/arbitrage_20250506_233624.log
+2025-05-06 23:36:24,262 - ArbitrageTrader - INFO - Loaded configuration from config.json
+2025-05-06 23:36:24,262 - ArbitrageTrader - INFO - OANDA Arbitrage Trading System
+2025-05-06 23:36:24,262 - ArbitrageTrader - INFO - ----------------------------------------
+2025-05-06 23:36:24,262 - ArbitrageTrader - INFO - Starting time: 2025-05-06 23:36:24.262692
+2025-05-06 23:36:24,262 - ArbitrageTrader - INFO - Mode: Live trading
+2025-05-06 23:36:24,262 - ArbitrageTrader - INFO - Environment: Practice
+2025-05-06 23:36:24,262 - ArbitrageTrader - INFO - Check interval: 3 seconds
+2025-05-06 23:36:24,262 - ArbitrageTrader - INFO - ----------------------------------------
+2025-05-06 23:36:24,567 - ArbitrageTrader - INFO - Found 21 unique currencies
+2025-05-06 23:36:24,567 - ArbitrageTrader - INFO - OANDA Arbitrage Trader initialized in practice mode
+2025-05-06 23:36:24,567 - ArbitrageTrader - INFO - Account ID: 101-001-31395009-001
+2025-05-06 23:36:24,567 - ArbitrageTrader - INFO - Starting balance: 100000.0
+2025-05-06 23:36:24,567 - ArbitrageTrader - INFO - Monitoring 68 valid currency pairs
+2025-05-06 23:36:24,567 - ArbitrageTrader - INFO - Starting arbitrage trading system with check interval 3s
+2025-05-06 23:36:24,661 - ArbitrageTrader - INFO - Initial account balance: 100000.0
+2025-05-06 23:36:24,662 - ArbitrageTrader - INFO - LIVE MODE: Executing real trades
+2025-05-06 23:36:24,662 - ArbitrageTrader - INFO - Strategy adjusted for tokyo session: profit threshold=0.150%, check interval=5s
+2025-05-06 23:36:25,316 - ArbitrageTrader - INFO - Updated 136 exchange rates
+2025-05-06 23:36:25,456 - ArbitrageTrader - INFO - Trading conditions not optimal. Waiting...
+2025-05-06 23:36:31,461 - ArbitrageTrader - INFO - Strategy adjusted for tokyo session: profit threshold=0.150%, check interval=5s
+2025-05-06 23:36:32,088 - ArbitrageTrader - INFO - Updated 136 exchange rates
+2025-05-06 23:36:32,222 - ArbitrageTrader - INFO - Trading conditions not optimal. Waiting...
+2025-05-06 23:36:38,227 - ArbitrageTrader - INFO - Strategy adjusted for tokyo session: profit threshold=0.150%, check interval=5s
+2025-05-06 23:36:39,027 - ArbitrageTrader - INFO - Updated 136 exchange rates
+2025-05-06 23:36:39,104 - ArbitrageTrader - INFO - Trading conditions not optimal. Waiting...
+2025-05-06 23:36:45,110 - ArbitrageTrader - INFO - Strategy adjusted for tokyo session: profit threshold=0.150%, check interval=5s
+2025-05-06 23:36:45,711 - ArbitrageTrader - INFO - Updated 136 exchange rates
+2025-05-06 23:36:45,775 - ArbitrageTrader - INFO - Trading conditions not optimal. Waiting...
+2025-05-06 23:36:51,781 - ArbitrageTrader - INFO - Strategy adjusted for tokyo session: profit threshold=0.150%, check interval=5s
+2025-05-06 23:36:52,546 - ArbitrageTrader - INFO - Updated 136 exchange rates
+2025-05-06 23:36:52,621 - ArbitrageTrader - INFO - Trading conditions not optimal. Waiting...
+2025-05-06 23:36:58,627 - ArbitrageTrader - INFO - Strategy adjusted for tokyo session: profit threshold=0.150%, check interval=5s
+2025-05-06 23:36:59,250 - ArbitrageTrader - INFO - Updated 136 exchange rates
+2025-05-06 23:36:59,312 - ArbitrageTrader - INFO - Trading conditions not optimal. Waiting...
+2025-05-06 23:37:05,319 - ArbitrageTrader - INFO - Strategy adjusted for tokyo session: profit threshold=0.150%, check interval=5s
+2025-05-06 23:37:06,007 - ArbitrageTrader - INFO - Updated 136 exchange rates
+2025-05-06 23:37:06,079 - ArbitrageTrader - INFO - Trading conditions not optimal. Waiting...
+2025-05-06 23:37:12,080 - ArbitrageTrader - INFO - Strategy adjusted for tokyo session: profit threshold=0.150%, check interval=5s
+2025-05-06 23:37:12,651 - ArbitrageTrader - INFO - Updated 136 exchange rates
+2025-05-06 23:37:12,730 - ArbitrageTrader - INFO - Trading conditions not optimal. Waiting...
+2025-05-06 23:37:18,735 - ArbitrageTrader - INFO - Strategy adjusted for tokyo session: profit threshold=0.150%, check interval=5s
+2025-05-06 23:37:19,382 - ArbitrageTrader - INFO - Updated 136 exchange rates
+2025-05-06 23:37:19,443 - ArbitrageTrader - INFO - Trading conditions not optimal. Waiting...
+2025-05-06 23:37:25,453 - ArbitrageTrader - INFO - Strategy adjusted for tokyo session: profit threshold=0.150%, check interval=5s
+2025-05-06 23:37:26,067 - ArbitrageTrader - INFO - Updated 136 exchange rates
+2025-05-06 23:37:26,126 - ArbitrageTrader - INFO - Trading conditions not optimal. Waiting...
+2025-05-06 23:37:32,129 - ArbitrageTrader - INFO - Strategy adjusted for tokyo session: profit threshold=0.150%, check interval=5s
+2025-05-06 23:37:32,877 - ArbitrageTrader - INFO - Updated 136 exchange rates
+2025-05-06 23:37:32,943 - ArbitrageTrader - INFO - Trading conditions not optimal. Waiting...
+2025-05-06 23:37:38,945 - ArbitrageTrader - INFO - Strategy adjusted for tokyo session: profit threshold=0.150%, check interval=5s
+2025-05-06 23:37:39,593 - ArbitrageTrader - INFO - Updated 136 exchange rates
+2025-05-06 23:37:39,674 - ArbitrageTrader - INFO - Trading conditions not optimal. Waiting...
+2025-05-06 23:37:45,678 - ArbitrageTrader - INFO - Strategy adjusted for tokyo session: profit threshold=0.150%, check interval=5s
+2025-05-06 23:37:46,413 - ArbitrageTrader - INFO - Updated 136 exchange rates
+2025-05-06 23:37:46,474 - ArbitrageTrader - INFO - Trading conditions not optimal. Waiting...
+2025-05-06 23:37:52,477 - ArbitrageTrader - INFO - Strategy adjusted for tokyo session: profit threshold=0.150%, check interval=5s
+2025-05-06 23:37:53,115 - ArbitrageTrader - INFO - Updated 136 exchange rates
+2025-05-06 23:37:53,254 - ArbitrageTrader - INFO - Trading conditions not optimal. Waiting...
+2025-05-06 23:37:59,256 - ArbitrageTrader - INFO - Strategy adjusted for tokyo session: profit threshold=0.150%, check interval=5s
+2025-05-06 23:37:59,847 - ArbitrageTrader - INFO - Updated 136 exchange rates
+2025-05-06 23:37:59,930 - ArbitrageTrader - INFO - Trading conditions not optimal. Waiting...
+2025-05-06 23:38:05,933 - ArbitrageTrader - INFO - Strategy adjusted for tokyo session: profit threshold=0.150%, check interval=5s
+2025-05-06 23:38:06,647 - ArbitrageTrader - INFO - Updated 136 exchange rates
+2025-05-06 23:38:06,718 - ArbitrageTrader - INFO - Trading conditions not optimal. Waiting...
+2025-05-06 23:38:12,720 - ArbitrageTrader - INFO - Strategy adjusted for tokyo session: profit threshold=0.150%, check interval=5s
+2025-05-06 23:38:13,311 - ArbitrageTrader - INFO - Updated 136 exchange rates
+2025-05-06 23:38:13,392 - ArbitrageTrader - INFO - Trading conditions not optimal. Waiting...
+2025-05-06 23:38:19,398 - ArbitrageTrader - INFO - Strategy adjusted for tokyo session: profit threshold=0.150%, check interval=5s
+2025-05-06 23:38:20,101 - ArbitrageTrader - INFO - Updated 136 exchange rates
+2025-05-06 23:38:20,167 - ArbitrageTrader - INFO - Trading conditions not optimal. Waiting...
+2025-05-06 23:38:26,171 - ArbitrageTrader - INFO - Strategy adjusted for tokyo session: profit threshold=0.150%, check interval=5s
+2025-05-06 23:38:26,846 - ArbitrageTrader - INFO - Updated 136 exchange rates
+2025-05-06 23:38:26,903 - ArbitrageTrader - INFO - Trading conditions not optimal. Waiting...

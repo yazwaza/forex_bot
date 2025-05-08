@@ -1,0 +1,58 @@
+2025-05-07 22:57:43,825 - ArbitrageTrader - INFO - Logging initialized at 20250507_225743
+2025-05-07 22:57:43,825 - ArbitrageTrader - INFO - Log file: ./logs/arbitrage_20250507_225743.log
+2025-05-07 22:57:43,826 - ArbitrageTrader - INFO - Loaded configuration from config.json
+2025-05-07 22:57:43,826 - ArbitrageTrader - INFO - OANDA Arbitrage Trading System
+2025-05-07 22:57:43,826 - ArbitrageTrader - INFO - ----------------------------------------
+2025-05-07 22:57:43,826 - ArbitrageTrader - INFO - Starting time: 2025-05-07 22:57:43.826158
+2025-05-07 22:57:43,826 - ArbitrageTrader - INFO - Mode: Live trading
+2025-05-07 22:57:43,826 - ArbitrageTrader - INFO - Environment: Practice
+2025-05-07 22:57:43,826 - ArbitrageTrader - INFO - Check interval: 3 seconds
+2025-05-07 22:57:43,826 - ArbitrageTrader - INFO - ----------------------------------------
+2025-05-07 22:57:43,993 - ArbitrageTrader - INFO - Found 21 unique currencies
+2025-05-07 22:57:43,993 - ArbitrageTrader - WARNING - Currency pair USD_EUR not supported by OANDA - excluding from monitoring
+2025-05-07 22:57:43,993 - ArbitrageTrader - WARNING - Currency pair JPY_USD not supported by OANDA - excluding from monitoring
+2025-05-07 22:57:43,993 - ArbitrageTrader - WARNING - Currency pair USD_GBP not supported by OANDA - excluding from monitoring
+2025-05-07 22:57:43,993 - ArbitrageTrader - WARNING - Currency pair CHF_USD not supported by OANDA - excluding from monitoring
+2025-05-07 22:57:43,993 - ArbitrageTrader - WARNING - Currency pair CAD_USD not supported by OANDA - excluding from monitoring
+2025-05-07 22:57:43,993 - ArbitrageTrader - WARNING - Currency pair USD_AUD not supported by OANDA - excluding from monitoring
+2025-05-07 22:57:43,993 - ArbitrageTrader - WARNING - Currency pair USD_NZD not supported by OANDA - excluding from monitoring
+2025-05-07 22:57:43,993 - ArbitrageTrader - WARNING - Currency pair GBP_EUR not supported by OANDA - excluding from monitoring
+2025-05-07 22:57:43,993 - ArbitrageTrader - WARNING - Currency pair JPY_EUR not supported by OANDA - excluding from monitoring
+2025-05-07 22:57:43,993 - ArbitrageTrader - WARNING - Currency pair CHF_EUR not supported by OANDA - excluding from monitoring
+2025-05-07 22:57:43,993 - ArbitrageTrader - WARNING - Currency pair CAD_EUR not supported by OANDA - excluding from monitoring
+2025-05-07 22:57:43,993 - ArbitrageTrader - WARNING - Currency pair AUD_EUR not supported by OANDA - excluding from monitoring
+2025-05-07 22:57:43,993 - ArbitrageTrader - WARNING - Currency pair NZD_EUR not supported by OANDA - excluding from monitoring
+2025-05-07 22:57:43,993 - ArbitrageTrader - WARNING - Currency pair JPY_GBP not supported by OANDA - excluding from monitoring
+2025-05-07 22:57:43,993 - ArbitrageTrader - WARNING - Currency pair CHF_GBP not supported by OANDA - excluding from monitoring
+2025-05-07 22:57:43,993 - ArbitrageTrader - WARNING - Currency pair CAD_GBP not supported by OANDA - excluding from monitoring
+2025-05-07 22:57:43,993 - ArbitrageTrader - WARNING - Currency pair AUD_GBP not supported by OANDA - excluding from monitoring
+2025-05-07 22:57:43,993 - ArbitrageTrader - WARNING - Currency pair NZD_GBP not supported by OANDA - excluding from monitoring
+2025-05-07 22:57:43,994 - ArbitrageTrader - WARNING - Currency pair JPY_CHF not supported by OANDA - excluding from monitoring
+2025-05-07 22:57:43,994 - ArbitrageTrader - WARNING - Currency pair JPY_CAD not supported by OANDA - excluding from monitoring
+2025-05-07 22:57:43,994 - ArbitrageTrader - WARNING - Currency pair JPY_AUD not supported by OANDA - excluding from monitoring
+2025-05-07 22:57:43,994 - ArbitrageTrader - WARNING - Currency pair JPY_NZD not supported by OANDA - excluding from monitoring
+2025-05-07 22:57:43,994 - ArbitrageTrader - WARNING - Currency pair CHF_CAD not supported by OANDA - excluding from monitoring
+2025-05-07 22:57:43,994 - ArbitrageTrader - WARNING - Currency pair CHF_AUD not supported by OANDA - excluding from monitoring
+2025-05-07 22:57:43,994 - ArbitrageTrader - WARNING - Currency pair CHF_NZD not supported by OANDA - excluding from monitoring
+2025-05-07 22:57:43,994 - ArbitrageTrader - WARNING - Currency pair CAD_AUD not supported by OANDA - excluding from monitoring
+2025-05-07 22:57:43,994 - ArbitrageTrader - WARNING - Currency pair CAD_NZD not supported by OANDA - excluding from monitoring
+2025-05-07 22:57:43,994 - ArbitrageTrader - WARNING - Currency pair NZD_AUD not supported by OANDA - excluding from monitoring
+2025-05-07 22:57:44,056 - ArbitrageTrader - INFO - OANDA Arbitrage Trader initialized in practice mode
+2025-05-07 22:57:44,056 - ArbitrageTrader - INFO - Account ID: 101-001-31395009-001
+2025-05-07 22:57:44,056 - ArbitrageTrader - INFO - Starting balance: 100177.6106
+2025-05-07 22:57:44,056 - ArbitrageTrader - INFO - Monitoring 68 valid currency pairs
+2025-05-07 22:57:44,124 - ArbitrageTrader - INFO - Starting arbitrage trading system with check interval 3s
+2025-05-07 22:57:44,273 - ArbitrageTrader - INFO - Initial account balance: 100177.6106
+2025-05-07 22:57:44,278 - ArbitrageTrader - INFO - LIVE MODE: Executing real trades
+2025-05-07 22:57:44,278 - ArbitrageTrader - INFO - Strategy adjusted for tokyo session: profit threshold=0.150%, check interval=5s
+2025-05-07 22:57:45,144 - ArbitrageTrader - INFO - Updated 136 exchange rates
+2025-05-07 22:57:45,317 - ArbitrageTrader - INFO - Trading conditions not optimal. Waiting...
+2025-05-07 22:57:51,322 - ArbitrageTrader - INFO - Strategy adjusted for tokyo session: profit threshold=0.150%, check interval=5s
+2025-05-07 22:57:52,027 - ArbitrageTrader - INFO - Updated 136 exchange rates
+2025-05-07 22:57:52,180 - ArbitrageTrader - INFO - Trading conditions not optimal. Waiting...
+2025-05-07 22:57:58,186 - ArbitrageTrader - INFO - Strategy adjusted for tokyo session: profit threshold=0.150%, check interval=5s
+2025-05-07 22:57:59,005 - ArbitrageTrader - INFO - Updated 136 exchange rates
+2025-05-07 22:57:59,086 - ArbitrageTrader - INFO - Trading conditions not optimal. Waiting...
+2025-05-07 22:58:05,244 - ArbitrageTrader - INFO - Strategy adjusted for tokyo session: profit threshold=0.150%, check interval=5s
+2025-05-07 22:58:06,094 - ArbitrageTrader - INFO - Updated 136 exchange rates
+2025-05-07 22:58:06,163 - ArbitrageTrader - INFO - Trading conditions not optimal. Waiting...
