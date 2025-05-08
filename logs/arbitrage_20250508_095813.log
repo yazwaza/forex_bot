@@ -40,3 +40,35 @@
 2025-05-08 09:58:30,909 - ArbitrageTrader - INFO - Order placed successfully: USD_JPY, 7212.7879631999995 units
 2025-05-08 09:58:30,910 - ArbitrageTrader - ERROR - Invalid execution details for USD_JPY
 2025-05-08 09:58:30,910 - ArbitrageTrader - WARNING - Trade failed: Invalid execution details
+2025-05-08 09:58:36,915 - ArbitrageTrader - INFO - Strategy adjusted for london_ny_overlap session: profit threshold=0.080%, check interval=1s
+2025-05-08 09:58:37,714 - ArbitrageTrader - INFO - Updated 136 exchange rates
+2025-05-08 09:58:37,802 - ArbitrageTrader - INFO - Found arbitrage opportunity: 0.4729% profit
+2025-05-08 09:58:37,875 - ArbitrageTrader - INFO - Executing arbitrage cycle with expected profit: 0.4729%
+2025-05-08 09:58:37,875 - ArbitrageTrader - INFO - Cycle: USD -> JPY -> TRY -> USD
+2025-05-08 09:58:38,037 - ArbitrageTrader - INFO - Order placed successfully: USD_JPY, 7212.7879631999995 units
+2025-05-08 09:58:38,038 - ArbitrageTrader - ERROR - Invalid execution details for USD_JPY
+2025-05-08 09:58:38,039 - ArbitrageTrader - WARNING - Trade failed: Invalid execution details
+2025-05-08 09:58:44,043 - ArbitrageTrader - INFO - Strategy adjusted for london_ny_overlap session: profit threshold=0.080%, check interval=1s
+2025-05-08 09:58:44,759 - ArbitrageTrader - INFO - Updated 136 exchange rates
+2025-05-08 09:58:44,841 - ArbitrageTrader - INFO - Found arbitrage opportunity: 0.4459% profit
+2025-05-08 09:58:44,939 - ArbitrageTrader - INFO - Executing arbitrage cycle with expected profit: 0.4459%
+2025-05-08 09:58:44,939 - ArbitrageTrader - INFO - Cycle: USD -> JPY -> TRY -> USD
+2025-05-08 09:58:45,158 - ArbitrageTrader - INFO - Order placed successfully: USD_JPY, 7212.7879631999995 units
+2025-05-08 09:58:45,159 - ArbitrageTrader - ERROR - Invalid execution details for USD_JPY
+2025-05-08 09:58:45,159 - ArbitrageTrader - WARNING - Trade failed: Invalid execution details
+2025-05-08 09:58:51,160 - ArbitrageTrader - INFO - Strategy adjusted for london_ny_overlap session: profit threshold=0.080%, check interval=1s
+2025-05-08 09:58:51,779 - ArbitrageTrader - INFO - Updated 136 exchange rates
+2025-05-08 09:58:51,868 - ArbitrageTrader - INFO - Found arbitrage opportunity: 0.4549% profit
+2025-05-08 09:58:51,942 - ArbitrageTrader - INFO - Executing arbitrage cycle with expected profit: 0.4549%
+2025-05-08 09:58:51,942 - ArbitrageTrader - INFO - Cycle: USD -> JPY -> TRY -> USD
+2025-05-08 09:58:52,105 - ArbitrageTrader - INFO - Order placed successfully: USD_JPY, 7212.7879631999995 units
+2025-05-08 09:58:52,105 - ArbitrageTrader - ERROR - Invalid execution details for USD_JPY
+2025-05-08 09:58:52,105 - ArbitrageTrader - WARNING - Trade failed: Invalid execution details
+2025-05-08 09:58:58,111 - ArbitrageTrader - INFO - Strategy adjusted for london_ny_overlap session: profit threshold=0.080%, check interval=1s
+2025-05-08 09:58:59,006 - ArbitrageTrader - INFO - Updated 136 exchange rates
+2025-05-08 09:58:59,088 - ArbitrageTrader - INFO - Found arbitrage opportunity: 0.4562% profit
+2025-05-08 09:58:59,174 - ArbitrageTrader - INFO - Executing arbitrage cycle with expected profit: 0.4562%
+2025-05-08 09:58:59,174 - ArbitrageTrader - INFO - Cycle: USD -> JPY -> TRY -> USD
+2025-05-08 09:58:59,321 - ArbitrageTrader - INFO - Order placed successfully: USD_JPY, 7212.7879631999995 units
+2025-05-08 09:58:59,322 - ArbitrageTrader - ERROR - Invalid execution details for USD_JPY
+2025-05-08 09:58:59,322 - ArbitrageTrader - WARNING - Trade failed: Invalid execution details
